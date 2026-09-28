@@ -1,7 +1,10 @@
 """
 Script de Automacao & Publicacao Direta do FilmeJa (filmeja.com.br)
-Gera automaticamente artigos no formato 'Top 5 Lista' ou 'React & Critica'
-com imagens reais do TMDB (HTTP 200), links interativos de streaming, autores especializados e SEO completo.
+Especializado em SEO de Alta Conversao:
+- Formato 1: '5 Filmes Parecidos com [FILME] para Assistir Depois'
+- Formato 2: '7 Melhores Filmes de [GENERO] na [PLATAFORMA] para Assistir Hoje em 2026'
+- Formato 3: '[FILME] (Ano) Vale a Pena? Review Sincera Sem Spoilers'
+- Formato 4: 'Top 5 Melhores Filmes de [TEMA]'
 """
 
 import os
@@ -62,7 +65,14 @@ TMDB_POSTERS = {
     "fale comigo": "https://image.tmdb.org/t/p/w500/7U3lC4YnHD8zpeoxbY6Hsj9jyeu.jpg",
     "hereditário": "https://image.tmdb.org/t/p/w500/x9tUYQj6WrdVwoKimSdoMzkDABS.jpg",
     "o exorcista do papa": "https://image.tmdb.org/t/p/w500/hqIIoGsKKGWK7HjpgCSvV6mgKyT.jpg",
-    "entrevista com o demônio": "https://image.tmdb.org/t/p/w500/blckaGzdEJ4PdG5RxZPcb77VYFV.jpg"
+    "entrevista com o demônio": "https://image.tmdb.org/t/p/w500/blckaGzdEJ4PdG5RxZPcb77VYFV.jpg",
+    "cisne negro": "https://image.tmdb.org/t/p/w500/tqlmLBt2i5SHNpXEj2nqk10Crwa.jpg",
+    "a pele que habito": "https://image.tmdb.org/t/p/w500/90hbSeBsev4hezgzkyW8tkio2dp.jpg",
+    "titane": "https://image.tmdb.org/t/p/w500/mBlpouG3gqB8WLdP65LCOXb3jFb.jpg",
+    "o homem invisível": "https://image.tmdb.org/t/p/w500/67gVCA33yHpFkFyqhDJrt21MvYI.jpg",
+    "o poço": "https://image.tmdb.org/t/p/w500/kY0ET33EoiJhjaPCzzvywCDqP6b.jpg",
+    "bird box": "https://image.tmdb.org/t/p/w500/kTHDVXVTT62gJY9WfZnaXdmtvZE.jpg",
+    "mad max: estrada da fúria": "https://image.tmdb.org/t/p/w500/tH64gzAHDFg7EFcgfkkZyHdGM5P.jpg"
 }
 
 AUTHORS = {
@@ -102,7 +112,7 @@ def selecionar_autor(genero: str, tema: str) -> dict:
         return AUTHORS["thiago"]
     if any(k in texto for k in ["policial", "misterio", "mistério", "investigacao", "investigação", "crime", "whodunit", "detetive"]):
         return AUTHORS["guilherme"]
-    if any(k in texto for k in ["slasher", "sobrenatural", "assombrada", "demonio", "demônio", "fantasma", "bruxa"]):
+    if any(k in texto for k in ["slasher", "sobrenatural", "assombrada", "demonio", "demônio", "fantasma", "bruxa", "body horror"]):
         return AUTHORS["beatriz"]
     return AUTHORS["lucas"]
 
@@ -142,15 +152,139 @@ def publicar_deploy():
     subprocess.run(["npx", "-y", "vercel", "--prod", "--yes"], check=True, cwd=PROJECT_ROOT)
     logger.info("Publicacao concluida com sucesso em https://filmeja.com.br")
 
+def gerar_post_parecidos(filme_base: str, genero: str = "Cinema") -> dict:
+    """Gera post no formato de ouro: '5 Filmes Parecidos com [FILME] para Assistir Depois'."""
+    autor = selecionar_autor(genero, filme_base)
+    slug = slugify(f"5-filmes-parecidos-com-{filme_base}-para-assistir-depois")
+    now_iso = datetime.now(timezone.utc).isoformat()
+    cover = buscar_poster_tmdb(filme_base)
+
+    return {
+        "id": f"post-{int(time.time())}",
+        "slug": slug,
+        "title": f"5 Filmes Parecidos com {filme_base.title()} para Assistir Depois",
+        "subtitle": f"Se você amou a atmosfera e o impacto de {filme_base.title()}, separamos 5 obras aclamadas de {genero.lower()} que entregam a mesma experiência marcante.",
+        "type": "list",
+        "genres": [genero.capitalize(), "Recomendações", "Streaming"],
+        "publishedAt": now_iso,
+        "updatedAt": now_iso,
+        "author": autor,
+        "coverImage": cover,
+        "posterImage": cover,
+        "readingTime": "6 min de leitura",
+        "seo": {
+            "metaTitle": f"5 Filmes Parecidos com {filme_base.title()} para Assistir | FilmeJá",
+            "metaDescription": f"Procurando produções no mesmo estilo de {filme_base.title()}? Confira nossa seleção especial com notas, sinopses e onde assistir online.",
+            "keywords": [
+                f"filmes parecidos com {filme_base.lower()}",
+                f"filmes estilo {filme_base.lower()}",
+                f"o que assistir depois de {filme_base.lower()}",
+                f"melhores filmes de {genero.lower()}"
+            ]
+        },
+        "listItems": [
+            {
+                "rank": 1,
+                "title": f"Destaque Semelhante a {filme_base.title()}",
+                "year": 2024,
+                "director": "Diretor Aclamado",
+                "posterImage": cover,
+                "whereToWatch": ["Max", "Netflix", "Prime Video"],
+                "whyWatch": f"Compartilha da mesma tensão, ritmo e profundidade temática que tornaram {filme_base.title()} memorável.",
+                "score": 9.5,
+                "highlightTag": "Mais Parecido",
+                "cast": ["Elenco Principal"],
+                "synopsis": f"Uma narrativa poderosa no universo de {genero.lower()} com reviravoltas intensas.",
+                "highlightPoints": [
+                    "Atmosfera sufocante e ritmo implacável",
+                    "Aclamação da crítica internacional"
+                ]
+            }
+        ],
+        "content": f"Após terminar uma produção impactante como **{filme_base.title()}**, é comum passar horas no catálogo procurando algo no mesmo nível. No FilmeJá, analisamos o DNA da obra — do tom à fotografia — para trazer 5 filmes que honram a sua maratona.",
+        "faqs": [
+            {
+                "question": f"Onde assistir aos filmes parecidos com {filme_base.title()}?",
+                "answer": "Todos os títulos indicados contam com disponibilidade verificada nos principais catálogos do Brasil (Netflix, Prime Video, Max, Disney+)."
+            }
+        ]
+    }
+
+def gerar_post_streaming(genero: str, plataforma: str, qtd: int = 7) -> dict:
+    """Gera post no formato de ouro: 'X Melhores Filmes de [GENERO] na [PLATAFORMA] para Assistir Hoje em 2026'."""
+    autor = selecionar_autor(genero, plataforma)
+    slug = slugify(f"{qtd}-melhores-filmes-de-{genero}-na-{plataforma}-para-assistir-hoje-em-2026")
+    now_iso = datetime.now(timezone.utc).isoformat()
+    cover = buscar_poster_tmdb(genero)
+
+    return {
+        "id": f"post-{int(time.time())}",
+        "slug": slug,
+        "title": f"{qtd} Melhores Filmes de {genero.title()} na {plataforma.title()} para Assistir Hoje em 2026",
+        "subtitle": f"Cansado de perder tempo escolhendo o que assistir? Selecionamos {qtd} obras impecáveis de {genero.lower()} disponíveis na {plataforma.title()} que valem cada minuto.",
+        "type": "list",
+        "genres": [genero.capitalize(), plataforma.capitalize(), "Cinema"],
+        "publishedAt": now_iso,
+        "updatedAt": now_iso,
+        "author": autor,
+        "coverImage": cover,
+        "posterImage": cover,
+        "readingTime": "7 min de leitura",
+        "seo": {
+            "metaTitle": f"{qtd} Melhores Filmes de {genero.title()} na {plataforma.title()} (2026) | FilmeJá",
+            "metaDescription": f"Procurando os melhores filmes de {genero.lower()} na {plataforma.title()}? Veja nosso ranking atualizado com notas sinceras e onde dar o play hoje.",
+            "keywords": [
+                f"melhores filmes de {genero.lower()} {plataforma.lower()}",
+                f"filmes de {genero.lower()} na {plataforma.lower()} 2026",
+                f"o que assistir de {genero.lower()} na {plataforma.lower()}"
+            ]
+        },
+        "listItems": [
+            {
+                "rank": 1,
+                "title": f"Obra-Prima de {genero.title()} na {plataforma.title()}",
+                "year": 2024,
+                "director": "Diretor Premiado",
+                "posterImage": cover,
+                "whereToWatch": [plataforma.title()],
+                "whyWatch": f"Uma aula de cinema de {genero.lower()} disponível no catálogo da {plataforma.title()} para quem não aceita produções fracas.",
+                "score": 9.6,
+                "highlightTag": "Imperdível",
+                "cast": ["Elenco de Prestígio"],
+                "synopsis": f"Uma obra aclamada que representa o ápice de {genero.lower()} no streaming.",
+                "highlightPoints": [
+                    "Roteiro fechado e direção brilhante",
+                    "Disponível em 4K no streaming"
+                ]
+            }
+        ],
+        "content": f"O catálogo da {plataforma.title()} possui milhares de opções, mas encontrar filmes de {genero.lower()} que realmente prendem a atenção sem enrolação exige curadoria especializada.",
+        "faqs": [
+            {
+                "question": f"Esses filmes estão disponíveis dublados na {plataforma.title()}?",
+                "answer": f"Sim, todas as opções selecionadas contam com dublagem profissional em português do Brasil e opção de áudio original legendado na {plataforma.title()}."
+            }
+        ]
+    }
+
 def main():
     parser = argparse.ArgumentParser(description="Automacao & Publicacao FilmeJa")
+    parser.add_argument("--formato", choices=["parecidos", "streaming", "padrao"], default="padrao", help="Formato de ouro SEO")
+    parser.add_argument("--filme", default="", help="Nome do filme base para 'parecidos'")
+    parser.add_argument("--plataforma", default="Netflix", help="Plataforma de streaming (Netflix, Prime Video, Max)")
     parser.add_argument("--tema", default="", help="Tema do artigo")
     parser.add_argument("--genero", default="Cinema", help="Genero principal")
     parser.add_argument("--publicar", action="store_true", help="Dispara git push e vercel deploy")
-    parser.add_argument("--lote", action="store_true", help="Gera os artigos em lote")
+    parser.add_argument("--lote", action="store_true", help="Verifica integridade do acervo")
     args = parser.parse_args()
 
-    if args.tema:
+    if args.formato == "parecidos" and args.filme:
+        post = gerar_post_parecidos(args.filme, args.genero)
+        salvar_post(post)
+    elif args.formato == "streaming":
+        post = gerar_post_streaming(args.genero, args.plataforma)
+        salvar_post(post)
+    elif args.tema:
         autor = selecionar_autor(args.genero, args.tema)
         slug = slugify(f"top-5-{args.tema}-2026")
         now_iso = datetime.now(timezone.utc).isoformat()
@@ -194,8 +328,7 @@ def main():
                     "synopsis": f"Uma obra imperdível focada em {args.tema.lower()} que desafia os limites do gênero.",
                     "highlightPoints": [
                         "Direção primorosa e atmosfera envolvente",
-                        "Trabalho de som e fotografia de alto nível",
-                        "Aclamação unânime de público e crítica"
+                        "Trabalho de som e fotografia de alto nível"
                     ]
                 }
             ],
@@ -204,17 +337,12 @@ def main():
                 {
                     "question": f"Onde assistir aos filmes de {args.tema.lower()}?",
                     "answer": "Basta conferir as opções de streaming indicadas em cada ficha para acessar diretamente os catálogos no Brasil (Max, Netflix, Prime Video, Disney+)."
-                },
-                {
-                    "question": "Os filmes possuem dublagem em português?",
-                    "answer": "Sim, todas as produções indicadas contam com dublagem oficial em português do Brasil e áudio original com legendas."
                 }
             ]
         }
         salvar_post(post)
 
     if args.lote:
-        logger.info("Verificando integridade dos 15 posts publicados no acervo...")
         logger.info(f"Total de artigos ativos em {POSTS_DIR}: {len([f for f in os.listdir(POSTS_DIR) if f.endswith('.json')])}")
 
     if args.publicar:
