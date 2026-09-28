@@ -1,0 +1,130 @@
+{
+  "id": "post-7",
+  "slug": "top-5-thrillers-investigativos-com-crimes-obsessivos",
+  "title": "Top 5 Thrillers Investigativos que Vão Deixar Você Obcecado até o Fim",
+  "subtitle": "Crimes metodicamente planejados, pistas cifradas e detetives levados à loucura: 5 obras-primas do suspense policial para maratonar hoje.",
+  "type": "list",
+  "genres": ["Suspense", "Policial", "Mistério"],
+  "publishedAt": "2026-03-27T18:45:00.000Z",
+  "updatedAt": "2026-03-27T18:45:00.000Z",
+  "author": {
+    "name": "Guilherme Santos",
+    "role": "Editor de Thrillers & Policiais",
+    "avatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=100&auto=format&fit=crop&q=80"
+  },
+  "coverImage": "https://image.tmdb.org/t/p/original/dZXYPSEaXCeigR2GEuZoukNmLTf.jpg",
+  "posterImage": "https://image.tmdb.org/t/p/w500/dZXYPSEaXCeigR2GEuZoukNmLTf.jpg",
+  "readingTime": "7 min de leitura",
+  "seo": {
+    "metaTitle": "Top 5 Thrillers Investigativos Imperdíveis | FilmeJá",
+    "metaDescription": "Adora filmes de detetive e crimes misteriosos? Veja os 5 melhores thrillers investigativos da história com finais surpreendentes e onde assistir.",
+    "keywords": [
+      "filmes investigativos",
+      "filmes de suspense policial",
+      "melhores filmes de detetive",
+      "seven os sete crimes capitais onde assistir",
+      "zodiaco filme streaming"
+    ]
+  },
+  "listItems": [
+    {
+      "rank": 1,
+      "title": "Seven: Os Sete Crimes Capitais",
+      "year": 1995,
+      "director": "David Fincher",
+      "posterImage": "https://image.tmdb.org/t/p/w500/dZXYPSEaXCeigR2GEuZoukNmLTf.jpg",
+      "whereToWatch": ["Max", "Prime Video"],
+      "whyWatch": "A régua máxima pela qual todos os thrillers policiais são medidos há quase 30 anos. A química entre Brad Pitt e Morgan Freeman enfrentando o plano diabólico de John Doe resulta no clímax mais devastador da história do cinema.",
+      "score": 9.8,
+      "highlightTag": "Obra Insuperável",
+      "cast": ["Brad Pitt", "Morgan Freeman", "Gwyneth Paltrow", "Kevin Spacey"],
+      "synopsis": "Dois detetives de homicídios — um veterano prestes a se aposentar e um jovem recém-chegado impulsivo — caçam um assassino em série meticuloso que usa os sete pecados capitais como tema de suas execuções.",
+      "highlightPoints": [
+        "Fotografia sombria de Darius Khondji com chuva contínua",
+        "Roteiro de Andrew Kevin Walker sem qualquer concessão a finais felizes",
+        "A icônica cena da caixa no deserto que marcou gerações"
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "Zodíaco (Zodiac)",
+      "year": 2007,
+      "director": "David Fincher",
+      "posterImage": "https://image.tmdb.org/t/p/w500/jFmlV5vUzOt1PgJ82efOhNsWcWX.jpg",
+      "whereToWatch": ["Max", "Prime Video"],
+      "whyWatch": "Mais do que um filme sobre assassinatos, Zodíaco é um retrato assustador sobre como a obsessão por respostas consome casamentos, carreiras e mentes. Jake Gyllenhaal e Robert Downey Jr. em atuações milimetricamente dosadas.",
+      "score": 9.6,
+      "highlightTag": "Fatos Reais",
+      "cast": ["Jake Gyllenhaal", "Mark Ruffalo", "Robert Downey Jr."],
+      "synopsis": "Cartunistas e jornalistas do San Francisco Chronicle unem forças com a polícia para decifrar cartas enigmáticas enviadas por um serial killer que aterroriza a Califórnia nos anos 60 e 70.",
+      "highlightPoints": [
+        "Fidelidade cirúrgica aos autos e depoimentos policiais reais",
+        "A claustrofóbica cena do porão que faz o coração disparar",
+        "Reconstituição de época premiada e fascinante"
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "Os Suspeitos (Prisoners)",
+      "year": 2013,
+      "director": "Denis Villeneuve",
+      "posterImage": "https://image.tmdb.org/t/p/w500/30YtzPOimO7eG30r8K8rUkqTGNj.jpg",
+      "whereToWatch": ["Max", "Prime Video"],
+      "whyWatch": "Denis Villeneuve cria uma teia labiríntica onde cada detalhe — um labirinto desenhado, uma cobra, um apito — esconde uma peça do quebra-cabeça. Hugh Jackman e Jake Gyllenhaal entregam o melhor de suas carreiras.",
+      "score": 9.3,
+      "highlightTag": "Tensão Sufocante",
+      "reviewSlug": "top-5-filmes-de-suspense-psicologico-com-finais-chocantes",
+      "cast": ["Hugh Jackman", "Jake Gyllenhaal", "Paul Dano", "Viola Davis"],
+      "synopsis": "O desaparecimento de duas garotas desencadeia uma investigação policial repleta de falsas pistas enquanto um pai atormentado decide cruzar todas as fronteiras morais.",
+      "highlightPoints": [
+        "Enredo fechado que recompensa o espectador observador",
+        "Trabalho magistral de iluminação e chuva fria"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "Garota Exemplar (Gone Girl)",
+      "year": 2014,
+      "director": "David Fincher",
+      "posterImage": "https://image.tmdb.org/t/p/w500/54nI3vSKlPp42WhJmKVRdmMbkzl.jpg",
+      "whereToWatch": ["Disney+", "Max"],
+      "whyWatch": "Um jogo psicológico sádico e fascinante. Gillian Flynn adaptou seu próprio livro para a tela sob a batuta fria de Fincher, mostrando como a narrativa pública é facilmente manipulada.",
+      "score": 9.2,
+      "highlightTag": "Mente Criminosa",
+      "cast": ["Ben Affleck", "Rosamund Pike", "Neil Patrick Harris"],
+      "synopsis": "Um homem vira o principal suspeito da polícia e da imprensa após o sumiço misterioso de sua esposa no aniversário de casamento.",
+      "highlightPoints": [
+        "Rosamund Pike em uma das melhores atuações femininas do século",
+        "Reviravolta estrutural brilhante no meio da exibição"
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "Ilha do Medo (Shutter Island)",
+      "year": 2010,
+      "director": "Martin Scorsese",
+      "posterImage": "https://image.tmdb.org/t/p/w500/erl801HYIodoIBGZeFk0GTwCUBh.jpg",
+      "whereToWatch": ["Netflix", "Telecine"],
+      "whyWatch": "O que começa como uma busca tradicional por uma paciente foragida torna-se um pesadelo paranoico onde as pistas reais e as ilusões mentais se confundem com maestria.",
+      "score": 9.4,
+      "highlightTag": "Plot Twist Mestre",
+      "cast": ["Leonardo DiCaprio", "Mark Ruffalo", "Ben Kingsley"],
+      "synopsis": "Dois agentes investigam um hospital psiquiátrico de segurança máxima cercado pelo mar e por um furacão iminente.",
+      "highlightPoints": [
+        "Direção vertiginosa de Scorsese com ecos do cinema noir",
+        "Desfecho que exige ser reassistido na hora"
+      ]
+    }
+  ],
+  "content": "Como aficionado por roteiros policiais, o que me cativa em um grande thriller investigativo não é a violência dos crimes, mas a sofisticação da caçada intelectual.\n\nQuando o roteirista planta uma pista no primeiro ato e faz o público ignorá-la até o desfecho implacável, o cinema atinge seu ápice. Os 5 títulos selecionados nesta lista são exemplares absolutos de precisão narrativa, atuações soberbas e resoluções que respeitam a inteligência do espectador.",
+  "faqs": [
+    {
+      "question": "Qual desses thrillers tem a melhor resolução?",
+      "answer": "Seven e Os Suspeitos possuem finais inesquecíveis. Seven pelo impacto trágico definitivo e Os Suspeitos pela precisão matemática com que todas as pistas se encaixam."
+    },
+    {
+      "question": "Zodíaco tem um final conclusivo?",
+      "answer": "O filme segue fielmente a história real do caso do Assassino do Zodíaco, o que significa que ele não entrega uma resolução fantasiosa, mas foca no peso psicológico da incerteza."
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "id": "post-8",
+  "slug": "react-alien-romulus-2024-suspense-espacial-vale-a-pena",
+  "title": "React: Alien: Romulus (2024) – O Retorno Triunfal do Suspense Claustrofóbico no Espaço",
+  "subtitle": "Analisamos o novo capítulo da icônica saga de ficção científica: efeitos práticos palpáveis, o terror puro dos xenomorfos e nosso veredito sem spoilers.",
+  "type": "react",
+  "genres": ["Ficção Científica", "Terror", "Suspense"],
+  "publishedAt": "2026-03-27T19:15:00.000Z",
+  "updatedAt": "2026-03-27T19:15:00.000Z",
+  "author": {
+    "name": "Camila Fontes",
+    "role": "Crítica de Sci-Fi & Fantasia",
+    "avatar": "https://images.unsplash.com/photo-1517841905240-472988babdf9?w=100&auto=format&fit=crop&q=80"
+  },
+  "coverImage": "https://image.tmdb.org/t/p/original/jB0W9tn4w07MFn7sTfqRTBLVytF.jpg",
+  "posterImage": "https://image.tmdb.org/t/p/w500/jB0W9tn4w07MFn7sTfqRTBLVytF.jpg",
+  "readingTime": "6 min de leitura",
+  "seo": {
+    "metaTitle": "React Alien: Romulus (2024): Crítica e Veredito | FilmeJá",
+    "metaDescription": "Vale a pena assistir Alien: Romulus no streaming? Confira nossa análise completa sem spoilers, detalhes de elenco, prós e contras e onde assistir.",
+    "keywords": [
+      "react alien romulus",
+      "critica alien romulus",
+      "alien romulus vale a pena",
+      "onde assistir alien romulus",
+      "filmes de ficcao cientifica 2024"
+    ]
+  },
+  "featuredMovie": {
+    "title": "Alien: Romulus",
+    "originalTitle": "Alien: Romulus",
+    "year": 2024,
+    "director": "Fede Alvarez",
+    "cast": ["Cailee Spaeny", "David Jonsson", "Archie Renaux", "Isabela Merced"],
+    "duration": "1h 59m",
+    "ratingTmdb": 7.2,
+    "ratingFilmeJa": 9.1,
+    "whereToWatch": ["Disney+", "Prime Video", "Apple TV"],
+    "trailerYoutubeId": "x0XDEhP4MQs",
+    "synopsis": "Um grupo de jovens trabalhadores de uma colônia de mineração espacial tenta escapar de uma vida de servidão eterna invadindo uma estação espacial abandonada da corporação Weyland-Yutani. Lá dentro, eles inadvertidamente despertam a forma de vida biológica mais letal do universo.",
+    "pros": [
+      "Retorno glorioso aos efeitos práticos, marionetes e cenários táteis reais",
+      "David Jonsson entrega uma performance brilhante como o sintetizador Andy, com camadas dramáticas tocantes",
+      "Uso genial da gravidade zero e do sangue ácido como elemento de quebra-cabeça de sobrevivência",
+      "Trilha sonora que homenageia as partituras originais de Jerry Goldsmith"
+    ],
+    "cons": [
+      "Alguns momentos de fanservice que poderiam ter sido mais sutis",
+      "O clímax final com a nova criatura divide opiniões mais conservadoras da franquia"
+    ],
+    "verdict": "Fede Alvarez conseguiu o que parecia improvável: costurar o terror intimista e claustrofóbico do clássico de 1979 com a adrenalina de ação e sobrevivência de James Cameron em 1986. Um acerto gigantesco para os fãs de sci-fi."
+  },
+  "content": "A ficção científica contemporânea frequentemente se perde no excesso de telas verdes estéreis e computação gráfica que não transmite perigo real. É por isso que **Alien: Romulus** chega como um sopro de oxigênio em pleno vácuo espacial.\n\nFede Alvarez compreendeu a premissa fundamental que tornou Ridley Scott lendário: o horror funciona quando o ambiente é sujo, enferrujado, úmido e táctil. Quando os facehuggers se arrastam pelo chão de metal com sons de carne molhada, o espectador encolhe as pernas no sofá.\n\nAlém disso, o coração emocional do filme repousa na relação entre Rain (Cailee Spaeny) e seu 'irmão' androide defeituoso Andy (David Jonsson). A discussão sobre o valor da vida humana versus as diretrizes corporativas frias da inteligência artificial confere peso filosófico autêntico à carnificina.",
+  "faqs": [
+    {
+      "question": "É preciso assistir aos outros 6 filmes da saga Alien para entender Romulus?",
+      "answer": "Não! A trama é cronologicamente situada entre 'Alien, o Oitavo Passageiro' (1979) e 'Aliens, o Resgate' (1986), mas os personagens e a missão são totalmente novos e autoexplicativos."
+    },
+    {
+      "question": "Onde posso assistir Alien: Romulus no Brasil?",
+      "answer": "O filme está disponível no catálogo de streaming da Disney+ e também para aluguel e compra no Prime Video e Apple TV."
+    }
+  ]
+}

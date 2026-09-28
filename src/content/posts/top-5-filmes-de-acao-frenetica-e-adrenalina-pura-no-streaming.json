@@ -1,0 +1,130 @@
+{
+  "id": "post-9",
+  "slug": "top-5-filmes-de-acao-frenetica-e-adrenalina-pura-no-streaming",
+  "title": "Top 5 Filmes de Ação Frenética e Adrenalina Pura para Ver Hoje",
+  "subtitle": "Sem enrolação, sem diálogos cansativos: apenas dublês de verdade, perseguições insanas e sequências de combate corpo a corpo que vão colar você no sofá.",
+  "type": "list",
+  "genres": ["Ação", "Sobrevivência", "Blockbuster"],
+  "publishedAt": "2026-03-27T20:00:00.000Z",
+  "updatedAt": "2026-03-27T20:00:00.000Z",
+  "author": {
+    "name": "Thiago Rocha",
+    "role": "Editor de Cinema Comercial & Ação",
+    "avatar": "https://images.unsplash.com/photo-1522075469751-3a6694fb2f61?w=100&auto=format&fit=crop&q=80"
+  },
+  "coverImage": "https://image.tmdb.org/t/p/original/tH64gzAHDFg7EFcgfkkZyHdGM5P.jpg",
+  "posterImage": "https://image.tmdb.org/t/p/w500/tH64gzAHDFg7EFcgfkkZyHdGM5P.jpg",
+  "readingTime": "6 min de leitura",
+  "seo": {
+    "metaTitle": "Top 5 Filmes de Ação com Adrenalina Máxima no Streaming | FilmeJá",
+    "metaDescription": "Quer ação sem pausa? Confira os 5 filmes mais empolgantes e velozes do cinema moderno, com Mad Max, Trem-Bala e onde assistir no streaming.",
+    "keywords": [
+      "melhores filmes de acao",
+      "filmes de acao streaming",
+      "mad max estrada da furia onde assistir",
+      "trem bala filme netflix",
+      "filmes com muita adrenalina"
+    ]
+  },
+  "listItems": [
+    {
+      "rank": 1,
+      "title": "Mad Max: Estrada da Fúria",
+      "year": 2015,
+      "director": "George Miller",
+      "posterImage": "https://image.tmdb.org/t/p/w500/tH64gzAHDFg7EFcgfkkZyHdGM5P.jpg",
+      "whereToWatch": ["Max", "Prime Video"],
+      "whyWatch": "Uma ópera de metal retorcido, fogo e tambores no deserto da Namíbia. Charlize Theron cria a lendária Imperatriz Furiosa e George Miller humilha 99% de Hollywood usando carros de verdade e dublês reais.",
+      "score": 9.9,
+      "highlightTag": "O Melhor do Século",
+      "cast": ["Tom Hardy", "Charlize Theron", "Nicholas Hoult"],
+      "synopsis": "Em um mundo pós-apocalíptico desértico governado por um tirano que controla a água, uma mulher rebelde rouba um caminhão de guerra e foge acompanhada por um prisioneiro nômade.",
+      "highlightPoints": [
+        "Vencedor de 6 prêmios Oscar técnicos",
+        "Uma perseguição contínua de duas horas sem barriga ou enrolação",
+        "Trilha sonora explosiva de Junkie XL"
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "Trem-Bala (Bullet Train)",
+      "year": 2022,
+      "director": "David Leitch",
+      "posterImage": "https://image.tmdb.org/t/p/w500/8gdBMIYwPPxp3b9FjY9yCxme5Rs.jpg",
+      "whereToWatch": ["Netflix", "Prime Video"],
+      "whyWatch": "Brad Pitt em estado de graça vivendo um mercenário pacifista azarado dentro do trem mais rápido do Japão, cercado por assassinos profissionais com personalidades birutas. É ágil, estiloso e divertidíssimo.",
+      "score": 9.1,
+      "highlightTag": "Ação & Comédia Ácida",
+      "cast": ["Brad Pitt", "Joey King", "Aaron Taylor-Johnson", "Brian Tyree Henry"],
+      "synopsis": "Cinco assassinos a bordo de um trem-bala veloz entre Tóquio e Quioto descobrem que suas missões individuais estão interligadas de forma caótica.",
+      "highlightPoints": [
+        "Coreografias de luta criativas usando garrafas térmicas e maletas",
+        "A dupla Lemon e Tangerine rouba a cena do início ao fim",
+        "Edição pop e ritmo de desenho animado hiperativo"
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "Resgate 2 (Extraction 2)",
+      "year": 2023,
+      "director": "Sam Hargrave",
+      "posterImage": "https://image.tmdb.org/t/p/w500/AfwqKLQwjgPu8bIL1mqhHTlnQv0.jpg",
+      "whereToWatch": ["Netflix"],
+      "whyWatch": "Chris Hemsworth em um plano-sequência insano de 21 minutos ininterruptos dentro de uma rebelião em prisão de segurança máxima que envolve trem em movimento e helicópteros. Sam Hargrave estabelece um novo padrão para ação na Netflix.",
+      "score": 8.9,
+      "highlightTag": "Combate Físico Bruto",
+      "cast": ["Chris Hemsworth", "Golshifteh Farahani", "Tornike Gogrichiani"],
+      "synopsis": "Após sobreviver por um triz à sua missão anterior, o mercenário Tyler Rake aceita resgatar a família torturada de um implacável mafioso georgiano de uma penitenciária impenetrável.",
+      "highlightPoints": [
+        "Plano-sequência de tirar o fôlego filmado no frio da Geórgia",
+        "Tiroteios e golpes corpo a corpo com peso e impacto real"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "No Limite do Amanhã (Edge of Tomorrow)",
+      "year": 2014,
+      "director": "Doug Liman",
+      "posterImage": "https://image.tmdb.org/t/p/w500/tH64gzAHDFg7EFcgfkkZyHdGM5P.jpg",
+      "whereToWatch": ["Max", "Prime Video"],
+      "whyWatch": "Tom Cruise e Emily Blunt em um loop temporal contra alienígenas letais. Uma estrutura dinâmica no estilo videogame onde cada morte ensina o protagonista a lutar melhor. Inteligente e absurdamente veloz.",
+      "score": 9.3,
+      "highlightTag": "Ficção & Ação",
+      "cast": ["Tom Cruise", "Emily Blunt", "Bill Paxton"],
+      "synopsis": "Um oficial covarde de relações públicas é forçado a ir para a linha de frente de uma guerra alienígena e fica preso em um loop que reinicia o dia cada vez que ele morre.",
+      "highlightPoints": [
+        "Emily Blunt lendária como o 'Anjo de Verdun'",
+        "Humor ácido inteligente em torno das mortes repetidas",
+        "Armaduras exoesqueleto reais pesando mais de 35 kg"
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "Top Gun: Maverick",
+      "year": 2022,
+      "director": "Joseph Kosinski",
+      "posterImage": "https://image.tmdb.org/t/p/w500/AfwqKLQwjgPu8bIL1mqhHTlnQv0.jpg",
+      "whereToWatch": ["Netflix", "Paramount+"],
+      "whyWatch": "O filme que salvou as salas de cinema pós-pandemia. Voos reais em caças F-18 com câmeras IMAX na cabine e uma missão final milimétrica que faz qualquer espectador roer as unhas.",
+      "score": 9.5,
+      "highlightTag": "Clímax Inesquecível",
+      "cast": ["Tom Cruise", "Miles Teller", "Jennifer Connelly"],
+      "synopsis": "Após trinta anos de serviço como um dos principais aviadores da Marinha, Pete 'Maverick' Mitchell treina um destacamento de graduados para uma missão especializada nunca tentada.",
+      "highlightPoints": [
+        "Gravidade real deformando os rostos dos atores nas manobras",
+        "Edição de som premiada e cinematografia aérea impressionante"
+      ]
+    }
+  ],
+  "content": "Para mim, um grande filme de ação precisa de três coisas inegociáveis: ritmo que não te deixa olhar o celular, dublês que colocam o corpo à prova e um clímax onde a recompensa emocional seja tão grandiosa quanto a explosão na tela.\n\nEsqueça os filmes genéricos onde os personagens ficam conversando em salas cinzentas por duas horas. As 5 produções selecionadas acima foram feitas para serem assistidas com o som no talo e uma tigela generosa de pipoca.",
+  "faqs": [
+    {
+      "question": "Qual desses filmes tem as melhores cenas de perseguição de carros?",
+      "answer": "Mad Max: Estrada da Fúria é imbatível. Quase todas as manobras e capotamentos foram feitos com veículos mecânicos reais customizados no deserto."
+    },
+    {
+      "question": "Onde posso assistir a esses filmes no Brasil?",
+      "answer": "Todos estão distribuídos entre a Netflix, Max e Prime Video com áudio dublado em alta definição e legendas em português."
+    }
+  ]
+}

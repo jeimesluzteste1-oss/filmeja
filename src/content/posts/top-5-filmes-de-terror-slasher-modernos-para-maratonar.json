@@ -1,0 +1,131 @@
+{
+  "id": "post-5",
+  "slug": "top-5-filmes-de-terror-slasher-modernos-para-maratonar",
+  "title": "Top 5 Filmes Slasher Modernos que Revitalizaram o Terror Sangrento",
+  "subtitle": "Máscaras icônicas, perseguições eletrizantes e mortes criativas: separei os 5 melhores slashers recentes que você precisa assistir com os amigos.",
+  "type": "list",
+  "genres": ["Terror", "Slasher", "Suspense"],
+  "publishedAt": "2026-03-27T16:00:00.000Z",
+  "updatedAt": "2026-03-27T16:00:00.000Z",
+  "author": {
+    "name": "Beatriz Silveira",
+    "role": "Crítica & Especialista em Terror",
+    "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=100&auto=format&fit=crop&q=80"
+  },
+  "coverImage": "https://image.tmdb.org/t/p/original/y6OLmLAAblvGPrBWqghWhi3xK5b.jpg",
+  "posterImage": "https://image.tmdb.org/t/p/w500/y6OLmLAAblvGPrBWqghWhi3xK5b.jpg",
+  "readingTime": "6 min de leitura",
+  "seo": {
+    "metaTitle": "Top 5 Filmes Slasher Modernos Imperdíveis | FilmeJá",
+    "metaDescription": "Gosta de terror slasher? Confira os 5 filmes mais sangrentos e divertidos dos últimos anos, com Ghostface, Art the Clown e onde assistir no streaming.",
+    "keywords": [
+      "filmes slasher",
+      "melhores filmes de terror slasher",
+      "panico 6 onde assistir",
+      "terrifier 2 streaming",
+      "filmes de terror sangrentos"
+    ]
+  },
+  "listItems": [
+    {
+      "rank": 1,
+      "title": "Pânico VI (Scream VI)",
+      "year": 2023,
+      "director": "Matt Bettinelli-Olpin & Tyler Gillett",
+      "posterImage": "https://image.tmdb.org/t/p/w500/y6OLmLAAblvGPrBWqghWhi3xK5b.jpg",
+      "whereToWatch": ["Netflix", "Paramount+", "Telecine"],
+      "whyWatch": "Levar o Ghostface para o metrô lotado de Nova York foi a melhor ideia da franquia em duas décadas. O ritmo não dá um segundo de trégua e a cena da loja de conveniência com espingarda é puro suco de tensão.",
+      "score": 9.2,
+      "highlightTag": "Melhor Ritmo",
+      "cast": ["Melissa Barrera", "Jenna Ortega", "Courteney Cox"],
+      "synopsis": "Os quatro sobreviventes dos assassinatos de Woodsboro deixam a cidade para trás e começam um novo capítulo em Nova York, mas um Ghostface mais implacável os persegue.",
+      "highlightPoints": [
+        "Ghostface brutal e agressivo como nunca se viu",
+        "Jenna Ortega e Melissa Barrera com química perfeita",
+        "Cenas claustrofóbicas no metrô em pleno Halloween"
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "Pearl",
+      "year": 2022,
+      "director": "Ti West",
+      "posterImage": "https://image.tmdb.org/t/p/w500/5RuUD7J4vO0El7TRL9guZIik0I0.jpg",
+      "whereToWatch": ["Max", "Prime Video"],
+      "whyWatch": "Mia Goth entrega uma das atuações mais insanas e eletrizantes da história do horror. O monólogo final sem piscar de quase 10 minutos já virou história do cinema pop.",
+      "score": 9.3,
+      "highlightTag": "Atuação Épica",
+      "cast": ["Mia Goth", "David Corenswet", "Tandi Wright"],
+      "synopsis": "Presa na fazenda isolada de sua família durante a gripe espanhola de 1918, a jovem Pearl sonha em ser uma estrela de cinema, mas sua frustração se transforma em uma matança sangrenta.",
+      "highlightPoints": [
+        "Estética Technicolor vibrante contrastando com assassinatos grotescos",
+        "Monólogo final hipnotizante de Mia Goth",
+        "Estudo psicológico sobre solidão e loucura"
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "X - A Marca da Morte",
+      "year": 2022,
+      "director": "Ti West",
+      "posterImage": "https://image.tmdb.org/t/p/w500/4BarWJRYFB5fN7LsJI9U2ul79hB.jpg",
+      "whereToWatch": ["Prime Video"],
+      "whyWatch": "Uma homenagem descarada e elegante ao 'Massacre da Serra Elétrica' dos anos 70. Tem sexo, tem sangue prático, tem humor ácido e um elenco afiadíssimo com Jenna Ortega e Mia Goth.",
+      "score": 8.9,
+      "highlightTag": "Slasher Clássico",
+      "cast": ["Mia Goth", "Jenna Ortega", "Brittany Snow", "Kid Cudi"],
+      "synopsis": "Em 1979, uma equipe de cineastas independentes aluga uma casa de hóspedes rural no Texas para gravar um filme adulto, sem imaginar as obsessões homicidas dos idosos donos da fazenda.",
+      "highlightPoints": [
+        "Fotografia granulada com textura genuína dos anos 70",
+        "Mortes criativas envolvendo jacarés e espingardas",
+        "Trilha sonora que dita o clima sufocante do Texas"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "Feriado Sangrento (Thanksgiving)",
+      "year": 2023,
+      "director": "Eli Roth",
+      "posterImage": "https://image.tmdb.org/t/p/w500/cN5ggPfc3YIUI2gc9ijRW6jIU2s.jpg",
+      "whereToWatch": ["Max", "Prime Video"],
+      "whyWatch": "Eli Roth fez o slasher mais divertido e visceral dos últimos anos. Mortes absurdas no estilo dos anos 80, zero pudor e uma crítica hilária ao consumismo frenético da Black Friday.",
+      "score": 8.5,
+      "highlightTag": "Gore Divertido",
+      "cast": ["Patrick Dempsey", "Addison Rae", "Milo Manheim"],
+      "synopsis": "Após uma confusão mortal na Black Friday, um assassino misterioso inspirado no Dia de Ação de Graças aterroriza a cidade de Plymouth, em Massachusetts.",
+      "highlightPoints": [
+        "Efeitos práticos impecáveis sem CGI barato",
+        "Mistério 'quem é o assassino' que prende até o fim",
+        "Perfeito para assistir em grupo comendo pipoca"
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "Terrifier 2",
+      "year": 2022,
+      "director": "Damien Leone",
+      "posterImage": "https://image.tmdb.org/t/p/w500/spkkTYZq38iyapjMy3CsxU5jK3s.jpg",
+      "whereToWatch": ["Prime Video"],
+      "whyWatch": "Aviso: não veja se você tiver estômago fraco! Art the Clown se consolidou como o novo ícone do terror moderno com maquiagem artesanal e violência sem qualquer censura comercial.",
+      "score": 8.3,
+      "highlightTag": "Ultraviolento",
+      "cast": ["David Howard Thornton", "Lauren LaVera", "Elliott Fullam"],
+      "synopsis": "Ressuscitado por uma entidade sinistra, Art o Palhaço retorna ao Condado de Miles para caçar uma adolescente e seu irmão mais novo na noite de Halloween.",
+      "highlightPoints": [
+        "O assassino mais expressivo e sádico do século XXI",
+        "Totalmente independente e sem amarras de grandes estúdios"
+      ]
+    }
+  ],
+  "content": "Quem disse que o terror slasher tinha morrido nos anos 90 com certeza não prestou atenção na enxurrada de obras incríveis lançadas recentemente.\n\nO que eu mais amo nesse gênero não é só a contagem de corpos: é a adrenalina do gato e rato, a tensão de olhar para trás no corredor escuro e aquele alívio gostoso de torcer pela final girl. Os 5 filmes acima provam que é possível inovar na violência visual, criar assassinos carismáticos e ainda entregar horas de puro entretenimento.",
+  "faqs": [
+    {
+      "question": "Qual desses slashers é o mais leve para quem tem medo?",
+      "answer": "Pânico VI e Feriado Sangrento são os mais equilibrados, pois misturam investigação, mistério e bom humor. Já Terrifier 2 deve ser evitado se você não gosta de violência explícita."
+    },
+    {
+      "question": "É preciso assistir a outros filmes para entender Pearl?",
+      "answer": "Não! Embora Pearl seja um prelúdio de 'X - A Marca da Morte', a história funciona perfeitamente de forma independente."
+    }
+  ]
+}

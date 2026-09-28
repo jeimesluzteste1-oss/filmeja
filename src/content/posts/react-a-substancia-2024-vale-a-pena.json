@@ -1,0 +1,64 @@
+{
+  "id": "post-6",
+  "slug": "react-a-substancia-2024-vale-a-pena",
+  "title": "React: A Substância (2024) – O Horror Corporal que Redefine o Medo da Decadência",
+  "subtitle": "Uma obra-prima grotesca e eletrizante: analisamos o body horror de Coralie Fargeat que consagrou Demi Moore e abalou o Festival de Cannes.",
+  "type": "react",
+  "genres": ["Terror", "Body Horror", "Drama"],
+  "publishedAt": "2026-03-27T17:30:00.000Z",
+  "updatedAt": "2026-03-27T17:30:00.000Z",
+  "author": {
+    "name": "Lucas Andrade",
+    "role": "Crítico Sênior & Editor-Chefe",
+    "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=100&auto=format&fit=crop&q=80"
+  },
+  "coverImage": "https://image.tmdb.org/t/p/original/vWeOgzlhnP1sS23H3rzctGHB9Nb.jpg",
+  "posterImage": "https://image.tmdb.org/t/p/w500/vWeOgzlhnP1sS23H3rzctGHB9Nb.jpg",
+  "readingTime": "6 min de leitura",
+  "seo": {
+    "metaTitle": "React A Substância (2024): Crítica e Veredito | FilmeJá",
+    "metaDescription": "Vale a pena assistir A Substância com Demi Moore? Veja nossa crítica completa, prós e contras, análise sem spoilers e onde assistir no streaming.",
+    "keywords": [
+      "react a substancia",
+      "critica the substance",
+      "demi moore a substancia",
+      "onde assistir a substancia",
+      "filmes de terror 2024"
+    ]
+  },
+  "featuredMovie": {
+    "title": "A Substância (The Substance)",
+    "originalTitle": "The Substance",
+    "year": 2024,
+    "director": "Coralie Fargeat",
+    "cast": ["Demi Moore", "Margaret Qualley", "Dennis Quaid", "Hugo Diego Garcia"],
+    "duration": "2h 21m",
+    "ratingTmdb": 7.3,
+    "ratingFilmeJa": 9.5,
+    "whereToWatch": ["MUBI", "Prime Video", "Apple TV"],
+    "trailerYoutubeId": "LNlrGhPdnC8",
+    "synopsis": "Uma estrela decadente da televisão que comanda um programa aeróbico é demitida no dia do seu aniversário de 50 anos por ser considerada 'velha demais'. Desesperada, ela aceita injetar uma substância secreta que gera uma versão mais jovem e perfeita de si mesma, contanto que obedeça a uma regra inflexível: dividir rigorosamente 7 dias para cada corpo.",
+    "pros": [
+      "Atuação monumental e corajosa de Demi Moore desnudando a própria vulnerabilidade",
+      "Margaret Qualley radiante e assustadoramente sedutora como a versão Sue",
+      "Efeitos práticos, látex e maquiagem sem uso de computação gráfica barata",
+      "Trilha sonora percussiva e hipnótica que dita uma pulsação cardíaca angustiante"
+    ],
+    "cons": [
+      "Terceiro ato intencionalmente hiperbólico que pode causar estranheza em quem espera um drama realista",
+      "Não recomendado para estômagos sensíveis a fluidos corporais"
+    ],
+    "verdict": "Um clássico instantâneo do cinema moderno. Coralie Fargeat pegou a tradição de David Cronenberg e elevou a um patamar de pop-art histérica, crítica e inesquecível. Um dos filmes mais importantes da década."
+  },
+  "content": "Assistir a **A Substância** no cinema ou no streaming é uma experiência física. Não há como permanecer impassível enquanto a câmera milimétrica de Coralie Fargeat aproxima o espectador das texturas da carne, dos dentes, das agulhas e do suor.\n\nA premissa de 'troca de corpos' poderia facilmente cair na superficialidade de um episódio comum de ficção científica, mas Fargeat entende que a verdadeira monstruosidade da narrativa não está na química clandestina da droga — está no patriarcado predatório que descarta mulheres como lixo a partir do momento em que suas rugas aparecem.\n\nDemi Moore entrega o papel de sua vida. Ver uma das maiores sex symbols dos anos 90 se desconstruir física e psicologicamente diante das lentes é um ato de bravura cinematográfica que merece todas as honrarias.",
+  "faqs": [
+    {
+      "question": "A Substância é muito nojento?",
+      "answer": "O filme abraça o body horror com muito entusiasmo nos últimos 40 minutos. Há sequências com próteses, agulhas e deformações bem explícitas, mas tudo realizado com um refinamento artístico surpreendente."
+    },
+    {
+      "question": "Onde posso assistir A Substância no Brasil?",
+      "answer": "O filme está disponível para streaming exclusivo para assinantes da MUBI e também para aluguel e compra digital no Prime Video e Apple TV."
+    }
+  ]
+}

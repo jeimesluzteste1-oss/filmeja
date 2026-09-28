@@ -3,17 +3,16 @@ import re
 import json
 
 movies = {
-    'nosferatu': '426063-nosferatu',
-    'smile2': '1100782-smile-2',
-    'first_omen': '437342-the-first-omen',
-    'substance': '933260-the-substance',
-    'longlegs': '1226578-longlegs',
-    'shutter_island': '11324-shutter-island',
-    'gone_girl': '210577-gone-girl',
-    'prisoners': '146233-prisoners',
-    'get_out': '419430-get-out',
-    'the_invitation': '306947-the-invitation',
-    'alien_romulus': '945961-alien-romulus'
+    'scream6': '768362-scream-vi',
+    'x': '760104-x',
+    'pearl': '944401-pearl',
+    'thanksgiving': '1071215-thanksgiving',
+    'terrifier2': '663712-terrifier-2',
+    'zodiac': '1949-zodiac',
+    'se7en': '807-se7en',
+    'bullet_train': '616037-bullet-train',
+    'mad_max': '76341-mad-max-fury-road',
+    'extraction2': '697843-extraction-2'
 }
 
 results = {}
