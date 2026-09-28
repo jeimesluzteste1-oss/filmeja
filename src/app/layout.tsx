@@ -1,48 +1,44 @@
 import type { Metadata } from 'next';
 import Link from 'next/link';
 import './globals.css';
-import { Film, Flame, Star, Sparkles, Popcorn, Compass } from 'lucide-react';
+import Logo from '@/components/Logo';
+import { Sparkles, Flame, Tv, Compass } from 'lucide-react';
 
 export const metadata: Metadata = {
   metadataBase: new URL('https://filmeja.com.br'),
   title: {
-    default: 'FilmeJá | Recomendações, Top Listas e Reacts de Filmes',
+    default: 'FilmeJá | Críticas, Rankings e Onde Assistir aos Melhores Filmes',
     template: '%s | FilmeJá',
   },
-  description: 'O seu portal definitivo de cinema: os melhores filmes de terror, suspense e lançamentos de 2025 e 2026, com análises sinceras, listas imperdíveis e onde assistir.',
+  description: 'O seu portal definitivo de cinema e streaming: os filmes de terror, suspense e lançamentos que realmente valem o seu tempo, com análises sinceras e sem spoilers.',
   keywords: [
     'filmes',
     'filme já',
     'filmeja',
     'recomendações de filmes',
-    'filmes de terror 2025',
-    'filmes de terror 2026',
+    'filmes de terror',
+    'filmes de suspense',
     'top 5 filmes',
     'onde assistir filmes',
-    'react de filmes',
-    'critica de cinema'
+    'critica de cinema',
+    'react filmes'
   ],
-  authors: [{ name: 'FilmeJá Editorial' }],
+  authors: [{ name: 'Redação FilmeJá' }],
   creator: 'FilmeJá',
   publisher: 'FilmeJá',
-  formatDetection: {
-    email: false,
-    address: false,
-    telephone: false,
-  },
   alternates: {
     canonical: 'https://filmeja.com.br',
   },
   openGraph: {
     title: 'FilmeJá | O Melhor do Cinema e Streaming',
-    description: 'Encontre o que assistir hoje: listas Top 5, análises sinceras e os filmes mais aterrorizantes e empolgantes.',
+    description: 'Encontre o que assistir hoje: rankings afiados, críticas sinceras e onde encontrar cada produção no Brasil.',
     url: 'https://filmeja.com.br',
     siteName: 'FilmeJá',
     locale: 'pt_BR',
     type: 'website',
     images: [
       {
-        url: 'https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=1200&auto=format&fit=crop&q=80',
+        url: 'https://image.tmdb.org/t/p/original/fbkUfzmVzEBFSt6p7VigknREIJT.jpg',
         width: 1200,
         height: 630,
         alt: 'FilmeJá - Portal de Cinema',
@@ -51,9 +47,9 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'FilmeJá | Recomendações e Reacts de Filmes',
+    title: 'FilmeJá | Críticas e Rankings de Cinema',
     description: 'Listas, críticas sinceras e recomendações dos melhores filmes.',
-    images: ['https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=1200&auto=format&fit=crop&q=80'],
+    images: ['https://image.tmdb.org/t/p/original/fbkUfzmVzEBFSt6p7VigknREIJT.jpg'],
   },
   robots: {
     index: true,
@@ -94,15 +90,11 @@ export default function RootLayout({
         />
       </head>
       <body>
-        {/* Header */}
+        {/* Header Profissional com Logo Autoral */}
         <header className="site-header">
           <div className="container header-inner">
-            <Link href="/" className="brand-logo" aria-label="FilmeJá Página Inicial">
-              <Film className="w-6 h-6 text-red-600" color="#e50914" size={28} />
-              <span>
-                Filme<span className="logo-accent">Já</span>
-              </span>
-              <span className="brand-badge">2026</span>
+            <Link href="/" aria-label="FilmeJá Página Inicial">
+              <Logo size="md" showTagline={true} />
             </Link>
 
             <nav className="main-nav" aria-label="Navegação Principal">
@@ -116,11 +108,11 @@ export default function RootLayout({
                 Suspense
               </Link>
               <Link href="/tipo/list" className="nav-link">
-                Top Listas
+                Rankings & Top 5
               </Link>
               <Link href="/tipo/react" className="nav-link nav-link-cta">
-                <Sparkles size={16} style={{ display: 'inline', marginRight: '4px', verticalAlign: 'middle' }} />
-                Reacts & Análises
+                <Sparkles size={15} style={{ display: 'inline', marginRight: '5px', verticalAlign: 'middle' }} />
+                Críticas & Reacts
               </Link>
             </nav>
           </div>
@@ -129,26 +121,25 @@ export default function RootLayout({
         {/* Conteúdo Principal */}
         <main>{children}</main>
 
-        {/* Footer */}
+        {/* Footer Editorial Limpo */}
         <footer className="site-footer">
           <div className="container">
             <div className="footer-grid">
               <div className="footer-brand">
-                <Link href="/" className="brand-logo">
-                  <Film color="#e50914" size={26} />
-                  <span>Filme<span className="logo-accent">Já</span></span>
+                <Link href="/">
+                  <Logo size="md" showTagline={true} />
                 </Link>
                 <p>
-                  O seu guia inteligente de cinema. Análises sinceras, listas dos melhores filmes,
-                  dicas de streaming e reacts dos lançamentos mais aguardados de 2025 e 2026.
+                  Curadoria independente de cinema e streaming. Análises sinceras, listas dos melhores filmes
+                  e onde assistir às produções mais marcantes da atualidade.
                 </p>
               </div>
 
               <div className="footer-col">
-                <h4>Gêneros em Alta</h4>
+                <h4>Gêneros</h4>
                 <ul className="footer-links">
-                  <li><Link href="/genero/terror">Filmes de Terror</Link></li>
-                  <li><Link href="/genero/suspense">Filmes de Suspense</Link></li>
+                  <li><Link href="/genero/terror">Terror & Horror</Link></li>
+                  <li><Link href="/genero/suspense">Suspense Psicológico</Link></li>
                   <li><Link href="/genero/sobrenatural">Sobrenatural</Link></li>
                   <li><Link href="/genero/mistério">Mistério & Ocultismo</Link></li>
                 </ul>
@@ -157,30 +148,29 @@ export default function RootLayout({
               <div className="footer-col">
                 <h4>Formatos</h4>
                 <ul className="footer-links">
-                  <li><Link href="/tipo/list">Listas Top 5 & Top 10</Link></li>
-                  <li><Link href="/tipo/react">Reacts Sem Spoilers</Link></li>
-                  <li><Link href="/onde-assistir">Onde Assistir no Streaming</Link></li>
-                  <li><Link href="/lancamentos-2026">Lançamentos 2026</Link></li>
+                  <li><Link href="/tipo/list">Rankings Top 5 & Top 10</Link></li>
+                  <li><Link href="/tipo/react">Críticas Sem Spoilers</Link></li>
+                  <li><Link href="/genero/cinema">Em Cartaz & Novidades</Link></li>
                 </ul>
               </div>
 
               <div className="footer-col">
-                <h4>Sobre & Contato</h4>
+                <h4>Editorial</h4>
                 <ul className="footer-links">
-                  <li><Link href="/sobre">Sobre o FilmeJá</Link></li>
-                  <li><Link href="/politica-de-privacidade">Política de Privacidade</Link></li>
+                  <li><Link href="/sobre">Sobre a Redação</Link></li>
+                  <li><Link href="/politica-de-privacidade">Privacidade</Link></li>
                   <li><Link href="/termos-de-uso">Termos de Uso</Link></li>
-                  <li><Link href="/contato">Fale Conosco</Link></li>
+                  <li><Link href="/contato">Contato</Link></li>
                 </ul>
               </div>
             </div>
 
             <div className="footer-bottom">
               <div>
-                &copy; {new Date().getFullYear()} FilmeJá (filmeja.com.br) &bull; Todos os direitos reservados.
+                &copy; {new Date().getFullYear()} FilmeJá. Todos os direitos reservados.
               </div>
-              <div>
-                Otimizado para o Google &bull; Core Web Vitals 100%
+              <div style={{ color: 'var(--text-sub)' }}>
+                Feito com paixão por cinema &bull; Curadoria independente
               </div>
             </div>
           </div>

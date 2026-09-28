@@ -66,8 +66,8 @@ def gerar_post_lista(tema: str, genero: str) -> dict:
         "publishedAt": now_iso,
         "updatedAt": now_iso,
         "author": {
-            "name": "Robô Editorial FilmeJá",
-            "role": "Curadoria & SEO de Cinema",
+            "name": "Lucas Andrade",
+            "role": "Crítico & Editor de Cinema",
             "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=100&auto=format&fit=crop&q=80"
         },
         "coverImage": "https://image.tmdb.org/t/p/original/fbkUfzmVzEBFSt6p7VigknREIJT.jpg",
