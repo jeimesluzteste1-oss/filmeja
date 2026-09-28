@@ -1,6 +1,7 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   images: {
+    unoptimized: true, // Desativa proxy do Vercel para eliminar erro 402 Payment Required e carregar 100% direto do TMDB/Unsplash
     remotePatterns: [
       {
         protocol: 'https',

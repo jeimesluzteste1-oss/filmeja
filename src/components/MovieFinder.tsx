@@ -1,6 +1,6 @@
 'use client';
 
-import React, { useState } from 'react';
+import React, { useState, useEffect } from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
 import { Sparkles, Tv, Star, ArrowRight, RefreshCw, Film } from 'lucide-react';
@@ -17,6 +17,56 @@ interface QuickMovie {
 }
 
 const MOVIES_DATABASE: QuickMovie[] = [
+  {
+    title: 'Duna: Parte 2',
+    year: 2024,
+    genre: 'Ficção Científica',
+    rating: 9.6,
+    platform: 'Max',
+    poster: 'https://image.tmdb.org/t/p/w500/VMy4UGsI2u3f4fALGeCqCdsQBb.jpg',
+    pitch: 'A batalha épica definitiva de ficção científica com efeitos monumentais e Austin Butler assustador.',
+    slug: 'react-duna-parte-2-2024-vale-a-pena',
+  },
+  {
+    title: 'A Sociedade da Neve',
+    year: 2023,
+    genre: 'Ação',
+    rating: 9.7,
+    platform: 'Netflix',
+    poster: 'https://image.tmdb.org/t/p/w500/7fQTmvKgVGxifieVryqqlxohkoW.jpg',
+    pitch: 'O retrato mais emocionante, respeitoso e visceral da sobrevivência humana nos Andes.',
+    slug: 'react-a-sociedade-da-neve-2023-vale-a-pena',
+  },
+  {
+    title: 'Interestelar',
+    year: 2014,
+    genre: 'Ficção Científica',
+    rating: 9.7,
+    platform: 'Max',
+    poster: 'https://image.tmdb.org/t/p/w500/tR1XVa5bxgdh2bRw2u0DzrgkO2l.jpg',
+    pitch: 'Uma viagem monumental pelo tempo, física quântica e buracos de minhoca sob a batuta de Nolan.',
+    slug: 'top-5-filmes-de-ficcao-cientifica-com-conceitos-brilhantes',
+  },
+  {
+    title: 'Entre Facas e Segredos',
+    year: 2019,
+    genre: 'Suspense',
+    rating: 9.6,
+    platform: 'Netflix',
+    poster: 'https://image.tmdb.org/t/p/w500/9H8PNc4JJRjPnfSh8gGukD0CbqQ.jpg',
+    pitch: 'Um mistério de assassinato engenhoso e divertido com Daniel Craig como o brilhante detetive Blanc.',
+    slug: 'top-5-filmes-de-misterio-quem-matou-whodunit',
+  },
+  {
+    title: 'Invocação do Mal',
+    year: 2013,
+    genre: 'Terror',
+    rating: 9.7,
+    platform: 'Max',
+    poster: 'https://image.tmdb.org/t/p/w500/1NxHKZW5DPbUFtbF3MxbdSyxRqU.jpg',
+    pitch: 'O ápice moderno do terror de casas assombradas com os investigadores paranormais Ed e Lorraine Warren.',
+    slug: 'top-5-filmes-de-terror-sobrenatural-e-casas-assombradas',
+  },
   {
     title: 'Nosferatu',
     year: 2024,
@@ -93,8 +143,13 @@ export default function MovieFinder() {
   const [selectedGenre, setSelectedGenre] = useState<string>('Todos');
   const [selectedMovie, setSelectedMovie] = useState<QuickMovie>(MOVIES_DATABASE[0]);
   const [isSpinning, setIsSpinning] = useState<boolean>(false);
+  const [imgHasError, setImgHasError] = useState<boolean>(false);
 
   const genres = ['Todos', 'Terror', 'Suspense', 'Ação', 'Ficção Científica'];
+
+  useEffect(() => {
+    setImgHasError(false);
+  }, [selectedMovie]);
 
   const handleRecommend = () => {
     setIsSpinning(true);
@@ -107,7 +162,7 @@ export default function MovieFinder() {
       const nextMovie = available[Math.floor(Math.random() * available.length)];
       setSelectedMovie(nextMovie);
       setIsSpinning(false);
-    }, 250);
+    }, 200);
   };
 
   return (
@@ -145,6 +200,7 @@ export default function MovieFinder() {
             gap: '8px',
             transform: isSpinning ? 'scale(0.96)' : 'none',
             transition: 'all 0.2s ease',
+            cursor: 'pointer',
           }}
         >
           <RefreshCw size={18} style={{ transform: isSpinning ? 'rotate(180deg)' : 'none', transition: 'transform 0.3s ease' }} />
@@ -167,6 +223,7 @@ export default function MovieFinder() {
               color: selectedGenre === g ? '#fff' : 'var(--text-muted)',
               border: `1px solid ${selectedGenre === g ? '#e50914' : 'rgba(255,255,255,0.1)'}`,
               transition: 'all 0.2s ease',
+              cursor: 'pointer',
             }}
           >
             {g}
@@ -186,13 +243,33 @@ export default function MovieFinder() {
           gap: '1.5rem',
           alignItems: 'center',
         }}>
-          <div style={{ position: 'relative', width: '120px', height: '180px', borderRadius: '8px', overflow: 'hidden', flexShrink: 0 }}>
-            <Image
-              src={selectedMovie.poster}
-              alt={selectedMovie.title}
-              fill
-              style={{ objectFit: 'cover' }}
-            />
+          <div style={{
+            position: 'relative',
+            width: '120px',
+            height: '180px',
+            borderRadius: '8px',
+            overflow: 'hidden',
+            flexShrink: 0,
+            background: '#1a1a24',
+            display: 'flex',
+            alignItems: 'center',
+            justifyContent: 'center',
+          }}>
+            {!imgHasError ? (
+              <Image
+                src={selectedMovie.poster}
+                alt={selectedMovie.title}
+                fill
+                unoptimized
+                style={{ objectFit: 'cover' }}
+                onError={() => setImgHasError(true)}
+              />
+            ) : (
+              <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center', gap: '8px', color: 'var(--text-muted)', textAlign: 'center', padding: '10px' }}>
+                <Film size={32} color="#e50914" />
+                <span style={{ fontSize: '0.75rem', fontWeight: 600 }}>{selectedMovie.title}</span>
+              </div>
+            )}
           </div>
 
           <div style={{ display: 'flex', flexDirection: 'column', gap: '0.6rem' }}>
