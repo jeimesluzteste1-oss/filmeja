@@ -1,5 +1,5 @@
 @echo off
-setlocal enabledelayedexpansion
+setlocal
 cd /d "%~dp0"
 
 echo ========================================================
@@ -7,13 +7,13 @@ echo        FILMEJA - GERADOR E PUBLICADOR AUTOMATICO
 echo ========================================================
 echo.
 
-REM Verifica se o Python esta instalado
+REM 1. Verifica se o Python esta instalado
 where python >nul 2>nul
 if %errorlevel% neq 0 (
     where py >nul 2>nul
     if %errorlevel% neq 0 (
         echo [ERRO] Python nao foi encontrado no sistema.
-        echo Instale o Python ou adicione ao PATH do Windows.
+        echo Por favor, instale o Python ou marque 'Add Python to PATH'.
         pause
         exit /b 1
     ) else (
@@ -24,31 +24,18 @@ if %errorlevel% neq 0 (
 )
 
 echo Escolha uma opcao:
-echo   [1] Gerar e publicar um artigo por tema personalizado
-echo   [2] Publicar alteracoes pendentes no GitHub e Vercel
-echo   [3] Executar geracao de lote (6 artigos de alta qualidade)
+echo   [1] Gerar e publicar novo artigo (tema personalizado)
+echo   [2] Publicar alteracoes pendentes (GitHub + Vercel)
+echo   [3] Sincronizar e verificar acervo de artigos
 echo.
-set /p OPCAO="Digite a opcao (1, 2 ou 3) [Padrao: 1]: "
-if "%OPCAO%"=="" set OPCAO=1
+choice /c 123 /n /m "Digite a opcao desejada [1, 2 ou 3]: "
+if errorlevel 3 goto :opcao_sincronizar
+if errorlevel 2 goto :fazer_deploy
+if errorlevel 1 goto :opcao_personalizado
 
-if "%OPCAO%"=="2" (
-    goto :fazer_deploy
-)
-
-if "%OPCAO%"=="3" (
-    echo.
-    echo [*] Gerando lote de 6 artigos com SEO otimizado e imagens TMDB...
-    %PYTHON_CMD% scripts/gerador_filmeja.py --lote
-    if %errorlevel% neq 0 (
-        echo [ERRO] Falha ao gerar lote de artigos.
-        pause
-        exit /b 1
-    )
-    goto :fazer_deploy
-)
-
+:opcao_personalizado
 echo.
-set /p TEMA="Digite o tema da lista (ex: suspense psicologico, sci-fi): "
+set /p TEMA="Digite o tema do artigo (ex: suspense psicologico, sci-fi): "
 if "%TEMA%"=="" (
     echo [ERRO] O tema nao pode ficar vazio.
     pause
@@ -66,17 +53,24 @@ if %errorlevel% neq 0 (
     pause
     exit /b 1
 )
+goto :fazer_deploy
+
+:opcao_sincronizar
+echo.
+echo [*] Verificando acervo e integridade dos posts...
+%PYTHON_CMD% scripts/gerador_filmeja.py --lote
+goto :fazer_deploy
 
 :fazer_deploy
 echo.
-echo [2/3] Sincronizando com GitHub e disparando deploy...
+echo [2/3] Sincronizando com GitHub...
 git add .
 git diff --cached --quiet
 if %errorlevel% neq 0 (
     git commit -m "feat: novos artigos publicados automaticamente"
     git push origin main
 ) else (
-    echo [AVISO] Nenhuma alteracao pendente para commit no Git.
+    echo [INFO] Nenhuma alteracao pendente para commit no Git.
 )
 
 echo.
@@ -85,7 +79,7 @@ call npx -y vercel --prod --yes
 
 echo.
 echo ========================================================
-echo   ARTIGO(S) PUBLICADO(S) COM SUCESSO EM:
-echo   https://filmeja.com.br
+echo   PUBLICACAO CONCLUIDA COM SUCESSO!
+echo   Acesse em: https://filmeja.com.br
 echo ========================================================
 pause
