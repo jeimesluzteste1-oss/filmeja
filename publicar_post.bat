@@ -1,25 +1,91 @@
 @echo off
-chcp 65001 > nul
+setlocal enabledelayedexpansion
+cd /d "%~dp0"
+
 echo ========================================================
-echo        🎬 FILMEJÁ - GERADOR E PUBLICADOR AUTOMÁTICO
+echo        FILMEJA - GERADOR E PUBLICADOR AUTOMATICO
 echo ========================================================
 echo.
-set /p TEMA="Digite o tema da lista (ex: suspense psicologico, terror 2026): "
-set /p GENERO="Digite o gênero principal (ex: Terror, Suspense, Sci-Fi): "
+
+REM Verifica se o Python esta instalado
+where python >nul 2>nul
+if %errorlevel% neq 0 (
+    where py >nul 2>nul
+    if %errorlevel% neq 0 (
+        echo [ERRO] Python nao foi encontrado no sistema.
+        echo Instale o Python ou adicione ao PATH do Windows.
+        pause
+        exit /b 1
+    ) else (
+        set PYTHON_CMD=py
+    )
+) else (
+    set PYTHON_CMD=python
+)
+
+echo Escolha uma opcao:
+echo   [1] Gerar e publicar um artigo por tema personalizado
+echo   [2] Publicar alteracoes pendentes no GitHub e Vercel
+echo   [3] Executar geracao de lote (6 artigos de alta qualidade)
+echo.
+set /p OPCAO="Digite a opcao (1, 2 ou 3) [Padrao: 1]: "
+if "%OPCAO%"=="" set OPCAO=1
+
+if "%OPCAO%"=="2" (
+    goto :fazer_deploy
+)
+
+if "%OPCAO%"=="3" (
+    echo.
+    echo [*] Gerando lote de 6 artigos com SEO otimizado e imagens TMDB...
+    %PYTHON_CMD% scripts/gerador_filmeja.py --lote
+    if %errorlevel% neq 0 (
+        echo [ERRO] Falha ao gerar lote de artigos.
+        pause
+        exit /b 1
+    )
+    goto :fazer_deploy
+)
+
+echo.
+set /p TEMA="Digite o tema da lista (ex: suspense psicologico, sci-fi): "
+if "%TEMA%"=="" (
+    echo [ERRO] O tema nao pode ficar vazio.
+    pause
+    exit /b 1
+)
+
+set /p GENERO="Digite o genero principal (ex: Suspense, Terror, Acao, Sci-Fi): "
+if "%GENERO%"=="" set GENERO=Cinema
 
 echo.
 echo [1/3] Gerando artigo com fotos reais e SEO otimizado...
-python scripts/gerador_filmeja.py --tema "%TEMA%" --genero "%GENERO%"
+%PYTHON_CMD% scripts/gerador_filmeja.py --tema "%TEMA%" --genero "%GENERO%"
+if %errorlevel% neq 0 (
+    echo [ERRO] Falha na geracao do artigo.
+    pause
+    exit /b 1
+)
+
+:fazer_deploy
+echo.
+echo [2/3] Sincronizando com GitHub e disparando deploy...
+git add .
+git diff --cached --quiet
+if %errorlevel% neq 0 (
+    git commit -m "feat: novos artigos publicados automaticamente"
+    git push origin main
+) else (
+    echo [AVISO] Nenhuma alteracao pendente para commit no Git.
+)
 
 echo.
-echo [2/3] Enviando para o GitHub e Vercel...
-git add .
-git commit -m "feat: novo post automatizado %TEMA%"
-git push
-npx vercel --prod --yes
+echo [3/3] Publicando versao de producao na Vercel...
+call npx -y vercel --prod --yes
 
 echo.
 echo ========================================================
-echo  🚀 POST PUBLICADO COM SUCESSO EM HTTPS://FILMEJA.COM.BR!
+echo   ARTIGO(S) PUBLICADO(S) COM SUCESSO EM:
+echo   https://filmeja.com.br
 echo ========================================================
 pause

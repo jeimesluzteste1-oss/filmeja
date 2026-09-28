@@ -1,0 +1,171 @@
+{
+  "id": "post-11",
+  "slug": "top-5-filmes-de-sobrevivencia-extrema-e-tensao",
+  "title": "Top 5 Filmes de Sobrevivência Extrema Onde Cada Segundo Vale uma Vida",
+  "subtitle": "Dos picos congelados dos Andes à imensidão fria do espaço: 5 filmes angustiantes e viscerais que testam a resistência do espírito humano sob condições extremas.",
+  "type": "list",
+  "genres": [
+    "Ação",
+    "Sobrevivência",
+    "Suspense"
+  ],
+  "publishedAt": "2026-09-28T10:15:00.000Z",
+  "updatedAt": "2026-09-28T10:15:00.000Z",
+  "author": {
+    "name": "Thiago Rocha",
+    "role": "Editor de Cinema Comercial & Ação",
+    "avatar": "https://images.unsplash.com/photo-1522075469751-3a6694fb2f61?w=100&auto=format&fit=crop&q=80"
+  },
+  "coverImage": "https://image.tmdb.org/t/p/w500/7fQTmvKgVGxifieVryqqlxohkoW.jpg",
+  "posterImage": "https://image.tmdb.org/t/p/w500/7fQTmvKgVGxifieVryqqlxohkoW.jpg",
+  "readingTime": "7 min de leitura",
+  "seo": {
+    "metaTitle": "Top 5 Filmes de Sobrevivência Extrema Imperdíveis | FilmeJá",
+    "metaDescription": "Filmes angustiantes de sobrevivência real e isolamento mortal. Confira as 5 produções mais intensas do cinema moderno com notas e onde assistir.",
+    "keywords": [
+      "filmes de sobrevivencia",
+      "filmes de tensao extrema",
+      "a sociedade da neve onde assistir",
+      "filmes de sobrevivencia no gelo",
+      "filmes inspirados em fatos reais de sobrevivencia"
+    ]
+  },
+  "listItems": [
+    {
+      "rank": 1,
+      "title": "A Sociedade da Neve",
+      "year": 2023,
+      "director": "J.A. Bayona",
+      "posterImage": "https://image.tmdb.org/t/p/w500/7fQTmvKgVGxifieVryqqlxohkoW.jpg",
+      "whereToWatch": [
+        "Netflix"
+      ],
+      "whyWatch": "O relato mais visceral e respeitoso já feito sobre o desastre aéreo dos Andes em 1972. J.A. Bayona coloca a câmera junto aos jovens atletas enfrentando temperaturas de 30 graus abaixo de zero, avalanches e decisões que desafiam a própria alma humana.",
+      "score": 9.7,
+      "highlightTag": "Fatos Reais & Visceral",
+      "reviewSlug": "react-a-sociedade-da-neve-2023-vale-a-pena",
+      "cast": [
+        "Enzo Vogrincic",
+        "Agustín Pardella",
+        "Matías Recalt"
+      ],
+      "synopsis": "Após a queda do voo 571 da Força Aérea Uruguaia em uma geleira remota nos Andes, os sobreviventes do time de rúgbi precisam encontrar formas desesperadas de se manterem vivos por mais de dois meses.",
+      "highlightPoints": [
+        "Filmado em locais reais na cordilheira dos Andes com realismo brutal",
+        "Apresentação comovente narrada pela voz inesquecível de Numa Turcatti",
+        "Indicado a dois prêmios no Oscar e recordista de visualizações no streaming"
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "O Regresso (The Revenant)",
+      "year": 2015,
+      "director": "Alejandro G. Iñárritu",
+      "posterImage": "https://image.tmdb.org/t/p/w500/hRotKKijqV6YibxnhSOureF5efx.jpg",
+      "whereToWatch": [
+        "Max",
+        "Prime Video"
+      ],
+      "whyWatch": "A consagração do Oscar de Leonardo DiCaprio após uma jornada de pura sobrevivência física. O ataque do urso e a luta contra o frio na América selvagem do século XIX são feitos com luz natural e tomadas contínuas de tirar o fôlego.",
+      "score": 9.5,
+      "highlightTag": "Vingança no Gelo",
+      "cast": [
+        "Leonardo DiCaprio",
+        "Tom Hardy",
+        "Domhnall Gleeson",
+        "Will Poulter"
+      ],
+      "synopsis": "Um explorador de fronteira é atacado violentamente por um urso pardo e deixado para morrer na floresta por membros de sua própria equipe de caçadores.",
+      "highlightPoints": [
+        "Fotografia histórica de Emmanuel Lubezki capturada inteiramente sob luz do sol",
+        "A cena do ataque do urso segue como uma das mais críveis da história do cinema",
+        "Duelo implacável entre Leonardo DiCaprio e Tom Hardy"
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "127 Horas",
+      "year": 2010,
+      "director": "Danny Boyle",
+      "posterImage": "https://image.tmdb.org/t/p/w500/fONsBTZIDqxMfHwlfUcCAb8ubr1.jpg",
+      "whereToWatch": [
+        "Disney+"
+      ],
+      "whyWatch": "Danny Boyle transforma um desfiladeiro de poucos metros em uma montanha-russa de adrenalina e dor. James Franco entrega a atuação da vida dele como o alpinista Aron Ralston preso sob uma rocha de 360 quilos.",
+      "score": 9.2,
+      "highlightTag": "Agonia Pura",
+      "cast": [
+        "James Franco",
+        "Amber Tamblyn",
+        "Kate Mara"
+      ],
+      "synopsis": "Durante uma caminhada solitária pelos cânions de Utah, um aventureiro fica com o braço preso por uma rocha desmoronada e enfrenta o dilema final entre a amputação e a morte certa.",
+      "highlightPoints": [
+        "Montagem ultradinâmica com cortes alucinantes característicos de Danny Boyle",
+        "Trilha sonora pulsante composta pelo lendário A.R. Rahman",
+        "Exemplo definitivo de coragem e instinto humano de sobrevivência"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "Gravidade (Gravity)",
+      "year": 2013,
+      "director": "Alfonso Cuarón",
+      "posterImage": "https://image.tmdb.org/t/p/w500/eHLufJ1bHy4PtEBJdPSTu4jIhZ0.jpg",
+      "whereToWatch": [
+        "Max",
+        "Prime Video"
+      ],
+      "whyWatch": "Sobrevivência no ambiente mais inóspito de todos: a órbita da Terra sem gravidade e sem oxigênio. Alfonso Cuarón entrega planos-sequência estonteantes de 15 minutos que deixam o coração na garganta.",
+      "score": 9.3,
+      "highlightTag": "Vácuo Espacial",
+      "cast": [
+        "Sandra Bullock",
+        "George Clooney"
+      ],
+      "synopsis": "Dois astronautas ficam à deriva no espaço sideral após detritos de um satélite destruírem o ônibus espacial deles em plena missão de rotina.",
+      "highlightPoints": [
+        "Sete Oscars vencidos, incluindo Melhor Diretor e Melhores Efeitos Visuais",
+        "Trabalho monumental de Sandra Bullock segurando o filme praticamente sozinha",
+        "Design de som opressor com silêncio realista no vácuo"
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "Um Lugar Silencioso: Dia Um",
+      "year": 2024,
+      "director": "Michael Sarnoski",
+      "posterImage": "https://image.tmdb.org/t/p/w500/pN9BtzUeqPIKybAu9baihz6YzyO.jpg",
+      "whereToWatch": [
+        "Paramount+",
+        "Prime Video"
+      ],
+      "whyWatch": "Sobrevivência urbana com criaturas cegas atraídas pelo menor ruído em uma Manhattan superpovoada. Lupita Nyong'o e seu gato de estimação garantem momentos de tensão quase insuportáveis.",
+      "score": 8.9,
+      "highlightTag": "Tensão Sonora",
+      "cast": [
+        "Lupita Nyong'o",
+        "Joseph Quinn",
+        "Djimon Hounsou",
+        "Alex Wolff"
+      ],
+      "synopsis": "Uma jovem com doença terminal tenta atravessar a cidade de Nova York tomada pelo caos e pela destruição no primeiríssimo dia da invasão dos monstros ultrassensíveis ao som.",
+      "highlightPoints": [
+        "Sequências sufocantes no metrô alagado de Nova York",
+        "Química emocionante entre Lupita Nyong'o e Joseph Quinn",
+        "Suspense sonoro onde um simples vidro quebrado significa sentença de morte"
+      ]
+    }
+  ],
+  "content": "Para quem é viciado em filmes com ritmo cardíaco acelerado, nada supera uma boa narrativa de sobrevivência humana. O que torna esses filmes especiais não é apenas a força física, mas a tenacidade psicológica dos personagens diante da morte iminente.\n\nCada minuto destas 5 produções coloca o espectador dentro da pele dos protagonistas. Prepare o fôlego porque relaxar no sofá não vai ser uma opção.",
+  "faqs": [
+    {
+      "question": "A história de A Sociedade da Neve é 100% verídica?",
+      "answer": "Sim, é baseada minuciosamente nos relatos documentados dos sobreviventes da tragédia dos Andes de 1972, com gravações supervisionadas pelas próprias famílias das vítimas."
+    },
+    {
+      "question": "Onde posso maratonar esses filmes de sobrevivência?",
+      "answer": "A Sociedade da Neve está disponível na Netflix; O Regresso e Gravidade estão no Max e Prime Video; 127 Horas está no Disney+; e Um Lugar Silencioso: Dia Um no Paramount+."
+    }
+  ]
+}

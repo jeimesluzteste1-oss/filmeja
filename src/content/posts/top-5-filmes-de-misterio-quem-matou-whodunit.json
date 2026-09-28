@@ -1,0 +1,174 @@
+{
+  "id": "post-12",
+  "slug": "top-5-filmes-de-misterio-quem-matou-whodunit",
+  "title": "Top 5 Filmes de Mistério Estilo 'Quem Matou?' com Reviravoltas Geniais",
+  "subtitle": "Segredos de família, mansões isoladas e detetives excêntricos: uma maratona obrigatória com os melhores 'whodunits' que desafiam o espectador a desvendar o crime antes do fim.",
+  "type": "list",
+  "genres": [
+    "Mistério",
+    "Suspense",
+    "Policial"
+  ],
+  "publishedAt": "2026-09-28T11:30:00.000Z",
+  "updatedAt": "2026-09-28T11:30:00.000Z",
+  "author": {
+    "name": "Guilherme Santos",
+    "role": "Editor de Thrillers & Policiais",
+    "avatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=100&auto=format&fit=crop&q=80"
+  },
+  "coverImage": "https://image.tmdb.org/t/p/w500/9H8PNc4JJRjPnfSh8gGukD0CbqQ.jpg",
+  "posterImage": "https://image.tmdb.org/t/p/w500/9H8PNc4JJRjPnfSh8gGukD0CbqQ.jpg",
+  "readingTime": "7 min de leitura",
+  "seo": {
+    "metaTitle": "Top 5 Filmes de Mistério Estilo Quem Matou? (Whodunit) | FilmeJá",
+    "metaDescription": "Gosta de filmes de mistério e investigação com reviravoltas? Conheça os 5 melhores filmes whodunit contemporâneos e onde assistir online.",
+    "keywords": [
+      "filmes de misterio quem matou",
+      "filmes estilo knives out",
+      "melhores whodunit",
+      "entre facas e segredos onde assistir",
+      "filmes de investigacao policial"
+    ]
+  },
+  "listItems": [
+    {
+      "rank": 1,
+      "title": "Entre Facas e Segredos (Knives Out)",
+      "year": 2019,
+      "director": "Rian Johnson",
+      "posterImage": "https://image.tmdb.org/t/p/w500/9H8PNc4JJRjPnfSh8gGukD0CbqQ.jpg",
+      "whereToWatch": [
+        "Netflix",
+        "Prime Video"
+      ],
+      "whyWatch": "O filme que ressuscitou o amor mundial pelo subgênero 'whodunit'. Rian Johnson subverte a estrutura tradicional logo no primeiro ato, transformando a investigação do detetive Benoit Blanc em um jogo de gato e rato irresistível.",
+      "score": 9.6,
+      "highlightTag": "Redefiniu o Gênero",
+      "cast": [
+        "Daniel Craig",
+        "Ana de Armas",
+        "Chris Evans",
+        "Jamie Lee Curtis"
+      ],
+      "synopsis": "Após a morte misteriosa de um patriarca milionário e autor de livros policiais em sua mansão, o renomado e peculiar detetive Benoit Blanc é contratado anonimamente para investigar a família repleta de interesses escusos.",
+      "highlightPoints": [
+        "Elenco de astros em atuações divertidas e venenosas",
+        "Roteiro premiado que esconde pistas cruciais em planos casuais de fundo",
+        "Estreia memorável de Benoit Blanc como um dos grandes detetives da cultura pop"
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "Os Suspeitos de Sempre (The Usual Suspects)",
+      "year": 1995,
+      "director": "Bryan Singer",
+      "posterImage": "https://image.tmdb.org/t/p/w500/8RrGQ3kSiu2JJatkQ3o0DdXUGUU.jpg",
+      "whereToWatch": [
+        "Prime Video",
+        "Apple TV"
+      ],
+      "whyWatch": "Dono do plot twist mais emblemático e reverenciado da história do cinema policial moderno. O interrogatório entre o agente aduaneiro e o vigarista manco Verbal Kint é uma aula de roteiro que mereceu o Oscar com sobras.",
+      "score": 9.5,
+      "highlightTag": "Plot Twist Supremo",
+      "cast": [
+        "Kevin Spacey",
+        "Gabriel Byrne",
+        "Benicio del Toro",
+        "Chazz Palminteri"
+      ],
+      "synopsis": "O único sobrevivente de um massacre ocorrido em um navio cargueiro narra à polícia como um grupo de cinco criminosos foi coagido pelo lendário e invisível senhor do crime Keyser Söze.",
+      "highlightPoints": [
+        "Roteiro impecável de Christopher McQuarrie vencedor do Oscar",
+        "A mítica construção do vilão Keyser Söze",
+        "Desfecho antológico onde cada objeto na sala de interrogatório ganha um novo significado"
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "Glass Onion: Um Mistério Knives Out",
+      "year": 2022,
+      "director": "Rian Johnson",
+      "posterImage": "https://image.tmdb.org/t/p/w500/zQJcENHbZUpLQ8RKYt9wTzcXCwv.jpg",
+      "whereToWatch": [
+        "Netflix"
+      ],
+      "whyWatch": "Mais espalhafatoso, cômico e satírico que o primeiro. Uma ilha particular na Grécia serve de cenário para o detetive Blanc desvendar a arrogância e a hipocrisia de um grupo de bilionários do Vale do Silício.",
+      "score": 9.0,
+      "highlightTag": "Sátira & Quebra-Cabeça",
+      "cast": [
+        "Daniel Craig",
+        "Edward Norton",
+        "Janelle Monáe",
+        "Kate Hudson"
+      ],
+      "synopsis": "O bilionário da tecnologia Miles Bron convida seus amigos íntimos para um jogo de assassinato em sua ilha grega, mas uma morte genuína acontece e transforma o fim de semana em pesadelo.",
+      "highlightPoints": [
+        "Janelle Monáe entrega uma atuação dupla hipnotizante e eletrizante",
+        "Crítica afiada à cultura dos falsos gênios do Vale do Silício",
+        "Estrutura com flashback central que vira toda a narrativa de cabeça para baixo"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "Assassinato no Expresso do Oriente",
+      "year": 2017,
+      "director": "Kenneth Branagh",
+      "posterImage": "https://image.tmdb.org/t/p/w500/quZnHOVKVbFR7IdXBI9J0ONb7Jk.jpg",
+      "whereToWatch": [
+        "Disney+"
+      ],
+      "whyWatch": "O charme aristocrático e o mistério definitivo da Rainha do Crime, Agatha Christie. Kenneth Branagh dirige e protagoniza como o inconfundível detetive belga Hercule Poirot com seu icônico bigode e inteligência cirúrgica.",
+      "score": 8.8,
+      "highlightTag": "Agatha Christie",
+      "cast": [
+        "Kenneth Branagh",
+        "Penélope Cruz",
+        "Willem Dafoe",
+        "Daisy Ridley",
+        "Johnny Depp"
+      ],
+      "synopsis": "Um assassinato ocorre em um luxuoso trem de passageiros preso por uma nevasca nas montanhas dos Balcãs. Treze passageiros suspeitos são interrogados por Hercule Poirot.",
+      "highlightPoints": [
+        "Fotografia exuberante em película de 65mm",
+        "Figurinos de época impecáveis e atmosfera acolhedora e claustrofóbica",
+        "A histórica resolução moral sobre justiça e vingança"
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "Veja Como Eles Correm (See How They Run)",
+      "year": 2022,
+      "director": "Tom George",
+      "posterImage": "https://image.tmdb.org/t/p/w500/dHjMrsrhgLcwKLIfReRxt9rFBFk.jpg",
+      "whereToWatch": [
+        "Disney+"
+      ],
+      "whyWatch": "Uma comédia policial elegante e espirituosa ambientada nos teatros do West End londrino dos anos 50. A dinâmica entre o cansado inspetor Stoppard (Sam Rockwell) e a entusiasmada novata Constable Stalker (Saoirse Ronan) é puro ouro cinematográfico.",
+      "score": 8.7,
+      "highlightTag": "Charme Britânico",
+      "cast": [
+        "Sam Rockwell",
+        "Saoirse Ronan",
+        "Adrien Brody",
+        "Ruth Wilson"
+      ],
+      "synopsis": "No West End de Londres na década de 1950, os planos para a versão cinematográfica de uma peça de sucesso são abruptamente interrompidos quando um membro crucial da produção é assassinado.",
+      "highlightPoints": [
+        "Timing cômico impecável de Saoirse Ronan anotando tudo obsessivamente",
+        "Homenagem inteligente e divertida aos clássicos de teatro de mistério",
+        "Ritmo rápido de 98 minutos sem qualquer gordura narrativa"
+      ]
+    }
+  ],
+  "content": "Como escritor de narrativas policiais, meu maior prazer ao assistir a um mistério do tipo 'whodunit' é tentar vencer o roteirista na sua própria armadilha. Um grande mistério precisa ser justo: ele tem a obrigação de colocar todas as pistas diante dos olhos do espectador, para que no desfecho a surpresa seja acompanhada do sentimento 'eu poderia ter descoberto'.\n\nEstes 5 filmes cumprem essa promessa à perfeição. São quebra-cabeças elegantes, divertidos e com atuações de altíssimo calibre.",
+  "faqs": [
+    {
+      "question": "É preciso assistir Entre Facas e Segredos antes de Glass Onion?",
+      "answer": "Não! As duas histórias são casos policiais totalmente independentes do detetive Benoit Blanc. Você pode assistir a qualquer um deles sem se preocupar com ordem cronológica."
+    },
+    {
+      "question": "O que significa exatamente o termo 'whodunit'?",
+      "answer": "É uma contração da expressão em inglês 'Who done it?' (Quem fez isso?). É o clássico formato de história onde um assassinato acontece em ambiente fechado com múltiplos suspeitos e um investigador tentando deduzir o culpado."
+    }
+  ]
+}

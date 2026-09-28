@@ -1,0 +1,82 @@
+{
+  "id": "post-14",
+  "slug": "react-duna-parte-2-2024-vale-a-pena",
+  "title": "React: Duna: Parte 2 (2024) – O Épico Espacial de Denis Villeneuve Vale a Pena no Streaming?",
+  "subtitle": "Analisamos o desfecho da jornada de Paul Atreides em Arrakis: design sonoro assombroso de Hans Zimmer, a atuação assustadora de Austin Butler e o nosso veredito final sem spoilers.",
+  "type": "react",
+  "genres": [
+    "Ficção Científica",
+    "Aventura",
+    "Cinema"
+  ],
+  "publishedAt": "2026-09-28T13:30:00.000Z",
+  "updatedAt": "2026-09-28T13:30:00.000Z",
+  "author": {
+    "name": "Lucas Andrade",
+    "role": "Crítico Sênior & Editor-Chefe",
+    "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=100&auto=format&fit=crop&q=80"
+  },
+  "coverImage": "https://image.tmdb.org/t/p/w500/VMy4UGsI2u3f4fALGeCqCdsQBb.jpg",
+  "posterImage": "https://image.tmdb.org/t/p/w500/VMy4UGsI2u3f4fALGeCqCdsQBb.jpg",
+  "readingTime": "6 min de leitura",
+  "seo": {
+    "metaTitle": "React Duna 2 (2024): Crítica Completa e Veredito | FilmeJá",
+    "metaDescription": "Vale a pena assistir Duna: Parte 2 no streaming? Veja nosso react sem spoilers, análise de direção de Denis Villeneuve, atuações e nota final.",
+    "keywords": [
+      "react duna parte 2",
+      "duna 2 vale a pena",
+      "critica duna 2 2024",
+      "onde assistir duna parte 2",
+      "denis villeneuve duna 2 analise"
+    ]
+  },
+  "featuredMovie": {
+    "title": "Duna: Parte 2",
+    "originalTitle": "Dune: Part Two",
+    "year": 2024,
+    "director": "Denis Villeneuve",
+    "cast": [
+      "Timothée Chalamet",
+      "Zendaya",
+      "Austin Butler",
+      "Rebecca Ferguson",
+      "Javier Bardem",
+      "Josh Brolin"
+    ],
+    "duration": "2h 46m",
+    "ratingTmdb": 8.5,
+    "ratingFilmeJa": 9.6,
+    "whereToWatch": [
+      "Max",
+      "Prime Video"
+    ],
+    "trailerYoutubeId": "Way9Dexny3w",
+    "synopsis": "Paul Atreides se une a Chani e aos guerreiros Fremen enquanto arquiteta vingança contra os conspiradores que destruíram sua linhagem. Diante de visões aterrorizantes de um futuro em chamas, ele é forçado a escolher entre o amor e o destino do cosmos.",
+    "pros": [
+      "Escala visual megalítica e design de som de Hans Zimmer que vibra no peito",
+      "Austin Butler absolutamente assustador e magnético como Feyd-Rautha Harkonnen",
+      "A sequência em que Paul monta no maior verme de areia é um ápice técnico do cinema",
+      "Roteiro corajoso que questiona os perigos do fanatismo religioso e falsos messias"
+    ],
+    "cons": [
+      "Primeira hora densa e detalhista que exige atenção aos nomes e costumes das tribos",
+      "Quase 3 horas de duração que pedem tempo reservado para não perder o fôlego"
+    ],
+    "verdict": "Duna: Parte 2 não é apenas o grande blockbuster de ficção científica da nossa geração; é um feito artístico que evoca a grandiosidade de O Senhor dos Anéis: O Retorno do Rei. Denis Villeneuve provou mais uma vez que é possível fazer cinema monumental sem subestimar a inteligência do espectador."
+  },
+  "content": "Se o primeiro filme de 2021 funcionou como um prólogo meticuloso que preparava o tabuleiro, **Duna: Parte 2** é o ataque devastador que todos esperavam.\n\nDenis Villeneuve não hesita em mergulhar nas camadas mais espinhosas do livro clássico de Frank Herbert. Paul Atreides (Timothée Chalamet) não é tratado como um herói genérico de contos de fadas, mas como uma figura trágica e perigosa cujas escolhas desencadeiam uma tempestade santa incontrolável através da galáxia.\n\nVisualmente, a fotografia de Greig Fraser é uma pintura contínua. As sequências no planeta Giedi Prime, filmadas em infravermelho monocromático de alto contraste, são simplesmente hipnóticas. E a introdução do gladiador sádico Feyd-Rautha, interpretado por um Austin Butler totalmente careca e com olhar psicopático, rouba cada segundo de cena.\n\nSeja na tela grande ou numa boa TV com som envolvente, assistir a Duna: Parte 2 é testemunhar a história do cinema moderno sendo escrita.",
+  "faqs": [
+    {
+      "question": "Preciso assistir ao primeiro Duna (2021) antes de ver a Parte 2?",
+      "answer": "Sim, é fundamental. Duna: Parte 2 começa exatamente no segundo em que o primeiro filme terminou. Para entender as motivações de Paul, a perda do Duque Leto e a política do Império, assista ao primeiro capítulo."
+    },
+    {
+      "question": "Haverá um Duna: Parte 3?",
+      "answer": "Sim! Denis Villeneuve e a Warner Bros. já confirmaram o desenvolvimento de Duna: Messias, que adaptará o segundo livro de Frank Herbert para fechar a trilogia de Paul Atreides."
+    },
+    {
+      "question": "Onde Duna: Parte 2 está disponível no streaming?",
+      "answer": "O filme está disponível para assinantes no catálogo do Max (antigo HBO Max) e também para aluguel e compra no Prime Video e Apple TV com suporte a 4K Dolby Vision e áudio Dolby Atmos."
+    }
+  ]
+}
