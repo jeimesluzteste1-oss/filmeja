@@ -1,0 +1,68 @@
+{
+  "id": "post-2",
+  "slug": "react-nosferatu-2024-robert-eggers-vale-a-pena",
+  "title": "React: Nosferatu (2024) – A Obra-Prima Gótica de Robert Eggers Vale a Pena?",
+  "subtitle": "Assistimos ao novo remake de Nosferatu: confira nossas impressões sinceras, análise da atuação de Bill Skarsgård e o veredito final sem spoilers.",
+  "type": "react",
+  "genres": ["Terror", "Gótico", "Suspense"],
+  "publishedAt": "2026-03-20T14:30:00.000Z",
+  "updatedAt": "2026-03-20T14:30:00.000Z",
+  "author": {
+    "name": "Equipe FilmeJá",
+    "role": "Crítico Especialista",
+    "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=100&auto=format&fit=crop&q=80"
+  },
+  "coverImage": "https://image.tmdb.org/t/p/original/5qGIxdEWdyEbNIJnIQ5y0L2wmJt.jpg",
+  "posterImage": "https://image.tmdb.org/t/p/w500/5qGIxdEWdyEbNIJnIQ5y0L2wmJt.jpg",
+  "readingTime": "5 min de leitura",
+  "seo": {
+    "metaTitle": "React Nosferatu (2024): Crítica Completa e Veredito | FilmeJá",
+    "metaDescription": "Vale a pena assistir Nosferatu de Robert Eggers? Veja nosso react sem spoilers, análise de elenco, nota final e onde assistir no streaming.",
+    "keywords": [
+      "react nosferatu 2024",
+      "nosferatu vale a pena",
+      "critica nosferatu robert eggers",
+      "bill skarsgard nosferatu",
+      "onde assistir nosferatu"
+    ]
+  },
+  "featuredMovie": {
+    "title": "Nosferatu",
+    "originalTitle": "Nosferatu",
+    "year": 2024,
+    "director": "Robert Eggers",
+    "cast": ["Bill Skarsgård", "Lily-Rose Depp", "Nicholas Hoult", "Willem Dafoe", "Aaron Taylor-Johnson"],
+    "duration": "2h 12m",
+    "ratingTmdb": 7.8,
+    "ratingFilmeJa": 9.4,
+    "whereToWatch": ["Cinemas", "Prime Video (Aluguel)", "Apple TV"],
+    "trailerYoutubeId": "nulvWqYUM8k",
+    "synopsis": "Nosferatu é um conto gótico de obsessão entre uma jovem assombrada na Alemanha do século XIX e o antigo vampiro da Transilvânia que a persegue, trazendo consigo um rastro incalculável de horror e peste.",
+    "pros": [
+      "Direção de arte e iluminação natural estarrecedoras",
+      "Bill Skarsgård cria um conde Orlok tenebroso e repulsivo",
+      "Design de som opressor que mantém a tensão do primeiro ao último minuto",
+      "Lily-Rose Depp entrega sua melhor atuação dramática até hoje"
+    ],
+    "cons": [
+      "Ritmo deliberadamente lento no segundo ato (pode afastar fãs de sustos rápidos)",
+      "Exige paciência para absorver o diálogo de época requintado"
+    ],
+    "verdict": "Um triunfo absoluto do cinema de horror contemporâneo. Robert Eggers não fez apenas um remake reverente ao clássico de 1922, mas construiu um épico gótico que redefine o vampirismo no cinema moderno."
+  },
+  "content": "Depois de anos em desenvolvimento, o tão aguardado **Nosferatu** sob o comando de Robert Eggers (*A Bruxa*, *O Farol*) finalmente chegou ao público — e o resultado é nada menos que assombroso.\n\nEsqueça a romantização de vampiros dos anos 2000. Aqui, a criatura é uma encarnação da podridão, da praga e da devassidão da alma humana. A fotografia granulada, o uso de sombras que parecem ter vida própria e a névoa constante constroem um pesadelo palpável.\n\nPara quem busca um filme de terror com substância, atuações viscerais e respeito à mitologia clássica, esta é uma parada obrigatória.",
+  "faqs": [
+    {
+      "question": "Nosferatu (2024) tem cena pós-créditos?",
+      "answer": "Não. O filme conclui sua narrativa de forma definitiva e solene ao término da projeção, sem ganchos ou cenas adicionais durante ou após os créditos."
+    },
+    {
+      "question": "O filme é muito pesado ou tem cenas gore?",
+      "answer": "O horror do filme foca muito mais na atmosfera doentia, necrofilia implícita e desespero psicológico do que em tripas expostas, embora haja sequências fortes e perturbadoras com sangue e ratos."
+    },
+    {
+      "question": "É preciso assistir ao Nosferatu original de 1922 para entender?",
+      "answer": "Não! A obra de Robert Eggers é 100% independente e autoexplicativa. Conhecer o clássico mudo de F.W. Murnau enriquece a experiência das homenagens visuais, mas não é obrigatório."
+    }
+  ]
+}

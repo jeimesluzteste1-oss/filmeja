@@ -1,0 +1,97 @@
+{
+  "id": "post-3",
+  "slug": "top-5-filmes-de-suspense-psicologico-com-finais-chocantes",
+  "title": "Top 5 Filmes de Suspense Psicológico com Finais Inesperados e Chocantes",
+  "subtitle": "Histórias labirínticas, manipulação mental e reviravoltas que vão deixar você encarando a tela preta sem saber o que pensar.",
+  "type": "list",
+  "genres": ["Suspense", "Mistério", "Drama"],
+  "publishedAt": "2026-03-24T18:00:00.000Z",
+  "updatedAt": "2026-03-24T18:00:00.000Z",
+  "author": {
+    "name": "Equipe FilmeJá",
+    "role": "Crítico & Entusiasta de Cinema",
+    "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=100&auto=format&fit=crop&q=80"
+  },
+  "coverImage": "https://images.unsplash.com/photo-1478760329108-5c3ed9d495a0?w=1200&auto=format&fit=crop&q=80",
+  "posterImage": "https://images.unsplash.com/photo-1536440136628-849c177e76a1?w=600&auto=format&fit=crop&q=80",
+  "readingTime": "5 min de leitura",
+  "seo": {
+    "metaTitle": "Top 5 Filmes de Suspense Psicológico com Plot Twist Chocante | FilmeJá",
+    "metaDescription": "Gosta de reviravoltas de explodir a mente? Confira nosso Top 5 filmes de suspense psicológico com finais imprevisíveis e onde assistir.",
+    "keywords": [
+      "filmes de suspense psicologico",
+      "filmes com plot twist",
+      "melhores finais de filmes",
+      "suspense imperdivel",
+      "onde assistir suspense"
+    ]
+  },
+  "listItems": [
+    {
+      "rank": 1,
+      "title": "Ilha do Medo (Shutter Island)",
+      "year": 2010,
+      "director": "Martin Scorsese",
+      "posterImage": "https://image.tmdb.org/t/p/w500/kve20tXwUZpu4GUX8l6X7Z4aZ69.jpg",
+      "whereToWatch": ["Netflix", "Telecine"],
+      "whyWatch": "A dobradinha de Scorsese e Leonardo DiCaprio investigando um manicômio isolado entrega um dos desfechos mais debatidos e geniais da história do cinema moderno.",
+      "score": 9.5,
+      "highlightTag": "Clássico Indispensável"
+    },
+    {
+      "rank": 2,
+      "title": "Garota Exemplar (Gone Girl)",
+      "year": 2014,
+      "director": "David Fincher",
+      "posterImage": "https://image.tmdb.org/t/p/w500/qymaJhucKiWfKx8sVwG2NspW1F0.jpg",
+      "whereToWatch": ["Disney+", "Max"],
+      "whyWatch": "David Fincher disseca as dinâmicas de um casamento tóxico com a frieza e o cinismo de uma mente brilhante manipulando a mídia e a polícia nacional.",
+      "score": 9.2,
+      "highlightTag": "Mente Brilhante"
+    },
+    {
+      "rank": 3,
+      "title": "Os Suspeitos (Prisoners)",
+      "year": 2013,
+      "director": "Denis Villeneuve",
+      "posterImage": "https://image.tmdb.org/t/p/w500/jsS3a3ep2KyqvMpqnc3X0T9g1jD.jpg",
+      "whereToWatch": ["Max", "Prime Video"],
+      "whyWatch": "Hugh Jackman e Jake Gyllenhaal em uma espiral de desespero e moralidade ambígua ao investigar o desaparecimento de duas crianças numa cidade cinzenta.",
+      "score": 9.3,
+      "highlightTag": "Tensão Máxima"
+    },
+    {
+      "rank": 4,
+      "title": "Corra! (Get Out)",
+      "year": 2017,
+      "director": "Jordan Peele",
+      "posterImage": "https://image.tmdb.org/t/p/w500/tFXcEccSQMf3lfhfXKSU9iRBpa3.jpg",
+      "whereToWatch": ["Netflix", "Globoplay"],
+      "whyWatch": "Jordan Peele redefiniu o suspense social com uma premissa engenhosa, desconforto crescente e uma revelação assustadoramente plausível e memorável.",
+      "score": 9.0,
+      "highlightTag": "Impacto Social"
+    },
+    {
+      "rank": 5,
+      "title": "O Convite (The Invitation)",
+      "year": 2015,
+      "director": "Karyn Kusama",
+      "posterImage": "https://image.tmdb.org/t/p/w500/6iT6DqXF1bQ9YyqTj5r2vX9WqP.jpg",
+      "whereToWatch": ["Prime Video"],
+      "whyWatch": "Um jantar entre velhos amigos que lentamente se transforma num campo minado de paranoia, seitas e suspeitas até explodir num clímax de tirar o fôlego.",
+      "score": 8.6,
+      "highlightTag": "Paranoia Pura"
+    }
+  ],
+  "content": "Nada supera a sensação de assistir a um filme inteligente, ser conduzido por pistas falsas e levar uma rasteira monumental nos últimos vinte minutos. O suspense psicológico é o gênero que mais recompensa o espectador atento.\n\nNesta lista, selecionamos 5 obras que não apenas contam com finais impressionantes, mas cuja jornada inteira é magistralmente dirigida, mantendo você na ponta do sofá do início ao fim.",
+  "faqs": [
+    {
+      "question": "Qual desses filmes tem o plot twist mais inesperado?",
+      "answer": "Ilha do Medo e Garota Exemplar são os mais consagrados pela mudança radical de perspectiva no terceiro ato que obriga o espectador a reavaliar tudo o que viu."
+    },
+    {
+      "question": "Algum desses filmes tem continuação?",
+      "answer": "Não. Todos os títulos da lista são histórias fechadas e autocontidas, o que valoriza ainda mais a experiência sem enrolação."
+    }
+  ]
+}
