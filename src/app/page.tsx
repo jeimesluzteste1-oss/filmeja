@@ -2,6 +2,7 @@ import Link from 'next/link';
 import Image from 'next/image';
 import { getAllPosts, getAllGenres } from '@/lib/posts';
 import { Flame, Star, Sparkles, Clock, Calendar, ArrowRight, Eye, Film, TrendingUp } from 'lucide-react';
+import MovieFinder from '@/components/MovieFinder';
 
 export default function HomePage() {
   const posts = getAllPosts();
@@ -249,6 +250,9 @@ export default function HomePage() {
             </article>
           ))}
         </div>
+
+        {/* Ferramenta Interativa: Recomendador Dinâmico */}
+        <MovieFinder />
 
         {/* Manifesto da Redação (Linguagem Humana e Editorial) */}
         <section style={{
