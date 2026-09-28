@@ -2,7 +2,7 @@
   "id": "post-1",
   "slug": "top-5-filmes-de-terror-mais-perturbadores-de-2025-2026",
   "title": "Top 5 Filmes de Terror Mais Perturbadores de 2025 e 2026",
-  "subtitle": "Prepare o estômago: separamos os lançamentos mais assustadores e intensos do cinema de horror contemporâneo que você não pode perder.",
+  "subtitle": "Prepare o estômago: dissecamos as 5 obras mais aterrorizantes e desconfortáveis do cinema recente, com detalhes de onde assistir e análises completas.",
   "type": "list",
   "genres": ["Terror", "Suspense", "Sobrenatural"],
   "publishedAt": "2026-03-15T10:00:00.000Z",
@@ -12,9 +12,9 @@
     "role": "Crítico & Entusiasta de Horror",
     "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=100&auto=format&fit=crop&q=80"
   },
-  "coverImage": "https://images.unsplash.com/photo-1509248961158-e54f6934749c?w=1200&auto=format&fit=crop&q=80",
-  "posterImage": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?w=600&auto=format&fit=crop&q=80",
-  "readingTime": "6 min de leitura",
+  "coverImage": "https://image.tmdb.org/t/p/original/fbkUfzmVzEBFSt6p7VigknREIJT.jpg",
+  "posterImage": "https://image.tmdb.org/t/p/w500/fbkUfzmVzEBFSt6p7VigknREIJT.jpg",
+  "readingTime": "7 min de leitura",
   "seo": {
     "metaTitle": "Top 5 Filmes de Terror Mais Perturbadores de 2025 e 2026 | FilmeJá",
     "metaDescription": "Descubra os 5 filmes de terror mais aterrorizantes de 2025 e 2026. Sinopses completas, onde assistir e nosso veredito sem spoilers.",
@@ -32,70 +32,106 @@
       "title": "Nosferatu",
       "year": 2024,
       "director": "Robert Eggers",
-      "posterImage": "https://image.tmdb.org/t/p/w500/5qGIxdEWdyEbNIJnIQ5y0L2wmJt.jpg",
-      "whereToWatch": ["Cinemas", "Prime Video (Aluguel)"],
-      "whyWatch": "A visão sombria e gótica de Robert Eggers eleva a lenda do vampiro a um nível de atmosfera e angústia psicológica quase insuportável. Bill Skarsgård entrega uma criatura monstruosa de arrepiar.",
+      "posterImage": "https://image.tmdb.org/t/p/w500/fbkUfzmVzEBFSt6p7VigknREIJT.jpg",
+      "whereToWatch": ["Prime Video", "Apple TV", "Cinemas"],
+      "whyWatch": "A visão sombria e gótica de Robert Eggers eleva a lenda do vampiro a um nível de atmosfera e angústia psicológica quase insuportável. Bill Skarsgård entrega uma criatura monstruosa de arrepiar, distante de qualquer romantização.",
       "score": 9.4,
-      "highlightTag": "Obra-Prima Gótica"
+      "highlightTag": "Obra-Prima Gótica",
+      "reviewSlug": "react-nosferatu-2024-robert-eggers-vale-a-pena",
+      "cast": ["Bill Skarsgård", "Lily-Rose Depp", "Nicholas Hoult", "Willem Dafoe"],
+      "synopsis": "Um conto gótico de obsessão entre uma jovem atormentada na Alemanha do século XIX e o antigo vampiro da Transilvânia que a persegue com a peste e a destruição.",
+      "highlightPoints": [
+        "Fotografia granulada e iluminação natural de tirar o fôlego",
+        "Design de som angustiante com violinos estridentes",
+        "Atuação física e irreconhecível de Bill Skarsgård"
+      ]
     },
     {
       "rank": 2,
-      "title": "Sorria 2 (Smile 2)",
-      "year": 2024,
-      "director": "Parker Finn",
-      "posterImage": "https://image.tmdb.org/t/p/w500/aE85Mn9KyK6vP68iFf9eQp1xL6d.jpg",
-      "whereToWatch": ["Paramount+", "Claro Video"],
-      "whyWatch": "Naomi Scott tem uma das melhores atuações de horror dos últimos anos, vivendo uma estrela pop levada ao limite da loucura por uma maldição implacável cheia de jump scares milimetricamente calculados.",
-      "score": 8.7,
-      "highlightTag": "Tensão Pura"
-    },
-    {
-      "rank": 3,
-      "title": "A Primeira Profecia",
-      "year": 2024,
-      "director": "Arkasha Stevenson",
-      "posterImage": "https://image.tmdb.org/t/p/w500/5pneLp2xGg0EcmgqN38gQf4G3g4.jpg",
-      "whereToWatch": ["Disney+"],
-      "whyWatch": "Um prelúdio que superou todas as expectativas com estética de horror corporal dos anos 70, conspiracionismo religioso e sequências visuais memoráveis e perturbadoras.",
-      "score": 8.5,
-      "highlightTag": "Horror Corporal"
-    },
-    {
-      "rank": 4,
       "title": "A Substância (The Substance)",
       "year": 2024,
       "director": "Coralie Fargeat",
-      "posterImage": "https://image.tmdb.org/t/p/w500/z0t3C7EshB3lY1QjGv0N7T1nN5Z.jpg",
-      "whereToWatch": ["MUBI"],
-      "whyWatch": "Demi Moore e Margaret Qualley em um body horror visceral e hiperbólico que critica os padrões de beleza de Hollywood com sangue, próteses e uma energia frenética que você não esquecerá.",
-      "score": 9.1,
-      "highlightTag": "O Mais Chocante"
+      "posterImage": "https://image.tmdb.org/t/p/w500/vWeOgzlhnP1sS23H3rzctGHB9Nb.jpg",
+      "whereToWatch": ["MUBI", "Prime Video", "Apple TV"],
+      "whyWatch": "Demi Moore e Margaret Qualley em um horror corporal (body horror) visceral e frenético. Uma crítica ácida e impiedosa aos padrões estéticos de Hollywood que culmina em um terceiro ato grotesco e inesquecível.",
+      "score": 9.2,
+      "highlightTag": "O Mais Chocante",
+      "cast": ["Demi Moore", "Margaret Qualley", "Dennis Quaid"],
+      "synopsis": "Uma celebridade em declínio decide usar uma droga do mercado negro que gera temporariamente uma versão mais jovem e perfeita de si mesma, mas as consequências biológicas são brutais.",
+      "highlightPoints": [
+        "Efeitos práticos impressionantes e próteses que causam náusea real",
+        "Atuação corajosa e premiada de Demi Moore",
+        "Ritmo acelerado com montagem e edição eletrizantes"
+      ]
     },
     {
-      "rank": 5,
+      "rank": 3,
+      "title": "Sorria 2 (Smile 2)",
+      "year": 2024,
+      "director": "Parker Finn",
+      "posterImage": "https://image.tmdb.org/t/p/w500/ypHiYvSJmHIyRDRiosZuE595uir.jpg",
+      "whereToWatch": ["Paramount+", "Prime Video", "Claro Video"],
+      "whyWatch": "Naomi Scott entrega uma performance de gala vivendo uma estrela pop à beira do colapso nervoso, perseguida por uma entidade que se alimenta de culpa e trauma com sorrisos macabros.",
+      "score": 8.8,
+      "highlightTag": "Tensão & Jump Scares",
+      "cast": ["Naomi Scott", "Rosemarie DeWitt", "Lukas Gage"],
+      "synopsis": "Prestess a embarcar em uma turnê mundial, uma cantora pop começa a presenciar eventos cada vez mais bizarros e aterradores que a forçam a encarar seu passado sombrio.",
+      "highlightPoints": [
+        "Sequências de horror em grande escala e palcos iluminados",
+        "Trilha sonora inquietante e mixagem de áudio impecável",
+        "Final perturbador que expande a mitologia da franquia"
+      ]
+    },
+    {
+      "rank": 4,
       "title": "Longlegs: Vínculo Mortal",
       "year": 2024,
       "director": "Osgood Perkins",
-      "posterImage": "https://image.tmdb.org/t/p/w500/imKSymKBzt07zWz5QvJkL8kZ4u1.jpg",
-      "whereToWatch": ["Prime Video"],
-      "whyWatch": "Nicolas Cage irreconhecível e bizarro em uma caçada ritualística inspirada em O Silêncio dos Inocentes com uma fotografia claustrofóbica que causa arrepio em cada plano.",
-      "score": 8.2,
-      "highlightTag": "Psicológico & Ocultista"
+      "posterImage": "https://image.tmdb.org/t/p/w500/uURBOrqLFyU8iKODcI3t2Xkbhqs.jpg",
+      "whereToWatch": ["Prime Video", "Apple TV"],
+      "whyWatch": "Nicolas Cage como você nunca viu: bizarro, maquiado e sibilante. Uma investigação criminal misturada com ocultismo satânico no estilo dos melhores thrillers dos anos 90.",
+      "score": 8.5,
+      "highlightTag": "Psicológico & Ocultista",
+      "cast": ["Maika Monroe", "Nicolas Cage", "Blair Underwood"],
+      "synopsis": "Uma agente novata do FBI com forte intuição é designada para resolver uma série de assassinatos em famílias aparentemente sem conexão física, descobrindo um elo demoníaco.",
+      "highlightPoints": [
+        "Enquadramentos simétricos e atmosfera de pesadelo constante",
+        "Vilão perturbador que aparece pouco, mas domina cada cena",
+        "Sensação de claustrofobia e desespero inevitável"
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "A Primeira Profecia",
+      "year": 2024,
+      "director": "Arkasha Stevenson",
+      "posterImage": "https://image.tmdb.org/t/p/w500/zppeHKLHljU2uI7NBJ1JyDNpn6L.jpg",
+      "whereToWatch": ["Disney+"],
+      "whyWatch": "Superando todas as expectativas de um prelúdio da franquia clássica 'A Profecia', este filme aposta em horror religioso setentista com cenas gráficas de parto e histeria coletiva.",
+      "score": 8.6,
+      "highlightTag": "Horror Religioso",
+      "cast": ["Nell Tiger Free", "Tawfeek Barhom", "Sônia Braga", "Bill Nighy"],
+      "synopsis": "Uma jovem noviça americana viaja a Roma para servir à igreja antes de fazer seus votos, mas esbarra em uma conspiração sombria que visa provocar o nascimento do Anticristo.",
+      "highlightPoints": [
+        "Atuação impressionante de Nell Tiger Free com homenagem a Possession (1981)",
+        "Ambientação de época em Roma rica em detalhes e decadência",
+        "Cenas de horror explícito que surpreendem para uma produção ligada à Disney"
+      ]
     }
   ],
-  "content": "O cinema de gênero vive uma das fases mais criativas da história recente. Se você é fã de filmes que não apenas assustam com sustos fáceis, mas que permanecem na sua cabeça dias após os créditos finais, 2025 e 2026 consolidam o terror autoral em grande escala.\n\nNesta seleção especial do **FilmeJá**, cruzamos métricas de engajamento, avaliações da crítica especializada e recepção do público para elencar as 5 experiências mais intensas para assistir hoje mesmo no conforto da sua casa ou nos cinemas.",
+  "content": "O cinema de gênero vive uma das fases mais férteis e criativas da história recente. Se você é apaixonado por produções que fogem dos clichês preguiçosos e preferem construir um pavor duradouro — daqueles que deixam você olhando para os cantos escuros do quarto à noite —, 2025 e 2026 consolidaram o retorno triunfal do horror psicológico e autoral.\n\nNesta seleção especial do **FilmeJá**, cruzamos a aprovação da crítica especializada, as reações inflamadas do público nas redes sociais e as notas nos maiores agregadores do planeta para montar este ranking definitivo. Além disso, cada título conta com botões diretos de onde assistir nas plataformas brasileiras e links para nossas análises e reacts detalhados.",
   "faqs": [
     {
-      "question": "Qual é o filme de terror mais assustador desta lista?",
-      "answer": "Em termos de medo genuíno e tensão psicológica, Nosferatu e Sorria 2 disputam o topo. Para quem prefere horror corporal e choque visual, A Substância é o mais impactante."
+      "question": "Qual é o filme de terror mais assustador e pesado desta lista?",
+      "answer": "Para quem busca choque visual e desconforto extremo, A Substância é o mais visceral. Já para quem prefere terror psicológico, atmosfera fúnebre e vampirismo sem concessões, Nosferatu de Robert Eggers lidera o ranking com folga."
     },
     {
       "question": "Onde posso assistir a esses filmes no Brasil?",
-      "answer": "A maioria já está disponível nos principais streamings brasileiros como Prime Video, Disney+, MUBI e Paramount+, conforme detalhado na ficha de cada título acima."
+      "answer": "Todos os filmes da lista estão disponíveis nos serviços de streaming operantes no Brasil, como Prime Video, MUBI, Disney+, Paramount+ e Apple TV. Você pode clicar diretamente nos botões de cada filme acima para abrir o serviço correspondente."
     },
     {
-      "question": "Esses filmes são recomendados para quem não gosta de jump scares?",
-      "answer": "Sim! Nosferatu, A Substância e Longlegs constroem seu pavor através da atmosfera, tensão e desconforto visual contínuo, sem apelar apenas para barulhos repentinos."
+      "question": "Esses filmes têm cenas gore ou apelam apenas para sustos rápidos?",
+      "answer": "A maioria evita sustos baratos. O foco dos diretores desta lista é a construção de tensão gradual, horror corporal palpável (especialmente em A Substância e A Primeira Profecia) e paranoia psicológica."
     }
   ]
 }

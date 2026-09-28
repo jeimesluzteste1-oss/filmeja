@@ -10,6 +10,10 @@ export interface ListItem {
   whyWatch: string;
   score: number;
   highlightTag?: string;
+  reviewSlug?: string;
+  cast?: string[];
+  synopsis?: string;
+  highlightPoints?: string[];
 }
 
 export interface FeaturedMovie {

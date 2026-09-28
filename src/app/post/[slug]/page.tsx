@@ -3,6 +3,7 @@ import { notFound } from 'next/navigation';
 import Image from 'next/image';
 import Link from 'next/link';
 import { getAllPosts, getPostBySlug, getRelatedPosts } from '@/lib/posts';
+import { getStreamingSearchUrl } from '@/lib/streaming';
 import {
   Star,
   Clock,
@@ -12,10 +13,12 @@ import {
   XCircle,
   HelpCircle,
   Film,
-  Sparkles,
-  Share2,
+  ExternalLink,
   ChevronRight,
   Award,
+  Sparkles,
+  Users,
+  Eye,
 } from 'lucide-react';
 
 interface PostPageProps {
@@ -225,7 +228,7 @@ export default function PostPage({ params }: PostPageProps) {
 
       {/* Header do Artigo */}
       <header className="article-header">
-        <div style={{ display: 'flex', gap: '0.5rem', marginBottom: '1rem' }}>
+        <div style={{ display: 'flex', gap: '0.5rem', marginBottom: '1rem', flexWrap: 'wrap' }}>
           {post.genres.map((genre) => (
             <span key={genre} className="genre-tag" style={{ background: 'rgba(229,9,20,0.1)', padding: '3px 10px', borderRadius: '4px' }}>
               #{genre}
@@ -309,15 +312,23 @@ export default function PostPage({ params }: PostPageProps) {
             </div>
 
             <div>
-              <div style={{ fontSize: '0.85rem', color: 'var(--text-sub)', display: 'flex', alignItems: 'center', gap: '5px' }}>
+              <div style={{ fontSize: '0.85rem', color: 'var(--text-sub)', display: 'flex', alignItems: 'center', gap: '5px', marginBottom: '0.3rem' }}>
                 <Tv size={15} />
-                <strong>Onde Assistir no Brasil:</strong>
+                <strong>Onde Assistir no Brasil (Clique para abrir):</strong>
               </div>
               <div className="where-to-watch-pills">
                 {post.featuredMovie.whereToWatch.map((plat) => (
-                  <span key={plat} className="watch-pill">
-                    {plat}
-                  </span>
+                  <a
+                    key={plat}
+                    href={getStreamingSearchUrl(plat, post.featuredMovie?.title || '')}
+                    target="_blank"
+                    rel="noopener noreferrer nofollow"
+                    className="watch-pill watch-pill-link"
+                    title={`Assistir ${post.featuredMovie?.title} no ${plat}`}
+                  >
+                    <span>{plat}</span>
+                    <ExternalLink size={12} style={{ opacity: 0.7 }} />
+                  </a>
                 ))}
               </div>
             </div>
@@ -329,26 +340,48 @@ export default function PostPage({ params }: PostPageProps) {
         </section>
       )}
 
-      {/* Se for uma LISTA TOP 5 / TOP 10: Cards Ordenados */}
+      {/* Se for uma LISTA TOP 5 / TOP 10: Cards Ordenados com Links Clicáveis */}
       {post.type === 'list' && post.listItems && (
         <section className="list-ranking-container">
           {post.listItems.map((item) => (
-            <div key={item.rank} className="ranking-card">
+            <div key={item.rank} className="ranking-card" id={`filme-${item.rank}`}>
               <div className="ranking-number">#{item.rank}</div>
 
               <div className="ranking-poster">
-                <Image
-                  src={item.posterImage}
-                  alt={item.title}
-                  width={180}
-                  height={270}
-                  style={{ width: '100%', height: 'auto', display: 'block' }}
-                />
+                {item.reviewSlug ? (
+                  <Link href={`/post/${item.reviewSlug}`} title={`Ver react e crítica de ${item.title}`}>
+                    <Image
+                      src={item.posterImage}
+                      alt={item.title}
+                      width={180}
+                      height={270}
+                      style={{ width: '100%', height: 'auto', display: 'block', borderRadius: '8px' }}
+                    />
+                  </Link>
+                ) : (
+                  <Image
+                    src={item.posterImage}
+                    alt={item.title}
+                    width={180}
+                    height={270}
+                    style={{ width: '100%', height: 'auto', display: 'block', borderRadius: '8px' }}
+                  />
+                )}
               </div>
 
               <div className="ranking-info">
                 <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', flexWrap: 'wrap', gap: '0.5rem' }}>
-                  <h3>{item.title} ({item.year})</h3>
+                  {item.reviewSlug ? (
+                    <Link href={`/post/${item.reviewSlug}`} className="ranking-title-link">
+                      <h3 style={{ display: 'inline-flex', alignItems: 'center', gap: '6px' }}>
+                        {item.title} ({item.year})
+                        <ChevronRight size={18} color="#e50914" />
+                      </h3>
+                    </Link>
+                  ) : (
+                    <h3>{item.title} ({item.year})</h3>
+                  )}
+
                   {item.highlightTag && (
                     <span style={{ fontSize: '0.75rem', fontWeight: 'bold', background: 'rgba(229,9,20,0.15)', color: '#ff5e62', padding: '3px 8px', borderRadius: '4px' }}>
                       {item.highlightTag}
@@ -360,18 +393,67 @@ export default function PostPage({ params }: PostPageProps) {
                   Direção: <strong>{item.director}</strong> &bull; Nota FilmeJá: <strong style={{ color: '#ffb703' }}>{item.score}/10</strong>
                 </div>
 
+                {item.cast && item.cast.length > 0 && (
+                  <div style={{ fontSize: '0.85rem', color: 'var(--text-sub)', marginBottom: '0.6rem', display: 'flex', alignItems: 'center', gap: '6px' }}>
+                    <Users size={14} />
+                    <span><strong>Elenco:</strong> {item.cast.join(', ')}</span>
+                  </div>
+                )}
+
+                {item.synopsis && (
+                  <p style={{ fontSize: '0.9rem', color: 'var(--text-sub)', fontStyle: 'italic', marginBottom: '0.8rem', lineHeight: '1.5' }}>
+                    &ldquo;{item.synopsis}&rdquo;
+                  </p>
+                )}
+
                 <p className="ranking-reason">
                   {item.whyWatch}
                 </p>
 
-                <div style={{ display: 'flex', alignItems: 'center', gap: '0.5rem', flexWrap: 'wrap' }}>
-                  <span style={{ fontSize: '0.8rem', color: 'var(--text-sub)' }}>Onde assistir:</span>
+                {item.highlightPoints && item.highlightPoints.length > 0 && (
+                  <div style={{ background: '#181822', padding: '0.9rem 1.2rem', borderRadius: '8px', marginBottom: '1.2rem', border: '1px solid var(--border-color)' }}>
+                    <div style={{ fontSize: '0.8rem', fontWeight: 'bold', color: '#ff5e62', textTransform: 'uppercase', marginBottom: '0.4rem', letterSpacing: '0.5px' }}>
+                      Destaques da Produção:
+                    </div>
+                    <ul style={{ listStyle: 'none', display: 'flex', flexDirection: 'column', gap: '0.35rem', fontSize: '0.85rem', color: 'var(--text-muted)' }}>
+                      {item.highlightPoints.map((pt, pti) => (
+                        <li key={pti}>&bull; {pt}</li>
+                      ))}
+                    </ul>
+                  </div>
+                )}
+
+                {/* Onde Assistir com Links Reais Clicáveis */}
+                <div style={{ display: 'flex', alignItems: 'center', gap: '0.6rem', flexWrap: 'wrap', marginBottom: item.reviewSlug ? '1.2rem' : '0' }}>
+                  <span style={{ fontSize: '0.8rem', color: 'var(--text-sub)', display: 'flex', alignItems: 'center', gap: '4px' }}>
+                    <Tv size={14} />
+                    Onde assistir:
+                  </span>
                   {item.whereToWatch.map((plat) => (
-                    <span key={plat} className="watch-pill" style={{ fontSize: '0.75rem' }}>
-                      {plat}
-                    </span>
+                    <a
+                      key={plat}
+                      href={getStreamingSearchUrl(plat, item.title)}
+                      target="_blank"
+                      rel="noopener noreferrer nofollow"
+                      className="watch-pill watch-pill-link"
+                      title={`Assistir ${item.title} no ${plat}`}
+                    >
+                      <span>{plat}</span>
+                      <ExternalLink size={12} style={{ opacity: 0.7 }} />
+                    </a>
                   ))}
                 </div>
+
+                {/* Botão de Ler Crítica Completa se houver review individual */}
+                {item.reviewSlug && (
+                  <div style={{ marginTop: '0.8rem' }}>
+                    <Link href={`/post/${item.reviewSlug}`} className="nav-link-cta" style={{ fontSize: '0.85rem', padding: '0.45rem 1rem', display: 'inline-flex', alignItems: 'center', gap: '6px' }}>
+                      <Eye size={15} />
+                      <span>Ler React & Crítica Completa de {item.title}</span>
+                      <ChevronRight size={15} />
+                    </Link>
+                  </div>
+                )}
               </div>
             </div>
           ))}

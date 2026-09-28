@@ -1,30 +1,26 @@
 {
-  "id": "post-1790554383",
+  "id": "post-4",
   "slug": "top-5-filmes-de-terror-psicologico-2026",
-  "title": "Top 5 Melhores Filmes de Filmes De Terror Psicologico para Assistir em 2026",
-  "subtitle": "Uma seleção definitiva com as obras mais aclamadas e surpreendentes de terror que você precisa conferir.",
+  "title": "Top 5 Melhores Filmes de Terror Psicológico para Assistir em 2026",
+  "subtitle": "Uma seleção definitiva com as obras mais aclamadas e perturbadoras do terror moderno que vão desafiar sua mente e acelerar seus batimentos cardíacos.",
   "type": "list",
-  "genres": [
-    "Terror",
-    "Cinema",
-    "Dicas de Streaming"
-  ],
-  "publishedAt": "2026-09-28T00:13:03.066719Z",
-  "updatedAt": "2026-09-28T00:13:03.066719Z",
+  "genres": ["Terror", "Psicológico", "Cinema"],
+  "publishedAt": "2026-03-27T12:00:00.000Z",
+  "updatedAt": "2026-03-27T12:00:00.000Z",
   "author": {
     "name": "Robô Editorial FilmeJá",
-    "role": "Curadoria Automatizada & SEO",
+    "role": "Curadoria Especializada",
     "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=100&auto=format&fit=crop&q=80"
   },
-  "coverImage": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=1200&auto=format&fit=crop&q=80",
-  "posterImage": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?w=600&auto=format&fit=crop&q=80",
-  "readingTime": "5 min de leitura",
+  "coverImage": "https://image.tmdb.org/t/p/original/jB0W9tn4w07MFn7sTfqRTBLVytF.jpg",
+  "posterImage": "https://image.tmdb.org/t/p/w500/jB0W9tn4w07MFn7sTfqRTBLVytF.jpg",
+  "readingTime": "6 min de leitura",
   "seo": {
-    "metaTitle": "Top 5 Filmes de Filmes De Terror Psicologico (2026): Onde Assistir | FilmeJá",
-    "metaDescription": "Procurando os melhores filmes de filmes de terror psicologico? Veja nossa lista atualizada com sinopses, notas reais e onde assistir online.",
+    "metaTitle": "Top 5 Filmes de Terror Psicológico (2026): Onde Assistir | FilmeJá",
+    "metaDescription": "Procurando os melhores filmes de terror psicológico? Veja nossa lista atualizada com sinopses, notas reais e onde assistir online sem spoilers.",
     "keywords": [
-      "filmes de filmes de terror psicologico",
-      "melhores filmes terror",
+      "filmes de terror psicologico",
+      "melhores filmes terror 2026",
       "filmes 2026",
       "onde assistir filmes",
       "filmes recomendados"
@@ -33,80 +29,104 @@
   "listItems": [
     {
       "rank": 1,
-      "title": "Destaque do Ano: Filmes De Terror Psicologico I",
-      "year": 2025,
-      "director": "Diretor Aclamado",
-      "posterImage": "https://images.unsplash.com/photo-1536440136628-849c177e76a1?w=500&auto=format&fit=crop&q=80",
-      "whereToWatch": [
-        "Prime Video",
-        "Max"
-      ],
-      "whyWatch": "Uma obra-prima incontestável no gênero terror, com atuações de tirar o fôlego e um ritmo envolvente.",
-      "score": 9.3,
-      "highlightTag": "Favorito da Crítica"
+      "title": "Alien: Romulus",
+      "year": 2024,
+      "director": "Fede Alvarez",
+      "posterImage": "https://image.tmdb.org/t/p/w500/jB0W9tn4w07MFn7sTfqRTBLVytF.jpg",
+      "whereToWatch": ["Disney+", "Prime Video", "Apple TV"],
+      "whyWatch": "Fede Alvarez resgatou o puro terror claustrofóbico dos dois primeiros filmes da franquia Alien com efeitos práticos espetaculares, monstros aterrorizantes e uma atmosfera de suspense no espaço implacável.",
+      "score": 9.1,
+      "highlightTag": "Terror Espacial",
+      "cast": ["Cailee Spaeny", "David Jonsson", "Archie Renaux"],
+      "synopsis": "Um grupo de jovens colonizadores espaciais explorando os destroços de uma estação espacial abandonada fica cara a cara com a forma de vida mais aterrorizante do universo.",
+      "highlightPoints": [
+        "Uso massivo de animatrônicos e efeitos práticos de alta fidelidade",
+        "David Jonsson com uma atuação espetacular como o androide Andy",
+        "Terceiro ato com uma criatura perturbadora e assustadora"
+      ]
     },
     {
       "rank": 2,
-      "title": "O Despertar da Tensão: Filmes De Terror Psicologico II",
+      "title": "A Substância",
       "year": 2024,
-      "director": "Novo Visionário",
-      "posterImage": "https://images.unsplash.com/photo-1509248961158-e54f6934749c?w=500&auto=format&fit=crop&q=80",
-      "whereToWatch": [
-        "Netflix"
-      ],
-      "whyWatch": "Tensão crescente e fotografia arrebatadora. Ideal para quem busca uma experiência imersiva.",
-      "score": 8.8,
-      "highlightTag": "Mais Intenso"
+      "director": "Coralie Fargeat",
+      "posterImage": "https://image.tmdb.org/t/p/w500/vWeOgzlhnP1sS23H3rzctGHB9Nb.jpg",
+      "whereToWatch": ["MUBI", "Prime Video"],
+      "whyWatch": "Um mergulho insano e descontrolado no horror corporal e na decadência psicológica da busca pela juventude eterna com Demi Moore e Margaret Qualley.",
+      "score": 9.2,
+      "highlightTag": "Body Horror",
+      "cast": ["Demi Moore", "Margaret Qualley", "Dennis Quaid"],
+      "synopsis": "Uma droga misteriosa divide uma mulher em duas versões de si mesma com consequências catastróficas para o corpo e para a mente.",
+      "highlightPoints": [
+        "Vencedor do prêmio de Melhor Roteiro no Festival de Cannes",
+        "Próteses e maquiagem grotescas que impressionam pela riqueza de detalhes",
+        "Crítica contundente aos padrões de beleza impostos pela mídia"
+      ]
     },
     {
       "rank": 3,
-      "title": "Segredos Ocultos: Filmes De Terror Psicologico III",
+      "title": "Sorria 2",
       "year": 2024,
-      "director": "Mestre do Suspense",
-      "posterImage": "https://images.unsplash.com/photo-1478760329108-5c3ed9d495a0?w=500&auto=format&fit=crop&q=80",
-      "whereToWatch": [
-        "Disney+"
-      ],
-      "whyWatch": "Roteiro meticulosamente amarrado com reviravoltas bem desenvolvidas que desafiam o público.",
-      "score": 8.6,
-      "highlightTag": "Reviravolta Chocante"
+      "director": "Parker Finn",
+      "posterImage": "https://image.tmdb.org/t/p/w500/ypHiYvSJmHIyRDRiosZuE595uir.jpg",
+      "whereToWatch": ["Paramount+", "Prime Video"],
+      "whyWatch": "Tensão crescente e paranóia pura. O medo não vem apenas dos sustos, mas da sensação de perda total do controle sobre a própria realidade.",
+      "score": 8.8,
+      "highlightTag": "Paranoia Máxima",
+      "cast": ["Naomi Scott", "Rosemarie DeWitt"],
+      "synopsis": "Uma estrela da música é perseguida pela entidade do sorriso enquanto lida com a pressão da fama e seus próprios traumas do passado.",
+      "highlightPoints": [
+        "Atuação física e emocionalmente exaustiva de Naomi Scott",
+        "Cenas de delírio e alucinação muito bem coreografadas",
+        "Sustos bem posicionados que não cansam o público"
+      ]
     },
     {
       "rank": 4,
-      "title": "Labirinto Noturno: Filmes De Terror Psicologico IV",
-      "year": 2023,
-      "director": "Cineasta Revelação",
-      "posterImage": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?w=500&auto=format&fit=crop&q=80",
-      "whereToWatch": [
-        "Prime Video"
-      ],
-      "whyWatch": "Uma atmosfera claustrofóbica com atuações minimalistas e design de som de arrepiar.",
-      "score": 8.4,
-      "highlightTag": "Atmosférico"
+      "title": "Longlegs: Vínculo Mortal",
+      "year": 2024,
+      "director": "Osgood Perkins",
+      "posterImage": "https://image.tmdb.org/t/p/w500/uURBOrqLFyU8iKODcI3t2Xkbhqs.jpg",
+      "whereToWatch": ["Prime Video"],
+      "whyWatch": "Uma atmosfera gélida e desconfortável com fotografia claustrofóbica e um Nicolas Cage monstruoso.",
+      "score": 8.5,
+      "highlightTag": "Ocultismo Satânico",
+      "cast": ["Maika Monroe", "Nicolas Cage"],
+      "synopsis": "Uma investigadora precisa decifrar cartas encriptadas deixadas em cenas de crimes familiares para capturar um assassino ocultista.",
+      "highlightPoints": [
+        "Enquadramentos geométricos que criam ansiedade no espectador",
+        "Interpretação perturbadora de Nicolas Cage",
+        "Clima de pesadelo dos anos 90"
+      ]
     },
     {
       "rank": 5,
-      "title": "O Julgamento Final: Filmes De Terror Psicologico V",
+      "title": "A Primeira Profecia",
       "year": 2024,
-      "director": "Diretor Premiado",
-      "posterImage": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=500&auto=format&fit=crop&q=80",
-      "whereToWatch": [
-        "Paramount+"
-      ],
-      "whyWatch": "Fecha a seleção com chave de ouro entregando entretenimento ágil e impacto dramático.",
-      "score": 8.1,
-      "highlightTag": "Eletrizante"
+      "director": "Arkasha Stevenson",
+      "posterImage": "https://image.tmdb.org/t/p/w500/zppeHKLHljU2uI7NBJ1JyDNpn6L.jpg",
+      "whereToWatch": ["Disney+"],
+      "whyWatch": "Prelúdio que revitalizou o clássico do horror satânico com atmosfera impecável e sequências de possessão memoráveis.",
+      "score": 8.6,
+      "highlightTag": "Terror Religioso",
+      "cast": ["Nell Tiger Free", "Bill Nighy"],
+      "synopsis": "Uma jovem noviça em Roma descobre uma conspiração da própria igreja para gerar a encarnação do mal na Terra.",
+      "highlightPoints": [
+        "Homenagem reverente ao cinema de possessão e conspiração dos anos 70",
+        "Excelente direção de arte e fotografia sombria em Roma",
+        "Cenas impactantes e inesperadas para o padrão do estúdio"
+      ]
     }
   ],
-  "content": "O cinema de terror continua sendo um dos gêneros mais populares e comentados nas redes sociais e nas buscas do Google. Encontrar produções com substância entre centenas de lançamentos semanais é o nosso compromisso aqui no **FilmeJá**.\n\nA seleção acima considera tanto o impacto dramático quanto as notas dos usuários em plataformas de prestígio, facilitando sua escolha no final de semana sem perda de tempo.",
+  "content": "O terror psicológico é um dos subgêneros mais fascinantes do cinema porque seu maior monstro não vive em um pântano ou debaixo da cama: ele habita as rachaduras da mente humana.\n\nEm 2025 e 2026, cineastas autorais provaram que é possível equilibrar entretenimento popular, impacto comercial e discussões profundas sobre mortalidade, isolamento e paranoia. Confira acima a ficha completa de cada uma dessas 5 obras essenciais e onde encontrá-las hoje no streaming.",
   "faqs": [
     {
-      "question": "Onde encontro esses filmes de filmes de terror psicologico dublados?",
-      "answer": "Todos os títulos listados contam com opções de dublagem e legendas em português nos streamings indicados (Netflix, Prime Video, Max, etc.)."
+      "question": "Qual desses filmes é o mais assustador?",
+      "answer": "Alien: Romulus e Sorria 2 são os mais intensos em sustos e adrenalina física, enquanto Longlegs e A Substância causam maior angústia psicológica e desconforto moral duradouro."
     },
     {
-      "question": "Qual é a melhor ordem para assistir?",
-      "answer": "Como são histórias independentes, recomendamos iniciar pelo título que ocupar o rank #1 para uma experiência de alto nível imediata."
+      "question": "Onde encontro esses filmes dublados em português?",
+      "answer": "Todos os filmes da lista contam com dublagem em português do Brasil e áudio original legendado nos serviços indicados (Disney+, Prime Video, MUBI e Paramount+)."
     }
   ]
 }

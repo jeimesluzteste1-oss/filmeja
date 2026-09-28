@@ -534,12 +534,36 @@ button {
 }
 
 .watch-pill {
-  font-size: 0.8rem;
+  font-size: 0.82rem;
   font-weight: 600;
-  background: #232330;
-  border: 1px solid rgba(255, 255, 255, 0.1);
-  padding: 0.3rem 0.75rem;
+  background: #20202d;
+  border: 1px solid rgba(255, 255, 255, 0.12);
+  padding: 0.35rem 0.85rem;
   border-radius: var(--radius-full);
+  color: var(--text-main);
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+  text-decoration: none;
+  transition: all 0.2s ease;
+}
+
+.watch-pill-link:hover {
+  background: #2a2a3a;
+  border-color: #e50914;
+  color: #fff;
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(229, 9, 20, 0.3);
+}
+
+.ranking-title-link {
+  text-decoration: none;
+  color: inherit;
+  transition: color 0.2s ease;
+}
+
+.ranking-title-link:hover h3 {
+  color: #ff5e62;
 }
 
 /* Pros and Cons */
