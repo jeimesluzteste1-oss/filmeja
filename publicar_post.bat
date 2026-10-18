@@ -26,12 +26,14 @@ if %errorlevel% neq 0 (
 echo Escolha o formato de ouro do artigo:
 echo   [1] 5 Filmes Parecidos com [FILME] para Assistir Depois
 echo   [2] 7 Melhores Filmes de [GENERO] na [PLATAFORMA] (2026)
-echo   [3] Top 5 Filmes por Tema Personalizado
-echo   [4] Sincronizar alteracoes pendentes no GitHub e Vercel
+echo   [3] Que Dia Sai o Episodio [X] de [SERIE]? (Calendario Semanal)
+echo   [4] Top 5 Filmes por Tema Personalizado
+echo   [5] Sincronizar alteracoes pendentes no GitHub e Vercel
 echo.
-choice /c 1234 /n /m "Digite a opcao desejada [1, 2, 3 ou 4]: "
-if errorlevel 4 goto :fazer_deploy
-if errorlevel 3 goto :opcao_personalizado
+choice /c 12345 /n /m "Digite a opcao desejada [1, 2, 3, 4 ou 5]: "
+if errorlevel 5 goto :fazer_deploy
+if errorlevel 4 goto :opcao_personalizado
+if errorlevel 3 goto :opcao_episodio
 if errorlevel 2 goto :opcao_streaming
 if errorlevel 1 goto :opcao_parecidos
 
@@ -68,6 +70,35 @@ echo [1/3] Gerando lista de streaming otimizada com fotos reais e SEO...
 %PYTHON_CMD% scripts/gerador_filmeja.py --formato streaming --genero "%GENERO%" --plataforma "%PLATAFORMA%"
 if %errorlevel% neq 0 (
     echo [ERRO] Falha na geracao do artigo.
+    pause
+    exit /b 1
+)
+goto :fazer_deploy
+
+:opcao_episodio
+echo.
+set /p SERIE="Digite o nome da serie (ex: Materia Escura, Ruptura, O Pinguim): "
+if "%SERIE%"=="" (
+    echo [ERRO] O nome da serie nao pode ficar vazio.
+    pause
+    exit /b 1
+)
+set /p TEMPORADA="Digite a temporada (ex: 1 ou 2) [padrao: 1]: "
+if "%TEMPORADA%"=="" set TEMPORADA=1
+set /p EPISODIO="Digite o numero do proximo episodio (ex: 9) [padrao: 1]: "
+if "%EPISODIO%"=="" set EPISODIO=1
+set /p DATA_ESTREIA="Digite o dia de estreia (ex: quarta-feira ou 26 de junho): "
+if "%DATA_ESTREIA%"=="" set DATA_ESTREIA=quarta-feira
+set /p HORARIO="Digite o horario (ex: 22h ou 04h da manha) [padrao: 22h]: "
+if "%HORARIO%"=="" set HORARIO=22h (horario de Brasilia)
+set /p PLATAFORMA="Digite a plataforma (ex: Apple TV+, Max, Netflix): "
+if "%PLATAFORMA%"=="" set PLATAFORMA=Apple TV+
+
+echo.
+echo [1/3] Gerando artigo 'Que Dia Sai o Episodio' com Marcos Vinicius e SEO...
+%PYTHON_CMD% scripts/gerador_filmeja.py --formato episodio --serie "%SERIE%" --temporada %TEMPORADA% --episodio %EPISODIO% --data-estreia "%DATA_ESTREIA%" --horario "%HORARIO%" --plataforma "%PLATAFORMA%"
+if %errorlevel% neq 0 (
+    echo [ERRO] Falha na geracao do artigo de serie.
     pause
     exit /b 1
 )

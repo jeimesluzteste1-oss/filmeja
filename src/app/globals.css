@@ -320,14 +320,41 @@ button {
 }
 
 .post-type-badge.list {
-  background: rgba(229, 9, 20, 0.85);
+  background: linear-gradient(135deg, rgba(229, 9, 20, 0.95) 0%, rgba(189, 6, 16, 0.95) 100%);
   border-color: rgba(255, 255, 255, 0.3);
+  box-shadow: 0 2px 10px rgba(229, 9, 20, 0.4);
 }
 
 .post-type-badge.react {
-  background: rgba(255, 183, 3, 0.9);
+  background: linear-gradient(135deg, rgba(255, 183, 3, 0.95) 0%, rgba(251, 133, 0, 0.95) 100%);
   color: #111;
   font-weight: 800;
+  border-color: rgba(255, 255, 255, 0.4);
+  box-shadow: 0 2px 10px rgba(255, 183, 3, 0.35);
+}
+
+.post-type-badge.episodio {
+  background: linear-gradient(135deg, rgba(0, 180, 216, 0.95) 0%, rgba(0, 119, 182, 0.95) 100%);
+  color: #fff;
+  font-weight: 800;
+  border-color: rgba(255, 255, 255, 0.35);
+  box-shadow: 0 2px 10px rgba(0, 180, 216, 0.4);
+}
+
+.post-type-badge.lancamento {
+  background: linear-gradient(135deg, rgba(138, 43, 226, 0.95) 0%, rgba(75, 0, 130, 0.95) 100%);
+  color: #fff;
+  font-weight: 800;
+  border-color: rgba(255, 255, 255, 0.35);
+  box-shadow: 0 2px 10px rgba(138, 43, 226, 0.4);
+}
+
+.post-type-badge.review {
+  background: linear-gradient(135deg, rgba(16, 185, 129, 0.95) 0%, rgba(5, 150, 105, 0.95) 100%);
+  color: #fff;
+  font-weight: 800;
+  border-color: rgba(255, 255, 255, 0.35);
+  box-shadow: 0 2px 10px rgba(16, 185, 129, 0.4);
 }
 
 .post-card-body {

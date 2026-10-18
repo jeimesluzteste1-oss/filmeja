@@ -178,6 +178,9 @@ export default function HomePage() {
           <Link href="/tipo/react" className="cat-pill">
             ⭐ Críticas & Reacts
           </Link>
+          <Link href="/tipo/episodio" className="cat-pill">
+            📺 Séries & Episódios
+          </Link>
           {genres.map((g) => (
             <Link key={g} href={`/genero/${encodeURIComponent(g.toLowerCase())}`} className="cat-pill">
               {g}
@@ -213,7 +216,15 @@ export default function HomePage() {
                   priority={post.id === 'post-1'}
                 />
                 <span className={`post-type-badge ${post.type}`}>
-                  {post.type === 'list' ? 'Top Ranking' : 'Crítica'}
+                  {post.type === 'list'
+                    ? '🔥 Top Ranking'
+                    : post.type === 'react'
+                    ? '⭐ Crítica'
+                    : post.type === 'episodio'
+                    ? '📺 Novo Episódio'
+                    : post.type === 'lancamento'
+                    ? '🗓️ Calendário'
+                    : '🎬 Cinema'}
                 </span>
               </Link>
 

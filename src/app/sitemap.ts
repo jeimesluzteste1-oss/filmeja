@@ -39,6 +39,18 @@ export default function sitemap(): MetadataRoute.Sitemap {
       changeFrequency: 'daily',
       priority: 0.7,
     },
+    {
+      url: `${baseUrl}/tipo/episodio`,
+      lastModified: new Date(),
+      changeFrequency: 'daily',
+      priority: 0.8,
+    },
+    {
+      url: `${baseUrl}/tipo/lancamento`,
+      lastModified: new Date(),
+      changeFrequency: 'daily',
+      priority: 0.8,
+    },
   ];
 
   return [...staticUrls, ...postsUrls, ...genresUrls];

@@ -76,6 +76,19 @@ export const AUTHORS: Record<string, Author> = {
       instagram: 'https://instagram.com',
     },
   },
+  marcos: {
+    id: 'marcos',
+    name: 'Marcos Vinicius',
+    role: 'Especialista em Séries & Lançamentos Semanais',
+    avatar: 'https://images.unsplash.com/photo-1539571696357-5a69c17a67c6?w=200&auto=format&fit=crop&q=80',
+    bio: 'Jornalista focado no ecossistema do streaming e narrativas televisivas. Especialista em cronogramas de lançamento, acompanhamento de episódios semanais, teorias de final de temporada e maratonas no Apple TV+, Max, Netflix e Prime Video.',
+    specialty: 'Séries de TV, Calendário de Episódios Semanais e Maratonas de Streaming',
+    writingStyle: 'Dinâmico, objetivo, analítico e focado na utilidade direta para o fã: datas e horários exatos de estreia, cronograma completo de episódios, onde assistir no Brasil e ganchos do enredo.',
+    social: {
+      letterboxd: 'https://letterboxd.com',
+      twitter: 'https://x.com',
+    },
+  },
 };
 
 export function getAuthorById(id: string): Author {

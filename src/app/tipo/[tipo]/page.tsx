@@ -13,17 +13,31 @@ interface TipoPageProps {
 }
 
 export async function generateStaticParams() {
-  return [{ tipo: 'list' }, { tipo: 'react' }];
+  return [
+    { tipo: 'list' },
+    { tipo: 'react' },
+    { tipo: 'episodio' },
+    { tipo: 'lancamento' },
+  ];
 }
 
 export async function generateMetadata({ params }: TipoPageProps): Promise<Metadata> {
-  const isList = params.tipo === 'list';
-  const title = isList
-    ? 'Top Listas de Filmes (Top 5 e Top 10) | FilmeJá'
-    : 'Reacts e Análises Sinceras de Lançamentos | FilmeJá';
-  const description = isList
-    ? 'Descubra seleções com os melhores filmes de terror, suspense e ficção ordenados por nota e relevância.'
-    : 'Veja nossas impressões honestas, prós, contras e veredito dos últimos lançamentos de cinema e streaming.';
+  let title = 'Filmes e Séries | FilmeJá';
+  let description = 'Confira as melhores recomendações e novidades no FilmeJá.';
+
+  if (params.tipo === 'list') {
+    title = 'Top Listas de Filmes (Top 5 e Top 10) | FilmeJá';
+    description = 'Descubra seleções com os melhores filmes de terror, suspense e ficção ordenados por nota e relevância.';
+  } else if (params.tipo === 'react') {
+    title = 'Reacts e Análises Sinceras de Lançamentos | FilmeJá';
+    description = 'Veja nossas impressões honestas, prós, contras e veredito dos últimos lançamentos de cinema e streaming.';
+  } else if (params.tipo === 'episodio') {
+    title = 'Séries em Alta: Que Dia Sai o Próximo Episódio? | FilmeJá';
+    description = 'Calendário de episódios semanais, datas, horários no Brasil e onde assistir às séries mais comentadas do streaming.';
+  } else if (params.tipo === 'lancamento') {
+    title = 'Calendário de Estreias e Lançamentos Mais Esperados | FilmeJá';
+    description = 'Datas de estreias confirmadas, trailers e previsão de chegada aos streamings e cinemas.';
+  }
 
   return {
     title,
@@ -35,12 +49,34 @@ export async function generateMetadata({ params }: TipoPageProps): Promise<Metad
 }
 
 export default function TipoPage({ params }: TipoPageProps) {
-  if (params.tipo !== 'list' && params.tipo !== 'react') {
+  const validTypes = ['list', 'react', 'episodio', 'lancamento'];
+  if (!validTypes.includes(params.tipo)) {
     notFound();
   }
 
   const posts = getPostsByType(params.tipo as PostType);
-  const isList = params.tipo === 'list';
+  
+  let pageHeading = 'Artigos da Redação';
+  let pageDesc = 'Navegue pelo nosso acervo exclusivo.';
+  let breadcrumbLabel = 'Artigos';
+
+  if (params.tipo === 'list') {
+    pageHeading = 'Top Listas de Filmes';
+    pageDesc = 'Rankings minuciosamente selecionados para você maratonar hoje sem erro.';
+    breadcrumbLabel = 'Top Listas';
+  } else if (params.tipo === 'react') {
+    pageHeading = 'Reacts & Críticas';
+    pageDesc = 'Nossas impressões sinceras, veredito e onde assistir aos filmes do momento.';
+    breadcrumbLabel = 'Reacts & Críticas';
+  } else if (params.tipo === 'episodio') {
+    pageHeading = 'Séries & Calendário de Episódios';
+    pageDesc = 'Descubra que dia e horário sai o novo episódio da sua série favorita no streaming.';
+    breadcrumbLabel = 'Séries & Episódios';
+  } else if (params.tipo === 'lancamento') {
+    pageHeading = 'Próximos Lançamentos';
+    pageDesc = 'Calendário completo dos filmes e temporadas mais aguardados do cinema e streaming.';
+    breadcrumbLabel = 'Lançamentos';
+  }
 
   return (
     <div className="container" style={{ paddingBottom: '4rem' }}>
@@ -48,18 +84,16 @@ export default function TipoPage({ params }: TipoPageProps) {
         <Link href="/">Início</Link>
         <ChevronRight size={14} />
         <span style={{ color: 'var(--text-main)' }}>
-          {isList ? 'Top Listas' : 'Reacts & Análises'}
+          {breadcrumbLabel}
         </span>
       </nav>
 
       <div className="hero-banner" style={{ border: 'none', padding: '1rem 0 2.5rem' }}>
         <h1 className="hero-title" style={{ fontSize: '2.5rem' }}>
-          {isList ? 'Top Listas de Filmes' : 'Reacts & Críticas'}
+          {pageHeading}
         </h1>
         <p className="hero-desc">
-          {isList
-            ? 'Rankings minuciosamente selecionados para você maratonar hoje sem erro.'
-            : 'Nossas impressões sinceras, veredito e onde assistir aos filmes do momento.'}
+          {pageDesc}
         </p>
       </div>
 

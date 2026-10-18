@@ -72,7 +72,18 @@ TMDB_POSTERS = {
     "o homem invisível": "https://image.tmdb.org/t/p/w500/67gVCA33yHpFkFyqhDJrt21MvYI.jpg",
     "o poço": "https://image.tmdb.org/t/p/w500/kY0ET33EoiJhjaPCzzvywCDqP6b.jpg",
     "bird box": "https://image.tmdb.org/t/p/w500/kTHDVXVTT62gJY9WfZnaXdmtvZE.jpg",
-    "mad max: estrada da fúria": "https://image.tmdb.org/t/p/w500/tH64gzAHDFg7EFcgfkkZyHdGM5P.jpg"
+    "mad max: estrada da fúria": "https://image.tmdb.org/t/p/w500/tH64gzAHDFg7EFcgfkkZyHdGM5P.jpg",
+    "materia escura": "https://image.tmdb.org/t/p/w500/b1x6jhVz93wM1tA0O92E461P11c.jpg",
+    "matéria escura": "https://image.tmdb.org/t/p/w500/b1x6jhVz93wM1tA0O92E461P11c.jpg",
+    "dark matter": "https://image.tmdb.org/t/p/w500/b1x6jhVz93wM1tA0O92E461P11c.jpg",
+    "o pinguim": "https://image.tmdb.org/t/p/w500/sm8F6H9XzWzJ3K9Y2K7G7p6zL3e.jpg",
+    "the penguin": "https://image.tmdb.org/t/p/w500/sm8F6H9XzWzJ3K9Y2K7G7p6zL3e.jpg",
+    "ruptura": "https://image.tmdb.org/t/p/w500/b2j7tM25L41v79VfL5cM9P994Q8.jpg",
+    "severance": "https://image.tmdb.org/t/p/w500/b2j7tM25L41v79VfL5cM9P994Q8.jpg",
+    "the last of us": "https://image.tmdb.org/t/p/w500/uKvVjK1olIuUUpK2fbg9m0832p.jpg",
+    "silo": "https://image.tmdb.org/t/p/w500/1N1T9g7W8G9bJ7r7Y1C7eL6mZ0.jpg",
+    "silô": "https://image.tmdb.org/t/p/w500/1N1T9g7W8G9bJ7r7Y1C7eL6mZ0.jpg",
+    "stranger things": "https://image.tmdb.org/t/p/w500/49WJfeN0moxb9IPfGn8AIqMGskD.jpg"
 }
 
 AUTHORS = {
@@ -100,12 +111,19 @@ AUTHORS = {
         "name": "Lucas Andrade",
         "role": "Crítico Sênior & Editor-Chefe",
         "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=100&auto=format&fit=crop&q=80"
+    },
+    "marcos": {
+        "name": "Marcos Vinicius",
+        "role": "Especialista em Séries & Lançamentos Semanais",
+        "avatar": "https://images.unsplash.com/photo-1539571696357-5a69c17a67c6?w=100&auto=format&fit=crop&q=80"
     }
 }
 
 def selecionar_autor(genero: str, tema: str) -> dict:
     """Seleciona a persona editorial mais qualificada para o gênero do artigo."""
     texto = f"{genero} {tema}".lower()
+    if any(k in texto for k in ["serie", "série", "episodio", "episódio", "temporada", "quando sai", "que dia sai", "materia escura", "apple tv"]):
+        return AUTHORS["marcos"]
     if any(k in texto for k in ["sci-fi", "ficcao", "ficção", "espaco", "espaço", "alien", "futuro"]):
         return AUTHORS["camila"]
     if any(k in texto for k in ["acao", "ação", "sobrevivencia", "sobrevivência", "aventura", "adrenalina"]):
@@ -267,18 +285,91 @@ def gerar_post_streaming(genero: str, plataforma: str, qtd: int = 7) -> dict:
         ]
     }
 
+def gerar_post_episodio(serie: str, temporada: int = 1, episodio: int = 1, data_estreia: str = "quarta-feira", horario: str = "22h (horário de Brasília)", plataforma: str = "Apple TV+", total_episodios: int = 9) -> dict:
+    """Gera post focado em busca semanal: 'Que Dia Sai o Episódio [X] de [SERIE]? Data, Horário e Onde Assistir'."""
+    autor = AUTHORS["marcos"]
+    serie_clean = serie.strip()
+    slug = slugify(f"que-dia-sai-episodio-{episodio}-de-{serie_clean}-temporada-{temporada}-data-horario")
+    now_iso = datetime.now(timezone.utc).isoformat()
+    cover = buscar_poster_tmdb(serie_clean)
+
+    return {
+        "id": f"post-{int(time.time())}",
+        "slug": slug,
+        "title": f"Que Dia Sai o Episódio {episodio} de {serie_clean.title()}? Data, Horário e Calendário Completo na {plataforma}",
+        "subtitle": f"Confira a data e o horário exato de lançamento do novo episódio da {temporada}ª temporada de {serie_clean.title()}, o que esperar da continuação e o cronograma de exibição no Brasil.",
+        "type": "episodio",
+        "genres": ["Séries", plataforma, "Lançamentos", "Calendário de Episódios"],
+        "publishedAt": now_iso,
+        "updatedAt": now_iso,
+        "author": autor,
+        "coverImage": cover,
+        "posterImage": cover,
+        "readingTime": "4 min de leitura",
+        "seo": {
+            "metaTitle": f"Que Dia Sai o Episódio {episodio} de {serie_clean.title()}? Horário e Data | FilmeJá",
+            "metaDescription": f"Saiba quando sai o episódio {episodio} da {temporada}ª temporada de {serie_clean.title()} na {plataforma}. Horário de estreia no Brasil, resumo sem spoilers e calendário semanal.",
+            "keywords": [
+                f"que dia sai o episodio {episodio} de {serie_clean.lower()}",
+                f"quando sai novo episodio de {serie_clean.lower()}",
+                f"{serie_clean.lower()} episodio {episodio} data",
+                f"{serie_clean.lower()} horario de lancamento brasil",
+                f"calendario de episodios {serie_clean.lower()}"
+            ]
+        },
+        "seriesInfo": {
+            "seriesTitle": serie_clean.title(),
+            "seasonNumber": temporada,
+            "episodeNumber": episodio,
+            "nextEpisodeDate": data_estreia,
+            "nextEpisodeTime": horario,
+            "platform": plataforma,
+            "totalEpisodes": total_episodios
+        },
+        "content": f"A corrida para descobrir o desfecho de {serie_clean.title()} transformou as noites de lançamento em um verdadeiro evento para os fãs de séries no Brasil. Se você está acompanhando semanalmente pelo catálogo da {plataforma}, detalhamos abaixo a data confirmada, o horário exato em que o episódio fica disponível com dublagem e legendas e o que esperar dos próximos desdobramentos.",
+        "faqs": [
+            {
+                "question": f"Que dia sai o episódio {episodio} de {serie_clean.title()} no Brasil?",
+                "answer": f"O novo episódio estreia oficialmente em {data_estreia}, disponível diretamente no catálogo do {plataforma} para assinantes no Brasil."
+            },
+            {
+                "question": f"A que horas o episódio {episodio} fica disponível no streaming?",
+                "answer": f"No Brasil, os episódios do {plataforma} geralmente são liberados a partir das {horario} com opção de áudio original legendado e dublagem em português."
+            },
+            {
+                "question": f"Quantos episódios tem a temporada de {serie_clean.title()}?",
+                "answer": f"A temporada conta com um total de {total_episodios} episódios exibidos semanalmente, culminando no aguardado Season Finale."
+            }
+        ]
+    }
+
 def main():
     parser = argparse.ArgumentParser(description="Automacao & Publicacao FilmeJa")
-    parser.add_argument("--formato", choices=["parecidos", "streaming", "padrao"], default="padrao", help="Formato de ouro SEO")
+    parser.add_argument("--formato", choices=["parecidos", "streaming", "episodio", "padrao"], default="padrao", help="Formato de ouro SEO")
+    parser.add_argument("--serie", default="", help="Nome da serie para formato episodio")
+    parser.add_argument("--temporada", type=int, default=1, help="Numero da temporada")
+    parser.add_argument("--episodio", type=int, default=1, help="Numero do episodio")
+    parser.add_argument("--data-estreia", default="esta semana", help="Data de estreia do episodio")
+    parser.add_argument("--horario", default="22h (horario de Brasilia)", help="Horario de estreia")
     parser.add_argument("--filme", default="", help="Nome do filme base para 'parecidos'")
-    parser.add_argument("--plataforma", default="Netflix", help="Plataforma de streaming (Netflix, Prime Video, Max)")
+    parser.add_argument("--plataforma", default="Netflix", help="Plataforma de streaming (Netflix, Prime Video, Max, Apple TV+)")
     parser.add_argument("--tema", default="", help="Tema do artigo")
     parser.add_argument("--genero", default="Cinema", help="Genero principal")
     parser.add_argument("--publicar", action="store_true", help="Dispara git push e vercel deploy")
     parser.add_argument("--lote", action="store_true", help="Verifica integridade do acervo")
     args = parser.parse_args()
 
-    if args.formato == "parecidos" and args.filme:
+    if args.formato == "episodio" and args.serie:
+        post = gerar_post_episodio(
+            serie=args.serie,
+            temporada=args.temporada,
+            episodio=args.episodio,
+            data_estreia=getattr(args, "data_estreia", "quarta-feira"),
+            horario=args.horario,
+            plataforma=args.plataforma
+        )
+        salvar_post(post)
+    elif args.formato == "parecidos" and args.filme:
         post = gerar_post_parecidos(args.filme, args.genero)
         salvar_post(post)
     elif args.formato == "streaming":

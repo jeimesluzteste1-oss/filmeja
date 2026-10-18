@@ -273,6 +273,72 @@ export default function PostPage({ params }: PostPageProps) {
         </div>
       </header>
 
+      {/* Se for um EPISÓDIO / SÉRIE: Box de Lançamento e Calendário Oficial */}
+      {post.seriesInfo && (
+        <section className="movie-specs-box" style={{ borderColor: 'rgba(0, 180, 216, 0.4)', background: 'linear-gradient(180deg, #121620 0%, #0d0f15 100%)' }}>
+          <div className="specs-poster">
+            <Image
+              src={post.posterImage}
+              alt={post.seriesInfo.seriesTitle}
+              width={240}
+              height={360}
+              style={{ width: '100%', height: 'auto', display: 'block', borderRadius: '8px' }}
+              priority
+            />
+          </div>
+
+          <div className="specs-details">
+            <div style={{ display: 'inline-flex', alignItems: 'center', gap: '8px', padding: '6px 14px', borderRadius: '8px', background: 'rgba(0, 180, 216, 0.15)', color: '#00b4d8', fontWeight: 800, fontSize: '0.85rem', marginBottom: '1rem', border: '1px solid rgba(0, 180, 216, 0.3)' }}>
+              📺 Calendário de Exibição Semanal
+            </div>
+
+            <h2 style={{ fontSize: '1.8rem', fontWeight: 800, color: '#fff', marginBottom: '0.8rem', fontFamily: 'var(--font-heading)' }}>
+              {post.seriesInfo.seriesTitle} — Temporada {post.seriesInfo.seasonNumber}
+            </h2>
+
+            <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(180px, 1fr))', gap: '1rem', background: 'rgba(255,255,255,0.03)', padding: '1.2rem', borderRadius: '10px', border: '1px solid rgba(255,255,255,0.06)', marginBottom: '1.5rem' }}>
+              <div>
+                <span style={{ fontSize: '0.75rem', color: 'var(--text-sub)', textTransform: 'uppercase', letterSpacing: '0.5px' }}>Próximo Episódio:</span>
+                <div style={{ fontSize: '1.25rem', fontWeight: 700, color: '#fff', marginTop: '4px' }}>
+                  Episódio {post.seriesInfo.episodeNumber}
+                </div>
+              </div>
+              <div>
+                <span style={{ fontSize: '0.75rem', color: 'var(--text-sub)', textTransform: 'uppercase', letterSpacing: '0.5px' }}>Data de Lançamento:</span>
+                <div style={{ fontSize: '1.15rem', fontWeight: 700, color: '#00b4d8', marginTop: '4px' }}>
+                  {post.seriesInfo.nextEpisodeDate}
+                </div>
+              </div>
+              <div>
+                <span style={{ fontSize: '0.75rem', color: 'var(--text-sub)', textTransform: 'uppercase', letterSpacing: '0.5px' }}>Horário no Brasil:</span>
+                <div style={{ fontSize: '1.1rem', fontWeight: 700, color: '#ffb703', marginTop: '4px' }}>
+                  {post.seriesInfo.nextEpisodeTime}
+                </div>
+              </div>
+              <div>
+                <span style={{ fontSize: '0.75rem', color: 'var(--text-sub)', textTransform: 'uppercase', letterSpacing: '0.5px' }}>Onde Assistir:</span>
+                <div style={{ fontSize: '1.1rem', fontWeight: 700, color: '#fff', marginTop: '4px' }}>
+                  {post.seriesInfo.platform}
+                </div>
+              </div>
+            </div>
+
+            <div style={{ marginTop: '1rem' }}>
+              <a
+                href={getStreamingSearchUrl(post.seriesInfo.platform, post.seriesInfo.seriesTitle)}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="nav-link-cta"
+                style={{ display: 'inline-flex', alignItems: 'center', gap: '8px', padding: '0.75rem 1.6rem', fontSize: '0.95rem' }}
+              >
+                <span>Assistir no {post.seriesInfo.platform}</span>
+                <ExternalLink size={16} />
+              </a>
+            </div>
+          </div>
+        </section>
+      )}
+
       {/* Se for um REACT / REVIEW: Box de Ficha Técnica e Veredito */}
       {post.featuredMovie && (
         <section className="movie-specs-box">

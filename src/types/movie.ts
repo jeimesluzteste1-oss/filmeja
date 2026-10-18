@@ -1,4 +1,26 @@
-export type PostType = 'list' | 'react' | 'review';
+export type PostType = 'list' | 'react' | 'review' | 'episodio' | 'lancamento';
+
+export interface EpisodeScheduleItem {
+  episodeNumber: number;
+  title?: string;
+  releaseDate: string;
+  releaseTime?: string;
+  status?: 'exibido' | 'proximo' | 'a_estrear';
+}
+
+export interface SeriesInfo {
+  seriesTitle: string;
+  originalTitle?: string;
+  seasonNumber: number;
+  episodeNumber?: number;
+  nextEpisodeDate?: string;
+  nextEpisodeTime?: string;
+  platform: string;
+  totalEpisodes?: number;
+  schedule?: EpisodeScheduleItem[];
+  recapPreviousEpisode?: string;
+  whatToExpect?: string;
+}
 
 export interface ListItem {
   rank: number;
@@ -61,6 +83,7 @@ export interface MoviePost {
     keywords: string[];
   };
   featuredMovie?: FeaturedMovie;
+  seriesInfo?: SeriesInfo;
   listItems?: ListItem[];
   content: string;
   faqs: FAQItem[];
