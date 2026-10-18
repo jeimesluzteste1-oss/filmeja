@@ -55,6 +55,16 @@ export interface FeaturedMovie {
   verdict: string;
 }
 
+export interface MovieInfo {
+  title: string;
+  releaseDate: string;
+  directors?: string;
+  confirmedCast?: string[];
+  futureStreaming?: string;
+  productionDetails?: string;
+  mainVillain?: string;
+}
+
 export interface FAQItem {
   question: string;
   answer: string;
@@ -84,7 +94,9 @@ export interface MoviePost {
   };
   featuredMovie?: FeaturedMovie;
   seriesInfo?: SeriesInfo;
+  movieInfo?: MovieInfo;
   listItems?: ListItem[];
   content: string;
   faqs: FAQItem[];
 }
+

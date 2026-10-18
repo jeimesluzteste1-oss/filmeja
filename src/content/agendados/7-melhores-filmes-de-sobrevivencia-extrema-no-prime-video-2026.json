@@ -1,13 +1,15 @@
 {
-  "id": "post-1792348421-7-3",
+  "id": "post-semana-ouro-34",
   "slug": "7-melhores-filmes-de-sobrevivencia-extrema-no-prime-video-2026",
-  "title": "7 Melhores Filmes de Sobrevivência Extrema no Prime Video para Assistir em 2026",
-  "subtitle": "Humanos levados ao limite contra o gelo, o mar aberto e a natureza implacável.",
-  "type": "streaming",
+  "title": "7 Melhores Filmes de Sobrevivência Extrema no Prime Video em 2026",
+  "subtitle": "Montanhas congeladas, o vácuo espacial e desertos implacáveis: histórias épicas sobre o limite da resistência humana.",
+  "type": "list",
   "genres": [
-    "Aventura",
     "Sobrevivência",
-    "Prime Video"
+    "Prime Video",
+    "Aventura",
+    "Drama",
+    "Streaming"
   ],
   "publishedAt": "2026-10-25T22:30:00Z",
   "scheduledFor": "2026-10-25T22:30:00Z",
@@ -17,37 +19,197 @@
     "role": "Editor de Cinema Comercial & Ação",
     "avatar": "https://images.unsplash.com/photo-1522075469751-3a6694fb2f61?w=100&auto=format&fit=crop&q=80"
   },
-  "coverImage": "https://image.tmdb.org/t/p/w500/fONsBTZIDqxMfHwlfUcCAb8ubr1.jpg",
-  "posterImage": "https://image.tmdb.org/t/p/w500/fONsBTZIDqxMfHwlfUcCAb8ubr1.jpg",
-  "readingTime": "5 min de leitura",
+  "coverImage": "https://image.tmdb.org/t/p/w500/7fQTmvKgVGxifieVryqqlxohkoW.jpg",
+  "posterImage": "https://image.tmdb.org/t/p/w500/7fQTmvKgVGxifieVryqqlxohkoW.jpg",
+  "readingTime": "8 min de leitura",
   "seo": {
-    "metaTitle": "7 Melhores Filmes de Sobrevivência Extrema no Prime Vid | FilmeJá",
-    "metaDescription": "Humanos levados ao limite contra o gelo, o mar aberto e a natureza implacável.",
+    "metaTitle": "7 Melhores Filmes de Sobrevivência no Prime Video (2026) | FilmeJá",
+    "metaDescription": "Gosta de histórias de superação e perigo real? Confira os 7 melhores filmes de sobrevivência extrema disponíveis no Prime Video.",
     "keywords": [
-      "7 melhores filmes de sobrevivencia extrema no prime video 2026",
-      "7 melhores filmes de sobrevivência extrema no prime video para assistir em 2026",
-      "onde assistir 7",
-      "filmeja cinema e streaming"
+      "filmes de sobrevivencia prime video",
+      "melhores filmes de superacao amazon prime",
+      "filmes baseados em fatos reais sobrevivencia",
+      "filmes de tensao extrema 2026"
     ]
   },
-  "content": "Histórias angustiantes de coragem e resiliência humana que fazem qualquer espectador segurar a respiração do começo ao fim.",
-  "faqs": [
-    {
-      "question": "Qual melhor filme de sobrevivência real?",
-      "answer": "A Sociedade da Neve e 127 Horas são as referências supremas do gênero."
-    }
-  ],
+  "content": "Não há nada mais inspirador e angustiante no cinema do que testemunhar a capacidade humana de perseverar diante de probabilidades impossíveis. O subgênero da sobrevivência extrema coloca homens e mulheres contra a fúria da natureza, o isolamento cósmico ou a escassez de recursos, exigindo força mental hercúlea para continuar respirando.\n\nO Amazon Prime Video reúne uma das melhores coleções de filmes do gênero. Selecionamos as **7 maiores produções de sobrevivência extrema do catálogo**, avaliadas pela fidelidade dramática e impacto emocional inesquecível.",
   "listItems": [
     {
       "rank": 1,
+      "title": "A Sociedade da Neve (Society of the Snow)",
+      "year": 2023,
+      "director": "J.A. Bayona",
+      "score": 9.7,
+      "highlightTag": "Obra-Prima Baseada em Fatos Reais",
+      "cast": [
+        "Enzo Vogrincic",
+        "Agustín Pardella",
+        "Matías Recalt"
+      ],
+      "posterImage": "https://image.tmdb.org/t/p/w500/7fQTmvKgVGxifieVryqqlxohkoW.jpg",
+      "whereToWatch": [
+        "Prime Video",
+        "Netflix"
+      ],
+      "synopsis": "Após a queda do voo 571 nos Andes em 1972, um grupo de jovens uruguaios resiste a 72 dias de fome, avalanches e frio polar.",
+      "whyWatch": "O filme definitivo sobre o milagre dos Andes. Bayona foca no afeto coletivo e no sacrifício mútuo com cenas de realismo de cortar o fôlego.",
+      "highlightPoints": [
+        "Indicado a 2 prêmios Oscar",
+        "Fotografia real nas montanhas de Serra Nevada e nos Andes"
+      ]
+    },
+    {
+      "rank": 2,
       "title": "127 Horas",
       "year": 2010,
-      "whereToWatch": [
-        "Disney+",
-        "Prime Video"
+      "director": "Danny Boyle",
+      "score": 9.1,
+      "highlightTag": "Decisão Limite",
+      "cast": [
+        "James Franco",
+        "Amber Tamblyn",
+        "Kate Mara"
       ],
+      "posterImage": "https://image.tmdb.org/t/p/w500/fONsBTZIDqxMfHwlfUcCAb8ubr1.jpg",
+      "whereToWatch": [
+        "Prime Video",
+        "Disney+"
+      ],
+      "synopsis": "A luta de Aron Ralston para se libertar após ter o braço preso por um rochedo em um cânion remoto de Utah.",
+      "whyWatch": "A edição de Danny Boyle é uma injeção de adrenalina. A decisão final de Ralston é um dos momentos mais corajosos já filmados.",
+      "highlightPoints": [
+        "6 indicações ao Oscar",
+        "Atuação histórica de James Franco"
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "O Regresso (The Revenant)",
+      "year": 2015,
+      "director": "Alejandro G. Iñárritu",
       "score": 9.3,
-      "posterImage": "https://image.tmdb.org/t/p/w500/fONsBTZIDqxMfHwlfUcCAb8ubr1.jpg"
+      "highlightTag": "3 Oscars Conquistados",
+      "cast": [
+        "Leonardo DiCaprio",
+        "Tom Hardy",
+        "Domhnall Gleeson"
+      ],
+      "posterImage": "https://image.tmdb.org/t/p/w500/hRotKKijqV6YibxnhSOureF5efx.jpg",
+      "whereToWatch": [
+        "Prime Video",
+        "Max"
+      ],
+      "synopsis": "Gravemente ferido por um urso e abandonado em uma cova rasa, um homem rasteja por centenas de quilômetros de floresta congelada para sobreviver.",
+      "whyWatch": "A experiência de filmagem mais brutal da história moderna de Hollywood. DiCaprio comeu fígado de bisão cru para dar vida ao personagem.",
+      "highlightPoints": [
+        "Oscar de Melhor Ator e Diretor",
+        "Fotografia usando apenas luz do sol e fogueiras"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "Gravidade (Gravity)",
+      "year": 2013,
+      "director": "Alfonso Cuarón",
+      "score": 9.2,
+      "highlightTag": "Vácuo Absoluto",
+      "cast": [
+        "Sandra Bullock",
+        "George Clooney"
+      ],
+      "posterImage": "https://image.tmdb.org/t/p/w500/eHLufJ1bHy4PtEBJdPSTu4jIhZ0.jpg",
+      "whereToWatch": [
+        "Prime Video",
+        "Max"
+      ],
+      "synopsis": "Com o oxigênio diminuindo a cada respiração, uma astronauta precisa encontrar uma maneira de retornar à Terra após um desastre orbital.",
+      "whyWatch": "O pavor claustrofóbico de estar solto no espaço sem ter onde se segurar. Simplesmente uma aula de ritmo.",
+      "highlightPoints": [
+        "Vencedor de 7 Oscars",
+        "Efeitos visuais perfeitos"
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "Um Lugar Silencioso: Dia Um",
+      "year": 2024,
+      "director": "Michael Sarnoski",
+      "score": 8.8,
+      "highlightTag": "Silêncio na Metrópole",
+      "cast": [
+        "Lupita Nyong'o",
+        "Joseph Quinn",
+        "Djimon Hounsou"
+      ],
+      "posterImage": "https://image.tmdb.org/t/p/w500/pN9BtzUeqPIKybAu9baihz6YzyO.jpg",
+      "whereToWatch": [
+        "Prime Video",
+        "Apple TV+"
+      ],
+      "synopsis": "Uma mulher com uma doença terminal e seu gato de estimação tentam atravessar a barulhenta Nova York durante a invasão de monstros cegos com audição hipersensível.",
+      "whyWatch": "Lupita Nyong'o e Joseph Quinn constroem uma relação de amizade emocionante em meio à destruição da cidade mais barulhenta do mundo.",
+      "highlightPoints": [
+        "Uso magistral do design de som",
+        "O gato Frodo como coadjuvante inesquecível"
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "O Poço (The Platform)",
+      "year": 2019,
+      "director": "Galder Gaztelu-Urrutia",
+      "score": 8.7,
+      "highlightTag": "Sobrevivência Distópica",
+      "cast": [
+        "Ivan Massagué",
+        "Zorion Eguileor",
+        "Antonia San Juan"
+      ],
+      "posterImage": "https://image.tmdb.org/t/p/w500/kY0ET33EoiJhjaPCzzvywCDqP6b.jpg",
+      "whereToWatch": [
+        "Prime Video",
+        "Netflix"
+      ],
+      "synopsis": "Em uma prisão vertical com uma plataforma de comida que desce andar por andar, os prisioneiros dos níveis mais baixos lutam desesperadamente por sobras.",
+      "whyWatch": "Uma metáfora afiada e perturbadora sobre a ganância humana e a distribuição desigual de recursos quando a sobrevivência está em risco.",
+      "highlightPoints": [
+        "Sucesso estrondoso mundial",
+        "Cenas de tensão psicológica sufocante"
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "Bird Box",
+      "year": 2018,
+      "director": "Susanne Bier",
+      "score": 8.6,
+      "highlightTag": "Sobrevivência às Cegas",
+      "cast": [
+        "Sandra Bullock",
+        "Trevante Rhodes",
+        "John Malkovich"
+      ],
+      "posterImage": "https://image.tmdb.org/t/p/w500/kTHDVXVTT62gJY9WfZnaXdmtvZE.jpg",
+      "whereToWatch": [
+        "Prime Video",
+        "Netflix"
+      ],
+      "synopsis": "Uma mãe e seus dois filhos navegam por um rio revolto de olhos vendados para escapar de uma força misteriosa que leva ao suicídio quem a enxerga.",
+      "whyWatch": "Sandra Bullock mais uma vez demonstrando porque é a rainha do cinema de resiliência. As cenas de barco às cegas na correnteza são eletrizantes.",
+      "highlightPoints": [
+        "Fenômeno de audiência global",
+        "Tensão psicológica do que não pode ser visto"
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Qual é a história real mais emocionante de sobrevivência?",
+      "answer": "A Sociedade da Neve (a tragédia dos Andes de 1972) e 127 Horas são as mais aclamadas mundialmente por sua fidelidade comovente."
+    },
+    {
+      "question": "Esses filmes têm classificação indicativa para que idade?",
+      "answer": "A maioria dos títulos possui classificação indicativa para maiores de 16 ou 18 anos devido a cenas intensas de perigo e ferimentos reais."
     }
   ]
 }

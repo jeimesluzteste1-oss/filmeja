@@ -1,50 +1,115 @@
 {
-  "id": "post-1792348421-4-4",
+  "id": "post-semana-ouro-15",
   "slug": "que-dia-sai-episodio-1-de-house-of-the-dragon-temporada-3-data-horario",
-  "title": "Que Dia Sai o Episódio 1 de House of the Dragon (3ª Temporada)? Data e Horário na Max",
-  "subtitle": "A Dança dos Dragões atinge o confronto aberto entre Rhaenyra Targaryen e os Verdes na HBO.",
+  "title": "Que Dia Sai o Episódio 1 de A Casa do Dragão (3ª Temporada)? Data e Horário na Max",
+  "subtitle": "A Dança dos Dragões entra em sua fase mais sangrenta: a Batalha da Goleta, Rhaenyra em Porto Real e previsão oficial na HBO.",
   "type": "episodio",
   "genres": [
     "Séries",
     "Max",
-    "Fantasia Épica",
-    "Dramas"
+    "Fantasia",
+    "Lançamentos"
   ],
-  "publishedAt": "2026-10-22T23:59:00Z",
-  "scheduledFor": "2026-10-22T23:59:00Z",
-  "updatedAt": "2026-10-22T23:59:00Z",
+  "publishedAt": "2026-10-21T23:59:00Z",
+  "scheduledFor": "2026-10-21T23:59:00Z",
+  "updatedAt": "2026-10-21T23:59:00Z",
   "author": {
     "name": "Camila Fontes",
     "role": "Crítica de Sci-Fi & Fantasia",
     "avatar": "https://images.unsplash.com/photo-1517841905240-472988babdf9?w=100&auto=format&fit=crop&q=80"
   },
-  "coverImage": "https://image.tmdb.org/t/p/w500/7QMsOTMUswlwxJP0rTTZfmz2tX2.jpg",
-  "posterImage": "https://image.tmdb.org/t/p/w500/7QMsOTMUswlwxJP0rTTZfmz2tX2.jpg",
-  "readingTime": "4 min de leitura",
+  "coverImage": "https://image.tmdb.org/t/p/w500/1X4h40fcB4WWUmIBK0auT4zRBAV.jpg",
+  "posterImage": "https://image.tmdb.org/t/p/w500/1X4h40fcB4WWUmIBK0auT4zRBAV.jpg",
+  "readingTime": "5 min de leitura",
   "seo": {
-    "metaTitle": "Que Dia Sai o Episódio 1 de House of the Dragon (3ª Tem | FilmeJá",
-    "metaDescription": "A Dança dos Dragões atinge o confronto aberto entre Rhaenyra Targaryen e os Verdes na HBO.",
+    "metaTitle": "Que Dia Sai Episódio 1 de A Casa do Dragão (3ª Temp)? Horário | FilmeJá",
+    "metaDescription": "Saiba que dia e que horas estreia o episódio 1 da 3ª temporada de A Casa do Dragão na Max. Veja o cronograma no Brasil e batalhas de dragões.",
     "keywords": [
-      "que dia sai episodio 1 de house of the dragon temporada 3 data horario",
-      "que dia sai o episódio 1 de house of the dragon (3ª temporada)? data e horário na max",
-      "onde assistir que",
-      "filmeja cinema e streaming"
+      "a casa do dragao temporada 3 data",
+      "que dia sai house of the dragon ep 1",
+      "house of the dragon 3 horario max brasil",
+      "dança dos dragoes temporada 3"
     ]
   },
-  "content": "A Batalha do Gargalo e os maiores embates aéreos entre dragões prometem transformar a 3ª temporada de A Casa do Dragão no evento supremo da HBO.",
-  "faqs": [
-    {
-      "question": "A que horas sai A Casa do Dragão no Brasil?",
-      "answer": "Os episódios estreiam pontualmente aos domingos às 22h00 na Max e na HBO TV."
-    }
-  ],
+  "content": "Com as frotas zarparam e os novos montadores de dragões (as 'Sementes de Dragão') alinhados ao lado de Rhaenyra Targaryen (Emma D'Arcy), **A Casa do Dragão (House of the Dragon)** entra na fase mais violenta da guerra civil Targaryen na sua 3ª temporada pela HBO e Max.\n\nO showrunner Ryan Condal confirmou que a nova temporada abre com a monumental **Batalha da Goleta (Battle of the Gullet)** — o combate naval e aéreo mais caro e complexo já produzido na história da televisão. Enquanto Daemon Targaryen (Matt Smith) organiza as forças das Terras Fluviais em Harrenhal, Aemond Targaryen (Ewan Mitchell) e o dragão gigante Vhagar preparam uma resposta impiedosa contra as vilas rebeldes.\n\nSeguindo a tradição de Westeros, os novos episódios chegam **aos domingos pontualmente às 22h00 (horário de Brasília)** com transmissão simultânea na Max e no canal HBO linear.",
   "seriesInfo": {
-    "seriesTitle": "House of the Dragon",
+    "seriesTitle": "A Casa do Dragão",
+    "originalTitle": "House of the Dragon",
     "seasonNumber": 3,
     "episodeNumber": 1,
-    "nextEpisodeDate": "domingo",
-    "nextEpisodeTime": "22h00",
+    "nextEpisodeDate": "Junho de 2026",
+    "nextEpisodeTime": "22h00 (Horário de Brasília)",
     "platform": "Max",
-    "totalEpisodes": 8
-  }
+    "totalEpisodes": 8,
+    "recapPreviousEpisode": "No final da 2ª temporada, exércitos marcham por todo o continente de Westeros e a frota de Corlys Velaryon parte ao lado dos novos cavaleiros de dragões plebeus convocados por Rhaenyra.",
+    "whatToExpect": "O início brutal da Batalha da Goleta com confronto entre dragões e navios de guerra, e a ofensiva de Rhaenyra para tomar o Trono de Ferro em Porto Real.",
+    "schedule": [
+      {
+        "episodeNumber": 1,
+        "title": "A Batalha da Goleta",
+        "releaseDate": "Domingo",
+        "releaseTime": "22:00 BRT",
+        "status": "proximo"
+      },
+      {
+        "episodeNumber": 2,
+        "title": "Cinzas e Sangue",
+        "releaseDate": "Domingo",
+        "releaseTime": "22:00 BRT",
+        "status": "a_estrear"
+      },
+      {
+        "episodeNumber": 3,
+        "title": "A Tomada da Capital",
+        "releaseDate": "Domingo",
+        "releaseTime": "22:00 BRT",
+        "status": "a_estrear"
+      },
+      {
+        "episodeNumber": 4,
+        "title": "O Olho de Deus",
+        "releaseDate": "Domingo",
+        "releaseTime": "22:00 BRT",
+        "status": "a_estrear"
+      },
+      {
+        "episodeNumber": 5,
+        "title": "Reis Traídos",
+        "releaseDate": "Domingo",
+        "releaseTime": "22:00 BRT",
+        "status": "a_estrear"
+      },
+      {
+        "episodeNumber": 6,
+        "title": "Dança Sangrenta",
+        "releaseDate": "Domingo",
+        "releaseTime": "22:00 BRT",
+        "status": "a_estrear"
+      },
+      {
+        "episodeNumber": 7,
+        "title": "A Queda dos Dragões",
+        "releaseDate": "Domingo",
+        "releaseTime": "22:00 BRT",
+        "status": "a_estrear"
+      },
+      {
+        "episodeNumber": 8,
+        "title": "O Fim do Verão",
+        "releaseDate": "Domingo",
+        "releaseTime": "22:00 BRT",
+        "status": "a_estrear"
+      }
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Quando estreia a 3ª temporada de A Casa do Dragão?",
+      "answer": "A previsão oficial da HBO aponta para a estreia no início do primeiro semestre de 2026."
+    },
+    {
+      "question": "A 3ª temporada terá dragões novos?",
+      "answer": "Sim, além dos dragões já vistos como Syrax, Caraxes e Vhagar, novos dragões selvagens entrarão em combate em Westeros."
+    }
+  ]
 }

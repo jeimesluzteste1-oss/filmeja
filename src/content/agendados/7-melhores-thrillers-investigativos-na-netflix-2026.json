@@ -1,53 +1,215 @@
 {
-  "id": "post-1792348421-4-3",
+  "id": "post-semana-ouro-14",
   "slug": "7-melhores-thrillers-investigativos-na-netflix-2026",
-  "title": "7 Melhores Thrillers Investigativos e de Detetive na Netflix (2026)",
-  "subtitle": "Crimes enigmáticos, pistas ocultas e investigações obsessivas para maratonar no streaming.",
-  "type": "streaming",
+  "title": "7 Melhores Thrillers Investigativos na Netflix para Assistir Hoje em 2026",
+  "subtitle": "Crimes enigmáticos, detetives brilhantes e segredos de família: as obras mais inteligentes do catálogo da gigante vermelha.",
+  "type": "list",
   "genres": [
     "Policial",
-    "Investigação",
-    "Netflix"
+    "Mistério",
+    "Netflix",
+    "Thrillers",
+    "Streaming"
   ],
-  "publishedAt": "2026-10-22T22:30:00Z",
-  "scheduledFor": "2026-10-22T22:30:00Z",
-  "updatedAt": "2026-10-22T22:30:00Z",
+  "publishedAt": "2026-10-21T22:30:00Z",
+  "scheduledFor": "2026-10-21T22:30:00Z",
+  "updatedAt": "2026-10-21T22:30:00Z",
   "author": {
     "name": "Guilherme Santos",
     "role": "Editor de Thrillers & Policiais",
     "avatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=100&auto=format&fit=crop&q=80"
   },
-  "coverImage": "https://image.tmdb.org/t/p/w500/jFmlV5vUzOt1PgJ82efOhNsWcWX.jpg",
-  "posterImage": "https://image.tmdb.org/t/p/w500/jFmlV5vUzOt1PgJ82efOhNsWcWX.jpg",
-  "readingTime": "5 min de leitura",
+  "coverImage": "https://image.tmdb.org/t/p/w500/dZXYPSEaXCeigR2GEuZoukNmLTf.jpg",
+  "posterImage": "https://image.tmdb.org/t/p/w500/dZXYPSEaXCeigR2GEuZoukNmLTf.jpg",
+  "readingTime": "8 min de leitura",
   "seo": {
-    "metaTitle": "7 Melhores Thrillers Investigativos e de Detetive na Ne | FilmeJá",
-    "metaDescription": "Crimes enigmáticos, pistas ocultas e investigações obsessivas para maratonar no streaming.",
+    "metaTitle": "7 Melhores Thrillers Investigativos na Netflix em 2026 | FilmeJá",
+    "metaDescription": "Gosta de filmes de mistério e investigação policial? Veja os 7 thrillers mais envolventes e inteligentes disponíveis na Netflix.",
     "keywords": [
-      "7 melhores thrillers investigativos na netflix 2026",
-      "7 melhores thrillers investigativos e de detetive na netflix (2026)",
-      "onde assistir 7",
-      "filmeja cinema e streaming"
+      "filmes de investigacao netflix",
+      "melhores thrillers netflix 2026",
+      "filmes policiais inteligentes netflix",
+      "filmes estilo whodunit netflix"
     ]
   },
-  "content": "A Netflix conta com excelentes histórias policiais que prendem o espectador do primeiro minuto até a revelação da identidade do assassino.",
-  "faqs": [
-    {
-      "question": "Quais os melhores filmes de serial killer na Netflix?",
-      "answer": "Zodíaco e O Pálido Olho Azul são destaques absolutos."
-    }
-  ],
+  "content": "Poucas sensações superam o prazer intelectual de tentar solucionar um assassinato complexo junto com os detetives na tela. O subgênero dos thrillers investigativos vive uma era de ouro, combinando a elegância dos clássicos *whodunit* ('quem matou?') com a crueza dos filmes policiais modernos.\n\nReunimos os **7 thrillers investigativos mais brilhantes e aclamados da Netflix**, perfeitos para quem valoriza roteiros engenhosos, interrogatórios afiados e pistas escondidas em cada detalhe da cena.",
   "listItems": [
     {
       "rank": 1,
-      "title": "Zodíaco",
-      "year": 2007,
+      "title": "Seven: Os Sete Crimes Capitais",
+      "year": 1995,
+      "director": "David Fincher",
+      "score": 9.8,
+      "highlightTag": "Obra-Prima Suprema",
+      "cast": [
+        "Brad Pitt",
+        "Morgan Freeman",
+        "Gwyneth Paltrow"
+      ],
+      "posterImage": "https://image.tmdb.org/t/p/w500/dZXYPSEaXCeigR2GEuZoukNmLTf.jpg",
       "whereToWatch": [
         "Netflix",
         "Max"
       ],
-      "score": 9.4,
-      "posterImage": "https://image.tmdb.org/t/p/w500/jFmlV5vUzOt1PgJ82efOhNsWcWX.jpg"
+      "synopsis": "Dois policiais investigam assassinatos bárbaros inspirados em gula, ganância, preguiça, ira, orgulho, luxúria e inveja.",
+      "whyWatch": "O padrão-ouro do gênero policial. O clima de chuva incessante e o duelo psicológico com o criminoso John Doe permanecem inigualáveis.",
+      "highlightPoints": [
+        "Direção impecável de Fincher",
+        "O final mais impactante dos anos 90"
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "Zodíaco (Zodiac)",
+      "year": 2007,
+      "director": "David Fincher",
+      "score": 9.3,
+      "highlightTag": "Investigação Real",
+      "cast": [
+        "Jake Gyllenhaal",
+        "Mark Ruffalo",
+        "Robert Downey Jr."
+      ],
+      "posterImage": "https://image.tmdb.org/t/p/w500/jFmlV5vUzOt1PgJ82efOhNsWcWX.jpg",
+      "whereToWatch": [
+        "Netflix",
+        "Max"
+      ],
+      "synopsis": "Jornalistas e policiais tentam decifrar o mistério de um assassino em série que envia cartas codificadas zombando da polícia.",
+      "whyWatch": "Uma aula sobre o desgaste emocional e a obsessão humana pela verdade, baseado em arquivos policiais autênticos.",
+      "highlightPoints": [
+        "Elenco com três dos maiores atores da atualidade",
+        "Clima investigativo meticuloso"
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "Os Suspeitos (Prisoners)",
+      "year": 2013,
+      "director": "Denis Villeneuve",
+      "score": 9.6,
+      "highlightTag": "Tensão Ininterrupta",
+      "cast": [
+        "Hugh Jackman",
+        "Jake Gyllenhaal",
+        "Viola Davis"
+      ],
+      "posterImage": "https://image.tmdb.org/t/p/w500/30YtzPOimO7eG30r8K8rUkqTGNj.jpg",
+      "whereToWatch": [
+        "Netflix",
+        "Prime Video"
+      ],
+      "synopsis": "O desaparecimento de duas meninas desencadeia uma caçada implacável onde os limites morais são rompidos em nome do resgate.",
+      "whyWatch": "Denis Villeneuve cria uma das tramas mais angustiantes e bem construídas do século XXI.",
+      "highlightPoints": [
+        "Fotografia de Roger Deakins indicada ao Oscar",
+        "Atuação comovente de Hugh Jackman"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "Entre Facas e Segredos (Knives Out)",
+      "year": 2019,
+      "director": "Rian Johnson",
+      "score": 9.2,
+      "highlightTag": "Whodunit Moderno",
+      "cast": [
+        "Daniel Craig",
+        "Ana de Armas",
+        "Chris Evans"
+      ],
+      "posterImage": "https://image.tmdb.org/t/p/w500/9H8PNc4JJRjPnfSh8gGukD0CbqQ.jpg",
+      "whereToWatch": [
+        "Netflix",
+        "Prime Video"
+      ],
+      "synopsis": "O excêntrico detetive Benoit Blanc é contratado para desvendar a morte suspeita de um patriarca milionário cercado por herdeiros oportunistas.",
+      "whyWatch": "Divertido, inteligente e espirituoso. Um sopro de ar fresco no gênero de detetive clássico.",
+      "highlightPoints": [
+        "Daniel Craig em atuação memorável",
+        "Mansão vitoriana repleta de segredos e passagens secretas"
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "Glass Onion: Um Mistério Knives Out",
+      "year": 2022,
+      "director": "Rian Johnson",
+      "score": 8.9,
+      "highlightTag": "Mistério na Grécia",
+      "cast": [
+        "Daniel Craig",
+        "Edward Norton",
+        "Janelle Monáe"
+      ],
+      "posterImage": "https://image.tmdb.org/t/p/w500/zQJcENHbZUpLQ8RKYt9wTzcXCwv.jpg",
+      "whereToWatch": [
+        "Netflix"
+      ],
+      "synopsis": "Benoit Blanc viaja para uma ilha grega privada onde um bilionário da tecnologia reúne amigos para um jogo de assassinato que se torna mortal.",
+      "whyWatch": "Sátira inteligente sobre os bilionários do Vale do Silício com camadas sobrepostas de mistério que desmontam preconceitos do público.",
+      "highlightPoints": [
+        "Janelle Monáe roubando todas as cenas",
+        "Roteiro cheio de reviravoltas hilárias e inteligentes"
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "Os Suspeitos de Sempre (The Usual Suspects)",
+      "year": 1995,
+      "director": "Bryan Singer",
+      "score": 9.5,
+      "highlightTag": "Gênio do Crime",
+      "cast": [
+        "Kevin Spacey",
+        "Gabriel Byrne",
+        "Benicio del Toro"
+      ],
+      "posterImage": "https://image.tmdb.org/t/p/w500/8RrGQ3kSiu2JJatkQ3o0DdXUGUU.jpg",
+      "whereToWatch": [
+        "Netflix",
+        "Prime Video"
+      ],
+      "synopsis": "Um sobrevivente mutilado narra a um agente federal como um assalto que deu errado no porto foi orquestrado pela figura mítica de Keyser Söze.",
+      "whyWatch": "Vencedor de 2 Oscars, traz um dos maiores vilões das sombras de todos os tempos e um final que consagrou o cinema dos anos 90.",
+      "highlightPoints": [
+        "Oscar de Melhor Roteiro Original",
+        "Interrogatório magistralmente conduzido"
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "Assassinato no Expresso do Oriente",
+      "year": 2017,
+      "director": "Kenneth Branagh",
+      "score": 8.7,
+      "highlightTag": "Agatha Christie",
+      "cast": [
+        "Kenneth Branagh",
+        "Penélope Cruz",
+        "Willem Dafoe"
+      ],
+      "posterImage": "https://image.tmdb.org/t/p/w500/quZnHOVKVbFR7IdXBI9J0ONb7Jk.jpg",
+      "whereToWatch": [
+        "Netflix",
+        "Disney+"
+      ],
+      "synopsis": "O célebre detetive belga Hercule Poirot precisa identificar o assassino entre treze passageiros presos em um trem de luxo bloqueado pela neve.",
+      "whyWatch": "A maior história de mistério de Agatha Christie filmada em película 65mm com visual deslumbrante e elenco estrelar.",
+      "highlightPoints": [
+        "Reconstituição clássica luxuosa",
+        "Conclusão moralmente inesquecível"
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Qual é o melhor filme de suspense de investigação na Netflix?",
+      "answer": "Seven e Os Suspeitos (Prisoners) são as obras mais recomendadas para quem busca mistérios pesados e reviravoltas chocantes."
+    },
+    {
+      "question": "Os filmes de Benoit Blanc estão todos na Netflix?",
+      "answer": "Sim, tanto Entre Facas e Segredos quanto Glass Onion estão disponíveis com exclusividade na plataforma."
     }
   ]
 }

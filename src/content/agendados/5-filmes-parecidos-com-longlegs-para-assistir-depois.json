@@ -1,17 +1,19 @@
 {
-  "id": "post-1792348421-1-2",
+  "id": "post-semana-ouro-23",
   "slug": "5-filmes-parecidos-com-longlegs-para-assistir-depois",
-  "title": "5 Filmes Parecidos com Longlegs: Vínculo Mortal para Assistir Depois",
-  "subtitle": "Se você ficou obcecado pelo horror investigativo de Nicolas Cage, confira essas cinco obras-primas sobre seitas e crimes rituais.",
+  "title": "5 Filmes Parecidos com Longlegs: Vínculo Mortal sobre Ocultismo e Investigação",
+  "subtitle": "Se você amou a atmosfera sinistra de Nicolas Cage e Maika Monroe, veja cinco suspenses sobre rituais demoníacos e caçadas a seriais killers.",
   "type": "list",
   "genres": [
     "Terror",
-    "Mistério",
-    "Thrillers"
+    "Ocultismo",
+    "Suspense",
+    "Policial",
+    "Streaming"
   ],
-  "publishedAt": "2026-10-19T19:00:00Z",
-  "scheduledFor": "2026-10-19T19:00:00Z",
-  "updatedAt": "2026-10-19T19:00:00Z",
+  "publishedAt": "2026-10-23T19:00:00Z",
+  "scheduledFor": "2026-10-23T19:00:00Z",
+  "updatedAt": "2026-10-23T19:00:00Z",
   "author": {
     "name": "Beatriz Silveira",
     "role": "Crítica de Cinema de Gênero & Terror",
@@ -19,35 +21,147 @@
   },
   "coverImage": "https://image.tmdb.org/t/p/w500/uURBOrqLFyU8iKODcI3t2Xkbhqs.jpg",
   "posterImage": "https://image.tmdb.org/t/p/w500/uURBOrqLFyU8iKODcI3t2Xkbhqs.jpg",
-  "readingTime": "5 min de leitura",
+  "readingTime": "7 min de leitura",
   "seo": {
-    "metaTitle": "5 Filmes Parecidos com Longlegs: Vínculo Mortal para As | FilmeJá",
-    "metaDescription": "Se você ficou obcecado pelo horror investigativo de Nicolas Cage, confira essas cinco obras-primas sobre seitas e crimes rituais.",
+    "metaTitle": "5 Filmes Parecidos com Longlegs para Assistir Hoje | FilmeJá",
+    "metaDescription": "Procurando filmes parecidos com Longlegs: Vínculo Mortal? Veja 5 suspenses de terror satânico e investigação policial no streaming.",
     "keywords": [
-      "5 filmes parecidos com longlegs para assistir depois",
-      "5 filmes parecidos com longlegs: vínculo mortal para assistir depois",
-      "onde assistir 5",
-      "filmeja cinema e streaming"
+      "filmes parecidos com longlegs",
+      "filmes estilo longlegs vinculo mortal",
+      "terror parecido com longlegs",
+      "filmes de ocultismo e serial killer"
     ]
   },
-  "content": "Longlegs reinventou o terror psicológico nos moldes de O Silêncio dos Inocentes e Zodíaco. Selecionamos os filmes que entregam a mesma sensação de desconforto e mistério opressivo.",
-  "faqs": [
-    {
-      "question": "Onde assistir a Longlegs online?",
-      "answer": "Longlegs: Vínculo Mortal está disponível no catálogo do Prime Video no Brasil."
-    }
-  ],
+  "content": "Consagrado como o maior fenômeno de bilheteria e crítica do terror em 2024, **Longlegs: Vínculo Mortal**, dirigido por Oz Perkins, resgatou a aura macabra dos thrillers investigativos com elementos satânicos dos anos 90. A atuação irreconhecível e bizarra de Nicolas Cage como o serial killer Longlegs e a presença enigmática da agente do FBI Lee Harker (Maika Monroe) criaram uma sensação constante de pavor que permeia cada enquadramento.\n\nSe você está em busca de filmes que misturem símbolos misteriosos, interrogatórios perturbadores e a sensação de que o Diabo está presente nos detalhes, confira 5 produções imperdíveis disponíveis nos streamings.",
   "listItems": [
     {
       "rank": 1,
       "title": "Seven: Os Sete Crimes Capitais",
       "year": 1995,
+      "director": "David Fincher",
+      "score": 9.8,
+      "highlightTag": "A Maior Inspiração",
+      "cast": [
+        "Brad Pitt",
+        "Morgan Freeman",
+        "Kevin Spacey"
+      ],
+      "posterImage": "https://image.tmdb.org/t/p/w500/dZXYPSEaXCeigR2GEuZoukNmLTf.jpg",
+      "whereToWatch": [
+        "Max",
+        "Apple TV+"
+      ],
+      "synopsis": "Dois detetives caçam um assassino ritualístico cujos crimes sangrentos seguem uma lógica teológica doentia.",
+      "whyWatch": "O próprio diretor Oz Perkins citou Seven como a principal referência tonal para construir os assassinatos misteriosos de Longlegs.",
+      "highlightPoints": [
+        "Direção milimétrica e perturbadora",
+        "Final mais chocante da história do suspense"
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "A Primeira Profecia (The First Omen)",
+      "year": 2024,
+      "director": "Arkasha Stevenson",
+      "score": 8.9,
+      "highlightTag": "Terror Sacro",
+      "cast": [
+        "Nell Tiger Free",
+        "Tawfeek Barhom",
+        "Sônia Braga"
+      ],
+      "posterImage": "https://image.tmdb.org/t/p/w500/zppeHKLHljU2uI7NBJ1JyDNpn6L.jpg",
+      "whereToWatch": [
+        "Disney+"
+      ],
+      "synopsis": "Uma jovem noviça viaja a Roma para trabalhar em um orfanato religioso e desvenda uma conspiração interna para trazer o Anticristo ao mundo.",
+      "whyWatch": "Elegância visual assombrosa, homenageando o cinema de horror dos anos 70 com cenas viscerais e atuação gigante de Nell Tiger Free.",
+      "highlightPoints": [
+        "Participação de destaque de Sônia Braga",
+        "Trabalho impecável de fotografia e som"
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "Entrevista com o Demônio (Late Night with the Devil)",
+      "year": 2024,
+      "director": "Cameron e Colin Cairnes",
+      "score": 9.0,
+      "highlightTag": "Possessão ao Vivo",
+      "cast": [
+        "David Dastmalchian",
+        "Laura Gordon",
+        "Ian Bliss"
+      ],
+      "posterImage": "https://image.tmdb.org/t/p/w500/blckaGzdEJ4PdG5RxZPcb77VYFV.jpg",
+      "whereToWatch": [
+        "Netflix",
+        "Prime Video"
+      ],
+      "synopsis": "Na noite de Halloween de 1977, o apresentador de um talk show decadente transmite uma sessão de possessão ao vivo para tentar salvar a audiência.",
+      "whyWatch": "Compartilha do mesmo fascínio de Longlegs pelo pânico satânico dos anos 70, com uma atmosfera de choque contínuo.",
+      "highlightPoints": [
+        "Formato de transmissão de TV ao vivo fascinante",
+        "David Dastmalchian em atuação impecável"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "Hereditário (Hereditary)",
+      "year": 2018,
+      "director": "Ari Aster",
+      "score": 9.4,
+      "highlightTag": "Culto Demoníaco",
+      "cast": [
+        "Toni Collette",
+        "Alex Wolff",
+        "Milly Shapiro"
+      ],
+      "posterImage": "https://image.tmdb.org/t/p/w500/x9tUYQj6WrdVwoKimSdoMzkDABS.jpg",
+      "whereToWatch": [
+        "Max",
+        "Netflix"
+      ],
+      "synopsis": "Uma família desmorona após a morte da matriarca, descobrindo que suas vidas foram manipuladas desde o nascimento para servir a um demônio.",
+      "whyWatch": "O mesmo sentimento de impotência e manipulação sobrenatural que torna a trajetória de Lee Harker tão desesperadora em Longlegs.",
+      "highlightPoints": [
+        "Atuação lendária de Toni Collette",
+        "Símbolos e pistas escondidas no cenário"
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "Invocação do Mal (The Conjuring)",
+      "year": 2013,
+      "director": "James Wan",
+      "score": 9.1,
+      "highlightTag": "Casos Sobrenaturais",
+      "cast": [
+        "Patrick Wilson",
+        "Vera Farmiga",
+        "Ron Livingston"
+      ],
+      "posterImage": "https://image.tmdb.org/t/p/w500/1NxHKZW5DPbUFtbF3MxbdSyxRqU.jpg",
       "whereToWatch": [
         "Max",
         "Prime Video"
       ],
-      "score": 9.5,
-      "posterImage": "https://image.tmdb.org/t/p/w500/dZXYPSEaXCeigR2GEuZoukNmLTf.jpg"
+      "synopsis": "Investigadores católicos enfrentam uma entidade ancestral com raízes em rituais de bruxaria em uma fazenda isolada.",
+      "whyWatch": "A autoridade e a investigação forense do ocultismo dão a este clássico o mesmo peso de autoridade e perigo de Longlegs.",
+      "highlightPoints": [
+        "Direção tensa e magistral de James Wan",
+        "Cenografia de época impecável"
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Qual filme é mais parecido com Longlegs?",
+      "answer": "Seven (pela estrutura de investigação e pistas crípticas) e A Primeira Profecia (pelo horror de conspiração demoníaca)."
+    },
+    {
+      "question": "Onde assistir a Longlegs no streaming?",
+      "answer": "Após a janela dos cinemas, Longlegs chegou às plataformas digitais para compra/aluguel e catálogo do Prime Video."
     }
   ]
 }

@@ -1,13 +1,15 @@
 {
-  "id": "post-1792348421-3-1",
+  "id": "post-semana-ouro-12",
   "slug": "ainda-estou-aqui-filme-onde-assistir-data-streaming-brasil",
   "title": "Ainda Estou Aqui: Onde Assistir Online, Data no Streaming e História Real",
-  "subtitle": "O aclamado filme nacional com Fernanda Torres e Selton Mello premiado em Veneza.",
+  "subtitle": "O aclamado filme nacional de Walter Salles com Fernanda Torres e Selton Mello premiado no Festival de Veneza.",
   "type": "lancamento",
   "genres": [
     "Cinema",
     "Cinema Nacional",
-    "Dramas"
+    "Dramas",
+    "Histórico",
+    "Globoplay"
   ],
   "publishedAt": "2026-10-21T15:00:00Z",
   "scheduledFor": "2026-10-21T15:00:00Z",
@@ -17,30 +19,44 @@
     "role": "Crítico Sênior & Editor-Chefe",
     "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=100&auto=format&fit=crop&q=80"
   },
-  "coverImage": "https://image.tmdb.org/t/p/w500/8qD4PqY7n3v7m9Y5K8zM1v7Y3rB.jpg",
-  "posterImage": "https://image.tmdb.org/t/p/w500/8qD4PqY7n3v7m9Y5K8zM1v7Y3rB.jpg",
+  "coverImage": "https://media.themoviedb.org/t/p/w500/gZnsMbhCvhzAQlKaVpeFRHYjGyb.jpg",
+  "posterImage": "https://media.themoviedb.org/t/p/w500/gZnsMbhCvhzAQlKaVpeFRHYjGyb.jpg",
   "readingTime": "5 min de leitura",
   "seo": {
-    "metaTitle": "Ainda Estou Aqui: Onde Assistir Online, Data no Streami | FilmeJá",
-    "metaDescription": "O aclamado filme nacional com Fernanda Torres e Selton Mello premiado em Veneza.",
+    "metaTitle": "Ainda Estou Aqui: Onde Assistir Online e Data no Streaming | FilmeJá",
+    "metaDescription": "Saiba onde assistir ao filme nacional Ainda Estou Aqui com Fernanda Torres. Veja a data no streaming, história real de Eunice Paiva e prêmios.",
     "keywords": [
-      "ainda estou aqui filme onde assistir data streaming brasil",
-      "ainda estou aqui: onde assistir online, data no streaming e história real",
-      "onde assistir ainda",
-      "filmeja cinema e streaming"
+      "ainda estou aqui onde assistir",
+      "ainda estou aqui streaming data",
+      "filme fernanda torres ainda estou aqui",
+      "ainda estou aqui globoplay"
     ]
   },
-  "content": "Dirigido por Walter Salles e baseado no livro autobiográfico de Marcelo Rubens Paiva, Ainda Estou Aqui retrata a coragem de Eunice Paiva durante a ditadura militar.",
+  "content": "Vencedor do prestigiado prêmio de Melhor Roteiro no Festival de Cinema de Veneza e ovacionado com mais de 10 minutos de aplausos em pé, **Ainda Estou Aqui**, dirigido por Walter Salles (de *Central do Brasil*), consolidou-se como o filme brasileiro mais celebrado da temporada internacional e grande aposta nacional no Oscar.\n\nBaseado no comovente livro de memórias homônimo do escritor Marcelo Rubens Paiva, o longa é ambientado no Rio de Janeiro no início da década de 1970, durante o endurecimento da ditadura militar no Brasil. A narrativa acompanha a família Paiva quando o ex-deputado Rubens Paiva (Selton Mello) é levado por militares de dentro de sua própria casa e desaparece sem deixar vestígios.\n\nA força motriz do filme repousa na atuação monumental de Fernanda Torres como Eunice Paiva — uma mãe de cinco filhos que precisou se reinventar da noite para o dia, formando-se em Direito e tornando-se uma das ativistas mais corajosas na luta pelos Direitos Humanos e na busca por desaparecidos políticos. O elenco conta ainda com uma participação especial comovente de Fernanda Montenegro.\n\nApós a janela cinematográfica nas principais salas do país, o filme fará sua estreia no streaming com exclusividade no catálogo do **Globoplay**.",
+  "movieInfo": {
+    "title": "Ainda Estou Aqui",
+    "releaseDate": "7 de novembro de 2024",
+    "futureStreaming": "Globoplay",
+    "directors": "Walter Salles",
+    "confirmedCast": [
+      "Fernanda Torres (Eunice Paiva)",
+      "Selton Mello (Rubens Paiva)",
+      "Fernanda Montenegro (Eunice Paiva idosa)",
+      "Valentina Herszage (Vera Paiva)",
+      "Humberto Carrão",
+      "Maeve Jinkings",
+      "Dan Stulbach"
+    ],
+    "productionDetails": "Adaptação de Walter Salles e roteiro de Murilo Hauser e Heitor Lorega, coproduzido por VideoFilmes e RT Features com lançamento no Globoplay."
+  },
   "faqs": [
     {
       "question": "Onde assistir a Ainda Estou Aqui online?",
-      "answer": "Após a exibição nos cinemas, o filme chegará ao streaming no catálogo do Globoplay."
+      "answer": "Após a exibição nos cinemas nacionais, o filme estreia no streaming com exclusividade no Globoplay."
+    },
+    {
+      "question": "A história de Ainda Estou Aqui é real?",
+      "answer": "Sim, é baseada na história verídica da família de Marcelo Rubens Paiva e na luta histórica de sua mãe, Eunice Paiva, durante a ditadura militar."
     }
-  ],
-  "movieInfo": {
-    "title": "Ainda Estou Aqui",
-    "releaseDate": "7 de novembro",
-    "futureStreaming": "Globoplay",
-    "productionDetails": "Grande sucesso de crítica internacional e representante brasileiro no Oscar."
-  }
+  ]
 }

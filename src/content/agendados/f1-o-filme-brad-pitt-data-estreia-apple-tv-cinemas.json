@@ -1,18 +1,19 @@
 {
-  "id": "post-1792348421-7-0",
+  "id": "post-semana-ouro-32",
   "slug": "f1-o-filme-brad-pitt-data-estreia-apple-tv-cinemas",
-  "title": "F1: O Filme de Brad Pitt: Data de Estreia nos Cinemas, Bastidores e Apple TV+",
-  "subtitle": "Gravado durante os GPs reais de Fórmula 1 com direção de Joseph Kosinski (Top Gun: Maverick).",
+  "title": "F1: O Filme (Brad Pitt): Data de Estreia nos Cinemas, Apple TV+ e Bastidores",
+  "subtitle": "Do diretor de Top Gun: Maverick: carros de Fórmula 1 reais acelerando a 300 km/h com Brad Pitt e Lewis Hamilton.",
   "type": "lancamento",
   "genres": [
     "Cinema",
+    "Ação",
+    "Esportes",
     "Lançamentos",
-    "Apple TV+",
-    "Ação"
+    "Apple TV+"
   ],
-  "publishedAt": "2026-10-25T11:00:00Z",
-  "scheduledFor": "2026-10-25T11:00:00Z",
-  "updatedAt": "2026-10-25T11:00:00Z",
+  "publishedAt": "2026-10-25T15:00:00Z",
+  "scheduledFor": "2026-10-25T15:00:00Z",
+  "updatedAt": "2026-10-25T15:00:00Z",
   "author": {
     "name": "Thiago Rocha",
     "role": "Editor de Cinema Comercial & Ação",
@@ -22,26 +23,40 @@
   "posterImage": "https://image.tmdb.org/t/p/w500/tH64gzAHDFg7EFcgfkkZyHdGM5P.jpg",
   "readingTime": "5 min de leitura",
   "seo": {
-    "metaTitle": "F1: O Filme de Brad Pitt: Data de Estreia nos Cinemas,  | FilmeJá",
-    "metaDescription": "Gravado durante os GPs reais de Fórmula 1 com direção de Joseph Kosinski (Top Gun: Maverick).",
+    "metaTitle": "F1: O Filme com Brad Pitt: Data de Estreia nos Cinemas e Streaming | FilmeJá",
+    "metaDescription": "Saiba tudo sobre F1: O Filme estrelado por Brad Pitt. Data de estreia nos cinemas do Brasil, produção com Lewis Hamilton e chegada à Apple TV+.",
     "keywords": [
-      "f1 o filme brad pitt data estreia apple tv cinemas",
-      "f1: o filme de brad pitt: data de estreia nos cinemas, bastidores e apple tv+",
-      "onde assistir f1",
-      "filmeja cinema e streaming"
+      "f1 o filme brad pitt data brasil",
+      "quando estreia filme formula 1 brad pitt",
+      "f1 filme apple tv cinemas",
+      "f1 lewis hamilton producao"
     ]
   },
-  "content": "Brad Pitt interpreta Sonny Hayes, piloto veterano que retorna ao grid para liderar a equipe fictícia APXGP. O filme usou câmeras IMAX personalizadas nos carros reais de F1.",
+  "content": "Com direção de Joseph Kosinski (o gênio por trás de *Top Gun: Maverick*) e produção executiva do heptacampeão mundial Lewis Hamilton, **F1: O Filme** (simplesmente intitulado *F1*) é a superprodução automobilística mais realista e cara já realizada.\n\nEstrelado por Brad Pitt como Sonny Hayes — um piloto veterano que competiu na Fórmula 1 nos anos 90 e sofreu um acidente horrível —, o longa o traz de volta das cinzas para correr pela fictícia equipe APXGP e orientar o jovem talento Joshua Pearce (Damson Idris). O grande diferencial do filme é que Brad Pitt e os atores realmente pilotaram carros de corrida adaptados durante finais de semana oficiais de GPs da Fórmula 1 reais (incluindo Silverstone, Hungaroring e Monza), cercados por Max Verstappen, Fernando Alonso e toda a nata do esporte a motor.\n\nA Warner Bros. distribuirá o filme com exclusividade nos cinemas de todo o Brasil com salas IMAX de última geração, antes da chegada ao catálogo por assinatura da **Apple TV+**.",
+  "movieInfo": {
+    "title": "F1: O Filme",
+    "releaseDate": "26 de junho de 2025",
+    "futureStreaming": "Apple TV+",
+    "directors": "Joseph Kosinski",
+    "confirmedCast": [
+      "Brad Pitt (Sonny Hayes)",
+      "Damson Idris (Joshua Pearce)",
+      "Javier Bardem (Chefe de Equipe da APXGP)",
+      "Kerry Condon",
+      "Tobias Menzies",
+      "Sarah Niles",
+      "Lewis Hamilton (Participação Especial)"
+    ],
+    "productionDetails": "Gravado durante os Grandes Prêmios da Fórmula 1 com câmeras 6K ultra compactas montadas nos cockpits reais, em parceria com a FIA e a Apple Original Films."
+  },
   "faqs": [
     {
-      "question": "Onde assistir ao filme de F1 de Brad Pitt?",
-      "answer": "Primeiro nos cinemas mundiais e posteriormente com exclusividade na Apple TV+."
+      "question": "Quando F1 com Brad Pitt estreia nos cinemas brasileiros?",
+      "answer": "A estreia nacional nos cinemas está marcada para 26 de junho de 2025 em salas IMAX."
+    },
+    {
+      "question": "Brad Pitt realmente pilotou carros de Fórmula 1 nas filmagens?",
+      "answer": "Sim, Brad Pitt e Damson Idris pilotaram carros da Fórmula 2 modificados pela Mercedes para parecerem carros de F1 em pistas reais a velocidades superiores a 250 km/h."
     }
-  ],
-  "movieInfo": {
-    "title": "F1",
-    "releaseDate": "26 de junho",
-    "futureStreaming": "Apple TV+",
-    "productionDetails": "Coproduzido por Lewis Hamilton e Warner Bros/Apple Original Films."
-  }
+  ]
 }

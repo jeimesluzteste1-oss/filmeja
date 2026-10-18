@@ -1,13 +1,14 @@
 {
-  "id": "post-1792348421-2-3",
+  "id": "post-semana-ouro-09",
   "slug": "7-melhores-filmes-de-ficcao-cientifica-no-prime-video-2026",
-  "title": "7 Melhores Filmes de Ficção Científica no Prime Video para Assistir em 2026",
-  "subtitle": "Inteligência artificial, futuros distópicos e mistérios quânticos reunidos no catálogo da Amazon.",
-  "type": "streaming",
+  "title": "7 Melhores Filmes de Ficção Científica no Prime Video em 2026",
+  "subtitle": "De universos distópicos a viagens no tempo complexas: confira as produções de sci-fi mais fascinantes do streaming da Amazon.",
+  "type": "list",
   "genres": [
     "Ficção Científica",
     "Prime Video",
-    "Dicas de Streaming"
+    "Espaço",
+    "Streaming"
   ],
   "publishedAt": "2026-10-20T22:30:00Z",
   "scheduledFor": "2026-10-20T22:30:00Z",
@@ -17,36 +18,197 @@
     "role": "Crítica de Sci-Fi & Fantasia",
     "avatar": "https://images.unsplash.com/photo-1517841905240-472988babdf9?w=100&auto=format&fit=crop&q=80"
   },
-  "coverImage": "https://image.tmdb.org/t/p/w500/hfpnFtgcYom9Gk9s1IyWiovpZYg.jpg",
-  "posterImage": "https://image.tmdb.org/t/p/w500/hfpnFtgcYom9Gk9s1IyWiovpZYg.jpg",
-  "readingTime": "5 min de leitura",
+  "coverImage": "https://image.tmdb.org/t/p/w500/49pANIZXRAdHUiWjjBv4vxPeqRC.jpg",
+  "posterImage": "https://image.tmdb.org/t/p/w500/49pANIZXRAdHUiWjjBv4vxPeqRC.jpg",
+  "readingTime": "8 min de leitura",
   "seo": {
-    "metaTitle": "7 Melhores Filmes de Ficção Científica no Prime Video p | FilmeJá",
-    "metaDescription": "Inteligência artificial, futuros distópicos e mistérios quânticos reunidos no catálogo da Amazon.",
+    "metaTitle": "7 Melhores Filmes de Ficção Científica no Prime Video (2026) | FilmeJá",
+    "metaDescription": "Quer viajar no tempo e no espaço? Veja os 7 melhores filmes de ficção científica disponíveis no Amazon Prime Video no Brasil.",
     "keywords": [
-      "7 melhores filmes de ficcao cientifica no prime video 2026",
-      "7 melhores filmes de ficção científica no prime video para assistir em 2026",
-      "onde assistir 7",
-      "filmeja cinema e streaming"
+      "filmes de ficcao cientifica prime video",
+      "melhores sci-fi amazon prime",
+      "filmes de espaco prime video 2026",
+      "ficcao cientifica streaming brasil"
     ]
   },
-  "content": "O Prime Video reúne um dos acervos mais premiados de sci-fi da atualidade.",
-  "faqs": [
-    {
-      "question": "Qual melhor sci-fi do Prime Video?",
-      "answer": "Ex Machina e Blade Runner 2049 são escolhas essenciais."
-    }
-  ],
+  "content": "O Amazon Prime Video reúne uma das seleções mais qualificadas de ficção científica do mercado de streaming brasileiro. De conceitos quânticos cabeçudos a aventuras espaciais vislumbrantes com efeitos de última geração, a plataforma oferece títulos indispensáveis para quem adora ver a mente expandida por futuros possíveis.\n\nSeparamos as **7 obras definitivas de sci-fi no Prime Video**, com sinopses, notas de avaliação crítica e os motivos exatos para assistir hoje mesmo.",
   "listItems": [
     {
       "rank": 1,
+      "title": "Interestelar (Interstellar)",
+      "year": 2014,
+      "director": "Christopher Nolan",
+      "score": 9.8,
+      "highlightTag": "Clássico Moderno",
+      "cast": [
+        "Matthew McConaughey",
+        "Anne Hathaway",
+        "Jessica Chastain"
+      ],
+      "posterImage": "https://image.tmdb.org/t/p/w500/tR1XVa5bxgdh2bRw2u0DzrgkO2l.jpg",
+      "whereToWatch": [
+        "Prime Video",
+        "Max"
+      ],
+      "synopsis": "Com os recursos da Terra se esgotando, um grupo de exploradores espaciais viaja através de um buraco de minhoca em busca de um novo lar para a humanidade.",
+      "whyWatch": "O épico cósmico definitivo do século XXI, unindo rigor científico e uma relação pai e filha de cortar o coração.",
+      "highlightPoints": [
+        "Buraco negro Gargantua recriado com astrofísica real",
+        "Trilha inesquecível de órgão de Hans Zimmer"
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "A Chegada (Arrival)",
+      "year": 2016,
+      "director": "Denis Villeneuve",
+      "score": 9.7,
+      "highlightTag": "Narrativa Brilhante",
+      "cast": [
+        "Amy Adams",
+        "Jeremy Renner",
+        "Forest Whitaker"
+      ],
+      "posterImage": "https://image.tmdb.org/t/p/w500/3rDwbFpn6z5HJUgDjpfhEePx8VI.jpg",
+      "whereToWatch": [
+        "Prime Video",
+        "Netflix"
+      ],
+      "synopsis": "Uma equipe de especialistas precisa traduzir a linguagem simbólica de visitantes extraterrestres antes que o pânico mundial provoque uma guerra.",
+      "whyWatch": "Um dos finais mais comoventes e inteligentes da história do cinema, provando que a empatia é a maior tecnologia.",
+      "highlightPoints": [
+        "Linguagem dos Heptápodes criada do zero",
+        "Reflexão profunda sobre escolhas e destino"
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "Blade Runner 2049",
+      "year": 2017,
+      "director": "Denis Villeneuve",
+      "score": 9.4,
+      "highlightTag": "Visual Impecável",
+      "cast": [
+        "Ryan Gosling",
+        "Harrison Ford",
+        "Ana de Armas"
+      ],
+      "posterImage": "https://image.tmdb.org/t/p/w500/49pANIZXRAdHUiWjjBv4vxPeqRC.jpg",
+      "whereToWatch": [
+        "Prime Video",
+        "Max"
+      ],
+      "synopsis": "O policial K investiga pistas que podem reverter a escravidão dos replicantes e procura pelo lendário caçador Rick Deckard.",
+      "whyWatch": "Honra a obra original de Ridley Scott com uma atmosfera cyberpunk melancólica de beleza assombrosa.",
+      "highlightPoints": [
+        "Vencedor de Oscars de Fotografia e Efeitos Visuais",
+        "Cenas memoráveis de holograma com Ana de Armas"
+      ]
+    },
+    {
+      "rank": 4,
       "title": "Ex Machina",
       "year": 2014,
-      "whereToWatch": [
-        "Prime Video"
+      "director": "Alex Garland",
+      "score": 9.0,
+      "highlightTag": "Suspense Quântico",
+      "cast": [
+        "Alicia Vikander",
+        "Domhnall Gleeson",
+        "Oscar Isaac"
       ],
+      "posterImage": "https://image.tmdb.org/t/p/w500/hfpnFtgcYom9Gk9s1IyWiovpZYg.jpg",
+      "whereToWatch": [
+        "Prime Video",
+        "Apple TV+"
+      ],
+      "synopsis": "Uma máquina com inteligência artificial desenvolve consciência própria e manipula os homens ao seu redor para conquistar a liberdade.",
+      "whyWatch": "Trabalha com maestria os limites da inteligência artificial muito antes do tema virar febre mundial.",
+      "highlightPoints": [
+        "Diálogos afiados e tensão claustrofóbica",
+        "Dança lendária de Oscar Isaac"
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "Gravidade (Gravity)",
+      "year": 2013,
+      "director": "Alfonso Cuarón",
       "score": 9.1,
-      "posterImage": "https://image.tmdb.org/t/p/w500/hfpnFtgcYom9Gk9s1IyWiovpZYg.jpg"
+      "highlightTag": "Adrenalina Espacial",
+      "cast": [
+        "Sandra Bullock",
+        "George Clooney"
+      ],
+      "posterImage": "https://image.tmdb.org/t/p/w500/eHLufJ1bHy4PtEBJdPSTu4jIhZ0.jpg",
+      "whereToWatch": [
+        "Prime Video",
+        "Max"
+      ],
+      "synopsis": "Uma engenheira médica em sua primeira missão espacial precisa sobreviver após detritos orbitais colidirem contra sua estação.",
+      "whyWatch": "Sensação quase física de desorientação e isolamento cósmico. Curto, direto e magistralmente filmado.",
+      "highlightPoints": [
+        "7 Oscars conquistados",
+        "Uso inovador de som no vácuo"
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "Duna: Parte 2",
+      "year": 2024,
+      "director": "Denis Villeneuve",
+      "score": 9.8,
+      "highlightTag": "Guerra Épica",
+      "cast": [
+        "Timothée Chalamet",
+        "Zendaya",
+        "Javier Bardem"
+      ],
+      "posterImage": "https://image.tmdb.org/t/p/w500/VMy4UGsI2u3f4fALGeCqCdsQBb.jpg",
+      "whereToWatch": [
+        "Prime Video",
+        "Max"
+      ],
+      "synopsis": "Paul Atreides monta vermes de areia gigantes e comanda a revolução do povo Fremen pelo controle da especiaria e do destino galáctico.",
+      "whyWatch": "Um marco que redefiniu o que uma superprodução espacial pode entregar na tela grande e no home theater.",
+      "highlightPoints": [
+        "Sequência da cavalgada no Shai-Hulud",
+        "Batalha em Giedi Prime em preto e branco infravermelho"
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "Alien: Romulus",
+      "year": 2024,
+      "director": "Fede Álvarez",
+      "score": 8.9,
+      "highlightTag": "Terror no Espaço",
+      "cast": [
+        "Cailee Spaeny",
+        "David Jonsson",
+        "Archie Renaux"
+      ],
+      "posterImage": "https://image.tmdb.org/t/p/w500/jB0W9tn4w07MFn7sTfqRTBLVytF.jpg",
+      "whereToWatch": [
+        "Prime Video",
+        "Disney+"
+      ],
+      "synopsis": "Jovens colonizadores explorando uma estação espacial abandonada acordam acidentalmente a forma de vida mais aterrorizante da galáxia.",
+      "whyWatch": "Fede Álvarez devolveu o DNA visceral e aterrorizante dos clássicos de Ridley Scott e James Cameron com efeitos práticos arrepiantes.",
+      "highlightPoints": [
+        "Uso massivo de animatrônicos em vez de CGI",
+        "Atuação brilhante de David Jonsson como o sintético Andy"
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Qual filme de ficção científica do Prime Video é o mais bem avaliado?",
+      "answer": "Interestelar e Duna: Parte 2 lideram as avaliações de público e crítica no catálogo do Prime Video."
+    },
+    {
+      "question": "Esses filmes estão inclusos na assinatura padrão do Prime Video?",
+      "answer": "Sim, todos os títulos selecionados estão disponíveis no catálogo nacional sem custos adicionais de aluguel."
     }
   ]
 }

@@ -1,13 +1,14 @@
 {
-  "id": "post-1792348421-2-2",
+  "id": "post-semana-ouro-08",
   "slug": "5-filmes-parecidos-com-interestelar-para-assistir-depois",
-  "title": "5 Filmes Parecidos com Interestelar sobre Viagens Cósmicas e o Tempo",
-  "subtitle": "Para quem amou a obra de Christopher Nolan, selecionamos produções de ficção científica que exploram buracos negros e o infinito.",
+  "title": "5 Filmes Parecidos com Interestelar sobre Viagem Espacial, Tempo e Emoção",
+  "subtitle": "Se a obra-prima de Christopher Nolan mexeu com sua mente e seu coração, veja cinco filmes sublimes de ficção científica.",
   "type": "list",
   "genres": [
     "Ficção Científica",
     "Espaço",
-    "Cinema"
+    "Drama",
+    "Streaming"
   ],
   "publishedAt": "2026-10-20T19:00:00Z",
   "scheduledFor": "2026-10-20T19:00:00Z",
@@ -19,35 +20,147 @@
   },
   "coverImage": "https://image.tmdb.org/t/p/w500/tR1XVa5bxgdh2bRw2u0DzrgkO2l.jpg",
   "posterImage": "https://image.tmdb.org/t/p/w500/tR1XVa5bxgdh2bRw2u0DzrgkO2l.jpg",
-  "readingTime": "5 min de leitura",
+  "readingTime": "7 min de leitura",
   "seo": {
-    "metaTitle": "5 Filmes Parecidos com Interestelar sobre Viagens Cósmi | FilmeJá",
-    "metaDescription": "Para quem amou a obra de Christopher Nolan, selecionamos produções de ficção científica que exploram buracos negros e o infinito.",
+    "metaTitle": "5 Filmes Parecidos com Interestelar para Assistir Hoje | FilmeJá",
+    "metaDescription": "Gostou de Interestelar? Confira 5 produções grandiosas sobre o cosmos, relatividade do tempo e laços humanos no streaming.",
     "keywords": [
-      "5 filmes parecidos com interestelar para assistir depois",
-      "5 filmes parecidos com interestelar sobre viagens cósmicas e o tempo",
-      "onde assistir 5",
-      "filmeja cinema e streaming"
+      "filmes parecidos com interestelar",
+      "filmes estilo interestelar",
+      "ficcao cientifica parecida com interestelar",
+      "melhores filmes de espaco"
     ]
   },
-  "content": "Interestelar é um marco moderno do cinema de exploração cósmica. Estas produções combinam rigor científico e emoção transcendental.",
-  "faqs": [
-    {
-      "question": "Onde assistir a Interestelar online?",
-      "answer": "Disponível no catálogo da Max e Prime Video no Brasil."
-    }
-  ],
+  "content": "Poucas obras cinematográficas conseguem equilibrar física teórica rigorosa (com auxílio de cientistas como Kip Thorne) e uma carga emocional devastadora como **Interestelar (Interstellar)**, de Christopher Nolan. O tema do tempo como um recurso finito e a força do amor como a única grandeza capaz de transcender dimensões tornou o filme um marco cultural inesquecível.\n\nSe você está com saudades da sensação de contemplar a imensidão do cosmos enquanto reflete sobre o destino da humanidade, reunimos 5 produções imperdíveis que honram exatamente essa tradição visual e filosófica.",
   "listItems": [
     {
       "rank": 1,
-      "title": "A Chegada",
+      "title": "A Chegada (Arrival)",
       "year": 2016,
+      "director": "Denis Villeneuve",
+      "score": 9.7,
+      "highlightTag": "Obra-Prima Emocional",
+      "cast": [
+        "Amy Adams",
+        "Jeremy Renner",
+        "Forest Whitaker"
+      ],
+      "posterImage": "https://image.tmdb.org/t/p/w500/3rDwbFpn6z5HJUgDjpfhEePx8VI.jpg",
       "whereToWatch": [
         "Netflix",
+        "Paramount+"
+      ],
+      "synopsis": "Uma linguista é recrutada pelos militares para tentar se comunicar com seres alienígenas misteriosos que pousaram naves monolíticas ao redor do planeta.",
+      "whyWatch": "Assim como Interestelar, desconstrói nossa percepção linear sobre o tempo e entrega um clímax emocionante que reconfigura toda a história na sua cabeça.",
+      "highlightPoints": [
+        "Atuação impecável de Amy Adams",
+        "Trilha sonora memorável de Jóhann Jóhannsson"
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "Blade Runner 2049",
+      "year": 2017,
+      "director": "Denis Villeneuve",
+      "score": 9.4,
+      "highlightTag": "Visual Monumental",
+      "cast": [
+        "Ryan Gosling",
+        "Harrison Ford",
+        "Ana de Armas"
+      ],
+      "posterImage": "https://image.tmdb.org/t/p/w500/49pANIZXRAdHUiWjjBv4vxPeqRC.jpg",
+      "whereToWatch": [
+        "Max",
+        "Netflix"
+      ],
+      "synopsis": "Um policial replicante desenterra um segredo enterrado há muito tempo que tem o potencial de mergulhar a sociedade em uma guerra total.",
+      "whyWatch": "A cinematografia de Roger Deakins (vencedora do Oscar) oferece a mesma escala épica e melancolia visual que consagraram os planetas visitados pela nave Endurance.",
+      "highlightPoints": [
+        "Design de som estrondoso e imersivo",
+        "Profundidade filosófica sobre a alma humana"
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "Gravidade (Gravity)",
+      "year": 2013,
+      "director": "Alfonso Cuarón",
+      "score": 9.1,
+      "highlightTag": "Vencedor de 7 Oscars",
+      "cast": [
+        "Sandra Bullock",
+        "George Clooney"
+      ],
+      "posterImage": "https://image.tmdb.org/t/p/w500/eHLufJ1bHy4PtEBJdPSTu4jIhZ0.jpg",
+      "whereToWatch": [
+        "Max",
         "Prime Video"
       ],
-      "score": 9.4,
-      "posterImage": "https://image.tmdb.org/t/p/w500/3rDwbFpn6z5HJUgDjpfhEePx8VI.jpg"
+      "synopsis": "Dois astronautas ficam à deriva no vácuo espacial absoluto após detritos de um satélite destruírem seu ônibus espacial durante uma caminhada de rotina.",
+      "whyWatch": "Uma aula de tensão contínua sem gravidade. O silêncio aterrorizante do espaço e a luta pela sobrevivência lembram as melhores sequências de Interestelar.",
+      "highlightPoints": [
+        "Planos-sequência de tirar o fôlego",
+        "Sandra Bullock em um tour-de-force físico"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "Ex Machina",
+      "year": 2014,
+      "director": "Alex Garland",
+      "score": 9.0,
+      "highlightTag": "Ficção Inteligente",
+      "cast": [
+        "Alicia Vikander",
+        "Domhnall Gleeson",
+        "Oscar Isaac"
+      ],
+      "posterImage": "https://image.tmdb.org/t/p/w500/hfpnFtgcYom9Gk9s1IyWiovpZYg.jpg",
+      "whereToWatch": [
+        "Max",
+        "Apple TV+"
+      ],
+      "synopsis": "Um jovem programador é convidado para a mansão isolada do CEO de sua empresa para realizar o teste de Turing em uma andróide com inteligência artificial surpreendente.",
+      "whyWatch": "Uma ficção científica cerebral e precisa que instiga o intelecto a cada diálogo, discutindo consciência, ética e o futuro das criações humanas.",
+      "highlightPoints": [
+        "Oscar de Melhores Efeitos Visuais",
+        "Atuação magnética de Alicia Vikander"
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "Duna: Parte 2",
+      "year": 2024,
+      "director": "Denis Villeneuve",
+      "score": 9.8,
+      "highlightTag": "O Maior Sci-Fi da Década",
+      "cast": [
+        "Timothée Chalamet",
+        "Zendaya",
+        "Rebecca Ferguson"
+      ],
+      "posterImage": "https://image.tmdb.org/t/p/w500/VMy4UGsI2u3f4fALGeCqCdsQBb.jpg",
+      "whereToWatch": [
+        "Max",
+        "Prime Video"
+      ],
+      "synopsis": "Paul Atreides se une a Chani e aos Fremen enquanto busca vingança contra os conspiradores que destruíram sua família, diante de uma escolha trágica entre o amor e o universo.",
+      "whyWatch": "Escala cinematográfica no nível mais alto já produzido pela humanidade. O design de som e a grandiosidade lembram o ápice do trabalho de Nolan com Zimmer.",
+      "highlightPoints": [
+        "Batalhas monumentais no deserto de Arrakis",
+        "Trilha sonora épica de Hans Zimmer"
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Onde posso assistir aos filmes parecidos com Interestelar?",
+      "answer": "Todos os filmes estão presentes nos catálogos da Max, Netflix e Prime Video no Brasil."
+    },
+    {
+      "question": "Qual filme tem a trilha sonora mais parecida com Interestelar?",
+      "answer": "Duna: Parte 2 e Blade Runner 2049, ambas com o envolvimento e assinatura sonora do compositor Hans Zimmer."
     }
   ]
 }

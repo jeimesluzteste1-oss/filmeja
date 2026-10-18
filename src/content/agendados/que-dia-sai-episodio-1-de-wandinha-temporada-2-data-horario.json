@@ -1,50 +1,116 @@
 {
-  "id": "post-1792348421-3-4",
+  "id": "post-semana-ouro-30",
   "slug": "que-dia-sai-episodio-1-de-wandinha-temporada-2-data-horario",
   "title": "Que Dia Sai o Episódio 1 de Wandinha (2ª Temporada)? Data e Horário na Netflix",
-  "subtitle": "Jenna Ortega retorna a Nunca Mais com mais mistério gótico e sem romances forçados.",
+  "subtitle": "Mais terror, menos romance adolescente: Jenna Ortega e Tim Burton retornam à Escola Nunca Mais com novidades sombrias.",
   "type": "episodio",
   "genres": [
     "Séries",
     "Netflix",
-    "Fantasia",
-    "Mistério"
+    "Terror",
+    "Comédia Sombria",
+    "Lançamentos"
   ],
-  "publishedAt": "2026-10-21T23:59:00Z",
-  "scheduledFor": "2026-10-21T23:59:00Z",
-  "updatedAt": "2026-10-21T23:59:00Z",
+  "publishedAt": "2026-10-24T23:59:00Z",
+  "scheduledFor": "2026-10-24T23:59:00Z",
+  "updatedAt": "2026-10-24T23:59:00Z",
   "author": {
     "name": "Beatriz Silveira",
     "role": "Crítica de Cinema de Gênero & Terror",
     "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=100&auto=format&fit=crop&q=80"
   },
-  "coverImage": "https://image.tmdb.org/t/p/w500/9PFonBhy4cQy7Jz20NpMygczOkv.jpg",
-  "posterImage": "https://image.tmdb.org/t/p/w500/9PFonBhy4cQy7Jz20NpMygczOkv.jpg",
-  "readingTime": "4 min de leitura",
+  "coverImage": "https://media.themoviedb.org/t/p/w500/9PFonBhy4cQy7Jz20NpMygczOkv.jpg",
+  "posterImage": "https://media.themoviedb.org/t/p/w500/9PFonBhy4cQy7Jz20NpMygczOkv.jpg",
+  "readingTime": "5 min de leitura",
   "seo": {
-    "metaTitle": "Que Dia Sai o Episódio 1 de Wandinha (2ª Temporada)? Da | FilmeJá",
-    "metaDescription": "Jenna Ortega retorna a Nunca Mais com mais mistério gótico e sem romances forçados.",
+    "metaTitle": "Que Dia Sai Episódio 1 de Wandinha (2ª Temp)? Horário na Netflix | FilmeJá",
+    "metaDescription": "Saiba que dia estreia a 2ª temporada de Wandinha (Wednesday) na Netflix. Veja o elenco com Steve Buscemi, direção de Tim Burton e teorias no Brasil.",
     "keywords": [
-      "que dia sai episodio 1 de wandinha temporada 2 data horario",
-      "que dia sai o episódio 1 de wandinha (2ª temporada)? data e horário na netflix",
-      "onde assistir que",
-      "filmeja cinema e streaming"
+      "wandinha temporada 2 data netflix",
+      "que dia sai wandinha 2 ep 1",
+      "jenna ortega wandinha 2 horario brasil",
+      "wandinha addams segunda temporada"
     ]
   },
-  "content": "Sob a direção de Tim Burton, a nova temporada de Wandinha foca inteiramente no terror investigativo e nos segredos ancestrais da Família Addams.",
-  "faqs": [
-    {
-      "question": "A que horas estreia Wandinha na Netflix?",
-      "answer": "Lançamentos globais da Netflix chegam ao Brasil pontualmente às 04h00 da manhã (horário de Brasília)."
-    }
-  ],
+  "content": "Consolidada como a série de língua inglesa mais assistida da história da Netflix, **Wandinha (Wednesday)** retorna para a sua 2ª temporada sob o comando visual gótico de Tim Burton. Jenna Ortega, agora atuando também como produtora executiva da série, confirmou uma mudança de tom solicitada pelos fãs: o enredo abandonará os triângulos amorosos adolescentes para focar em puro terror gótico, mistérios sombrios e humor macabro.\n\nA nova temporada introduz nomes de peso no elenco da Família Addams e na Escola Nunca Mais: Steve Buscemi assume como o novo diretor da instituição, Thandiwe Newton, Christopher Lloyd (o Tio Fester clássico dos anos 90) e a diva pop Lady Gaga em uma participação especial muito aguardada.\n\nA Netflix prepara o lançamento global com episódios completos disponibilizados **às 04h00 ou 05h00 da manhã (horário de Brasília)** com a icônica dublagem brasileira.",
   "seriesInfo": {
     "seriesTitle": "Wandinha",
+    "originalTitle": "Wednesday",
     "seasonNumber": 2,
     "episodeNumber": 1,
-    "nextEpisodeDate": "em breve",
-    "nextEpisodeTime": "04h00",
+    "nextEpisodeDate": "Outubro de 2025",
+    "nextEpisodeTime": "05h00 da manhã (Horário de Brasília)",
     "platform": "Netflix",
-    "totalEpisodes": 8
-  }
+    "totalEpisodes": 8,
+    "recapPreviousEpisode": "No final da 1ª temporada, Wandinha derrota Joseph Crackstone e descobre que Tyler era o monstro Hyde manipulado pela professora Marilyn Thornhill (Christina Ricci), recebendo mensagens de um perseguidor misterioso.",
+    "whatToExpect": "Wandinha investiga quem é seu perseguidor secreto, enquanto novos segredos sobre a maldição da linhagem dos Addams são revelados.",
+    "schedule": [
+      {
+        "episodeNumber": 1,
+        "title": "Aqui Vamos Nós de Novo",
+        "releaseDate": "Estreia",
+        "releaseTime": "05:00 BRT",
+        "status": "proximo"
+      },
+      {
+        "episodeNumber": 2,
+        "title": "O Novo Diretor",
+        "releaseDate": "Estreia",
+        "releaseTime": "05:00 BRT",
+        "status": "a_estrear"
+      },
+      {
+        "episodeNumber": 3,
+        "title": "Segredos de Família",
+        "releaseDate": "Estreia",
+        "releaseTime": "05:00 BRT",
+        "status": "a_estrear"
+      },
+      {
+        "episodeNumber": 4,
+        "title": "Noite Macabra",
+        "releaseDate": "Estreia",
+        "releaseTime": "05:00 BRT",
+        "status": "a_estrear"
+      },
+      {
+        "episodeNumber": 5,
+        "title": "A Mansão Addams",
+        "releaseDate": "Estreia",
+        "releaseTime": "05:00 BRT",
+        "status": "a_estrear"
+      },
+      {
+        "episodeNumber": 6,
+        "title": "O Círculo das Sombras",
+        "releaseDate": "Estreia",
+        "releaseTime": "05:00 BRT",
+        "status": "a_estrear"
+      },
+      {
+        "episodeNumber": 7,
+        "title": "Pesadelo na Cripta",
+        "releaseDate": "Estreia",
+        "releaseTime": "05:00 BRT",
+        "status": "a_estrear"
+      },
+      {
+        "episodeNumber": 8,
+        "title": "O Fim da Infelicidade (Final)",
+        "releaseDate": "Estreia",
+        "releaseTime": "05:00 BRT",
+        "status": "a_estrear"
+      }
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Quando estreia a 2ª temporada de Wandinha na Netflix?",
+      "answer": "A previsão oficial da Netflix para a estreia da 2ª temporada é para o segundo semestre de 2025, próximo ao Halloween."
+    },
+    {
+      "question": "Lady Gaga está confirmada no elenco de Wandinha?",
+      "answer": "Sim, veículos como a Variety e a própria Netflix confirmaram a participação especial de Lady Gaga na 2ª temporada."
+    }
+  ]
 }

@@ -1,50 +1,109 @@
 {
-  "id": "post-1792348421-1-4",
+  "id": "post-semana-ouro-11",
   "slug": "que-dia-sai-episodio-1-de-the-last-of-us-temporada-2-data-horario",
   "title": "Que Dia Sai o Episódio 1 de The Last of Us (2ª Temporada)? Data e Horário na Max",
-  "subtitle": "Joel e Ellie retornam em meio ao caos de Seattle e a chegada de Abby. Confira o calendário de exibição da HBO.",
+  "subtitle": "Joel e Ellie retornam: tudo sobre a chegada de Abby, adaptação de Part II e o cronograma na HBO e Max.",
   "type": "episodio",
   "genres": [
     "Séries",
     "Max",
-    "Dramas",
-    "Ação"
+    "Sobrevivência",
+    "Drama",
+    "Lançamentos"
   ],
-  "publishedAt": "2026-10-19T23:59:00Z",
-  "scheduledFor": "2026-10-19T23:59:00Z",
-  "updatedAt": "2026-10-19T23:59:00Z",
+  "publishedAt": "2026-10-21T11:00:00Z",
+  "scheduledFor": "2026-10-21T11:00:00Z",
+  "updatedAt": "2026-10-21T11:00:00Z",
   "author": {
     "name": "Marcos Vinicius",
     "role": "Especialista em Séries & Lançamentos Semanais",
     "avatar": "https://images.unsplash.com/photo-1539571696357-5a69c17a67c6?w=100&auto=format&fit=crop&q=80"
   },
-  "coverImage": "https://image.tmdb.org/t/p/w500/uKvVjK1olIuUUpK2fbg9m0832p.jpg",
-  "posterImage": "https://image.tmdb.org/t/p/w500/uKvVjK1olIuUUpK2fbg9m0832p.jpg",
-  "readingTime": "4 min de leitura",
+  "coverImage": "https://media.themoviedb.org/t/p/w500/dmo6TYuuJgaYinXBPjrgG9mB5od.jpg",
+  "posterImage": "https://media.themoviedb.org/t/p/w500/dmo6TYuuJgaYinXBPjrgG9mB5od.jpg",
+  "readingTime": "5 min de leitura",
   "seo": {
-    "metaTitle": "Que Dia Sai o Episódio 1 de The Last of Us (2ª Temporad | FilmeJá",
-    "metaDescription": "Joel e Ellie retornam em meio ao caos de Seattle e a chegada de Abby. Confira o calendário de exibição da HBO.",
+    "metaTitle": "Que Dia Sai Episódio 1 de The Last of Us (2ª Temp)? Horário | FilmeJá",
+    "metaDescription": "Saiba quando estreia o episódio 1 da 2ª temporada de The Last of Us na Max. Veja o calendário de episódios no Brasil, elenco e teorias.",
     "keywords": [
-      "que dia sai episodio 1 de the last of us temporada 2 data horario",
-      "que dia sai o episódio 1 de the last of us (2ª temporada)? data e horário na max",
-      "onde assistir que",
-      "filmeja cinema e streaming"
+      "the last of us temporada 2 data",
+      "que dia sai the last of us ep 1",
+      "the last of us horario max brasil",
+      "pedro pascal the last of us 2"
     ]
   },
-  "content": "A segunda temporada de The Last of Us adapta os acontecimentos devastadores do aclamado jogo The Last of Us Part II da Naughty Dog, trazendo Pedro Pascal e Bella Ramsey em atuações viscerais.",
-  "faqs": [
-    {
-      "question": "Que horas sai The Last of Us no streaming?",
-      "answer": "A série da HBO estreia episódios inéditos sempre aos domingos pontualmente às 22h na Max."
-    }
-  ],
+  "content": "Fenômeno global com Pedro Pascal (Joel) e Bella Ramsey (Ellie), **The Last of Us** retorna para sua aguardada 2ª temporada na HBO e no streaming da Max. Adaptando a aclamada e dolorosa narrativa do jogo *The Last of Us Part II* da Naughty Dog, a nova temporada avança 5 anos no tempo, mostrando a vida da comunidade em Jackson, Wyoming, antes que o ciclo violento de retaliação e vingança destrua a paz conquistada.\n\nO elenco ganha reforços de peso de Hollywood: Kaitlyn Dever assume o papel central de Abby Anderson, Isabela Merced interpreta Dina (o interesse amoroso de Ellie) e Young Mazino vive Jesse. Craig Mazin e Neil Druckmann confirmaram que a grandiosidade de Part II exigirá mais de uma temporada para ser totalmente adaptada.\n\nOs episódios serão transmitidos **todos os domingos às 22h00 (horário de Brasília)** na Max e no canal linear HBO.",
   "seriesInfo": {
     "seriesTitle": "The Last of Us",
+    "originalTitle": "The Last of Us",
     "seasonNumber": 2,
     "episodeNumber": 1,
-    "nextEpisodeDate": "domingo",
-    "nextEpisodeTime": "22h00",
+    "nextEpisodeDate": "Março de 2025",
+    "nextEpisodeTime": "22h00 (Horário de Brasília)",
     "platform": "Max",
-    "totalEpisodes": 7
-  }
+    "totalEpisodes": 7,
+    "recapPreviousEpisode": "No hospital dos Vagalumes em Salt Lake City, Joel massacra os médicos para salvar Ellie da cirurgia fatal e mente dizendo que a busca pela cura havia sido abandonada.",
+    "whatToExpect": "O dia a dia em Jackson, o distanciamento gradual entre Joel e Ellie e a aproximação de um grupo militarizado liderado por Abby nos arredores da cidade.",
+    "schedule": [
+      {
+        "episodeNumber": 1,
+        "title": "Jackson",
+        "releaseDate": "Domingo",
+        "releaseTime": "22:00 BRT",
+        "status": "proximo"
+      },
+      {
+        "episodeNumber": 2,
+        "title": "O Preço da Mentira",
+        "releaseDate": "Domingo",
+        "releaseTime": "22:00 BRT",
+        "status": "a_estrear"
+      },
+      {
+        "episodeNumber": 3,
+        "title": "Seattle: Dia 1",
+        "releaseDate": "Domingo",
+        "releaseTime": "22:00 BRT",
+        "status": "a_estrear"
+      },
+      {
+        "episodeNumber": 4,
+        "title": "Serafitas",
+        "releaseDate": "Domingo",
+        "releaseTime": "22:00 BRT",
+        "status": "a_estrear"
+      },
+      {
+        "episodeNumber": 5,
+        "title": "O Hospital",
+        "releaseDate": "Domingo",
+        "releaseTime": "22:00 BRT",
+        "status": "a_estrear"
+      },
+      {
+        "episodeNumber": 6,
+        "title": "Convergência",
+        "releaseDate": "Domingo",
+        "releaseTime": "22:00 BRT",
+        "status": "a_estrear"
+      },
+      {
+        "episodeNumber": 7,
+        "title": "O Limiar",
+        "releaseDate": "Domingo",
+        "releaseTime": "22:00 BRT",
+        "status": "a_estrear"
+      }
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Que dia passa The Last of Us na HBO e Max?",
+      "answer": "Os episódios inéditos passam aos domingos pontualmente às 22h00 no canal HBO e entram no catálogo da Max simultaneamente."
+    },
+    {
+      "question": "Quem interpreta Abby na 2ª temporada de The Last of Us?",
+      "answer": "A atriz indicada ao Emmy Kaitlyn Dever (de Inacreditável e Dopesick) interpreta Abby Anderson."
+    }
+  ]
 }

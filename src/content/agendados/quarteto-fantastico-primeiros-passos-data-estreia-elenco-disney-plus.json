@@ -1,47 +1,64 @@
 {
-  "id": "post-1792348421-5-1",
+  "id": "post-semana-ouro-17",
   "slug": "quarteto-fantastico-primeiros-passos-data-estreia-elenco-disney-plus",
-  "title": "Quarteto Fantástico: Primeiros Passos: Data de Estreia, Elenco Completo e Disney+",
-  "subtitle": "Pedro Pascal lidera a Primeira Família da Marvel nos anos 60 contra Galactus e o Surfista Prateado.",
+  "title": "Quarteto Fantástico: Primeiros Passos: Data de Estreia nos Cinemas, Elenco e Marvel Studios",
+  "subtitle": "A Primeira Família da Marvel no MCU: Pedro Pascal, Vanessa Kirby, o visual retrofuturista dos anos 60 e o vilão Galactus.",
   "type": "lancamento",
   "genres": [
     "Cinema",
-    "Lançamentos",
     "Marvel",
-    "Disney+"
+    "Lançamentos",
+    "Disney+",
+    "Ficção Científica"
   ],
-  "publishedAt": "2026-10-23T15:00:00Z",
-  "scheduledFor": "2026-10-23T15:00:00Z",
-  "updatedAt": "2026-10-23T15:00:00Z",
+  "publishedAt": "2026-10-22T15:00:00Z",
+  "scheduledFor": "2026-10-22T15:00:00Z",
+  "updatedAt": "2026-10-22T15:00:00Z",
   "author": {
     "name": "Thiago Rocha",
     "role": "Editor de Cinema Comercial & Ação",
     "avatar": "https://images.unsplash.com/photo-1522075469751-3a6694fb2f61?w=100&auto=format&fit=crop&q=80"
   },
-  "coverImage": "https://image.tmdb.org/t/p/w500/9kigkP4XF4U9ePz6P4xL6Z0U9eP.jpg",
-  "posterImage": "https://image.tmdb.org/t/p/w500/9kigkP4XF4U9ePz6P4xL6Z0U9eP.jpg",
+  "coverImage": "https://media.themoviedb.org/t/p/w500/nf5qaSEvyYSNeFH0YhSs5EsBLX9.jpg",
+  "posterImage": "https://media.themoviedb.org/t/p/w500/nf5qaSEvyYSNeFH0YhSs5EsBLX9.jpg",
   "readingTime": "5 min de leitura",
   "seo": {
-    "metaTitle": "Quarteto Fantástico: Primeiros Passos: Data de Estreia, | FilmeJá",
-    "metaDescription": "Pedro Pascal lidera a Primeira Família da Marvel nos anos 60 contra Galactus e o Surfista Prateado.",
+    "metaTitle": "Quarteto Fantástico: Primeiros Passos: Data de Estreia nos Cinemas | FilmeJá",
+    "metaDescription": "Saiba quando estreia Quarteto Fantástico: Primeiros Passos da Marvel Studios. Veja o elenco estelar, Galactus, Surfista Prateada e chegada ao Disney+.",
     "keywords": [
-      "quarteto fantastico primeiros passos data estreia elenco disney plus",
-      "quarteto fantástico: primeiros passos: data de estreia, elenco completo e disney+",
-      "onde assistir quarteto",
-      "filmeja cinema e streaming"
+      "quarteto fantastico primeiros passos data brasil",
+      "elenco quarteto fantastico marvel",
+      "pedro pascal reed richards",
+      "onde assistir quarteto fantastico mcu"
     ]
   },
-  "content": "A estreia mais aguardada da Fase 6 do MCU promete introduzir Reed Richards, Sue Storm, Johnny Storm e O Coisa com estética retrofuturista inesquecível.",
+  "content": "O filme mais aguardado da Fase 6 do Universo Cinematográfico da Marvel (MCU), **Quarteto Fantástico: Primeiros Passos (The Fantastic Four: First Steps)**, dirigido por Matt Shakman (de *WandaVision*), traz a lendária Primeira Família dos quadrinhos para o centro do multiverso cinematográfico.\n\nCom uma proposta estética fascinante, a trama se passa em uma Nova York alternativa e retrofuturista inspirada nos anos 1960. O elenco principal reúne nomes de primeiro escalão: Pedro Pascal como o gênio elástico Reed Richards (Sr. Fantástico), Vanessa Kirby como Sue Storm (Mulher Invisível), Joseph Quinn como Johnny Storm (Tocha Humana) e Ebon Moss-Bachrach como Ben Grimm (O Coisa).\n\nA ameaça cósmica que a equipe enfrentará é de escala monumental: o devorador de planetas **Galactus** (interpretado pelo imponente Ralph Ineson) e sua misteriosa arauta, a Surfista Prateada Shalla-Bal (vivida pela vencedora do Emmy Julia Garner). O longa é o prelúdio oficial para os eventos cataclísmicos de *Vingadores: Doomsday*.",
+  "movieInfo": {
+    "title": "Quarteto Fantástico: Primeiros Passos",
+    "releaseDate": "24 de julho de 2025",
+    "futureStreaming": "Disney+",
+    "directors": "Matt Shakman",
+    "mainVillain": "Ralph Ineson (Galactus) e Julia Garner (Surfista Prateada)",
+    "confirmedCast": [
+      "Pedro Pascal (Reed Richards / Sr. Fantástico)",
+      "Vanessa Kirby (Sue Storm / Mulher Invisível)",
+      "Joseph Quinn (Johnny Storm / Tocha Humana)",
+      "Ebon Moss-Bachrach (Ben Grimm / O Coisa)",
+      "Ralph Ineson (Galactus)",
+      "Julia Garner (Shalla-Bal / Surfista Prateada)",
+      "Paul Walter Hauser",
+      "John Malkovich"
+    ],
+    "productionDetails": "Superprodução da Marvel Studios filmada em Londres com câmeras IMAX digitais, design de produção retrofuturista dos anos 60 e trilha sonora de Michael Giacchino."
+  },
   "faqs": [
     {
-      "question": "Quando Quarteto Fantástico chega ao Disney+?",
-      "answer": "Previsão de chegada ao catálogo do Disney+ cerca de 90 dias após a estreia nos cinemas."
+      "question": "Quando Quarteto Fantástico estreia no Brasil?",
+      "answer": "A estreia nos cinemas brasileiros está confirmada para 24 de julho de 2025."
+    },
+    {
+      "question": "Quando chega ao Disney+?",
+      "answer": "Seguindo a janela habitual da Disney, a chegada ao Disney+ está prevista para outubro ou novembro de 2025."
     }
-  ],
-  "movieInfo": {
-    "title": "Quarteto Fantástico",
-    "releaseDate": "24 de julho",
-    "futureStreaming": "Disney+",
-    "productionDetails": "Direção de Matt Shakman com Pedro Pascal, Vanessa Kirby e Joseph Quinn."
-  }
+  ]
 }

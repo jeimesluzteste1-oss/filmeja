@@ -1,13 +1,15 @@
 {
-  "id": "post-1792348421-5-3",
+  "id": "post-semana-ouro-24",
   "slug": "7-melhores-filmes-de-terror-na-apple-tv-e-disney-plus-2026",
-  "title": "7 Melhores Filmes de Terror e Suspense na Apple TV+ e Disney+ (2026)",
-  "subtitle": "As joias ocultas de terror psicológico e sobrenatural que muitos assinantes nem sabem que existem.",
-  "type": "streaming",
+  "title": "7 Melhores Filmes de Terror na Apple TV e Disney+ em 2026",
+  "subtitle": "Esqueça os catálogos óbvios: as produções de horror mais perturbadoras, aclamadas e elegantes dessas duas plataformas premium.",
+  "type": "list",
   "genres": [
     "Terror",
+    "Disney+",
     "Apple TV+",
-    "Disney+"
+    "Suspense",
+    "Streaming"
   ],
   "publishedAt": "2026-10-23T22:30:00Z",
   "scheduledFor": "2026-10-23T22:30:00Z",
@@ -17,36 +19,191 @@
     "role": "Crítica de Cinema de Gênero & Terror",
     "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=100&auto=format&fit=crop&q=80"
   },
-  "coverImage": "https://image.tmdb.org/t/p/w500/zppeHKLHljU2uI7NBJ1JyDNpn6L.jpg",
-  "posterImage": "https://image.tmdb.org/t/p/w500/zppeHKLHljU2uI7NBJ1JyDNpn6L.jpg",
-  "readingTime": "5 min de leitura",
+  "coverImage": "https://image.tmdb.org/t/p/w500/jB0W9tn4w07MFn7sTfqRTBLVytF.jpg",
+  "posterImage": "https://image.tmdb.org/t/p/w500/jB0W9tn4w07MFn7sTfqRTBLVytF.jpg",
+  "readingTime": "8 min de leitura",
   "seo": {
-    "metaTitle": "7 Melhores Filmes de Terror e Suspense na Apple TV+ e D | FilmeJá",
-    "metaDescription": "As joias ocultas de terror psicológico e sobrenatural que muitos assinantes nem sabem que existem.",
+    "metaTitle": "7 Melhores Filmes de Terror na Apple TV e Disney+ (2026) | FilmeJá",
+    "metaDescription": "Quer assistir a filmes de terror de alto padrão? Confira os 7 melhores longas de horror e suspense disponíveis na Apple TV e no Disney+.",
     "keywords": [
-      "7 melhores filmes de terror na apple tv e disney plus 2026",
-      "7 melhores filmes de terror e suspense na apple tv+ e disney+ (2026)",
-      "onde assistir 7",
-      "filmeja cinema e streaming"
+      "filmes de terror disney plus 2026",
+      "melhores filmes de terror apple tv",
+      "filmes assustadores disney plus",
+      "terror sofisticado streaming"
     ]
   },
-  "content": "Embora o Disney+ seja conhecido por heróis e família, o selo Star abriga produções consagradas como A Primeira Profecia e Alien.",
-  "faqs": [
-    {
-      "question": "Tem filme de terror bom no Disney+?",
-      "answer": "Sim! A Primeira Profecia, Alien: Romulus e O Predador são imperdíveis."
-    }
-  ],
+  "content": "Muitas pessoas associam o Disney+ exclusivamente a produções infantis ou de super-heróis, e a Apple TV+ apenas a dramas sofisticados. No entanto, com a incorporação do acervo da antiga 20th Century Fox e Searchlight Pictures no Disney+ e a curadoria rigorosa da Apple, essas duas plataformas tornaram-se o lar de alguns dos filmes de terror mais aclamados, sangrentos e inteligentes do cinema moderno.\n\nReunimos os **7 filmes de terror imperdíveis disponíveis na Apple TV e Disney+**, avaliados com notas altas e qualidade de produção impecável.",
   "listItems": [
     {
       "rank": 1,
-      "title": "A Primeira Profecia",
+      "title": "Alien: Romulus",
       "year": 2024,
+      "director": "Fede Álvarez",
+      "score": 9.1,
+      "highlightTag": "O Retorno do Xenomorfo",
+      "cast": [
+        "Cailee Spaeny",
+        "David Jonsson",
+        "Archie Renaux"
+      ],
+      "posterImage": "https://image.tmdb.org/t/p/w500/jB0W9tn4w07MFn7sTfqRTBLVytF.jpg",
       "whereToWatch": [
         "Disney+"
       ],
+      "synopsis": "Jovens colonizadores espaciais invadem uma estação de pesquisa abandonada e enfrentam a criatura mais letal do universo.",
+      "whyWatch": "O melhor filme da franquia Alien em décadas. Efeitos práticos impressionantes, claustrofobia e um clímax grotesco que chocou os cinemas.",
+      "highlightPoints": [
+        "Uso inovador de animatrônicos",
+        "Sequência da gravidade zero com sangue ácido"
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "A Primeira Profecia (The First Omen)",
+      "year": 2024,
+      "director": "Arkasha Stevenson",
+      "score": 8.9,
+      "highlightTag": "Terror Religioso Primoroso",
+      "cast": [
+        "Nell Tiger Free",
+        "Sônia Braga",
+        "Bill Nighy"
+      ],
+      "posterImage": "https://image.tmdb.org/t/p/w500/zppeHKLHljU2uI7NBJ1JyDNpn6L.jpg",
+      "whereToWatch": [
+        "Disney+"
+      ],
+      "synopsis": "Uma jovem americana em Roma descobre uma conspiração aterradora dentro da Igreja para provocar o nascimento da encarnação do mal.",
+      "whyWatch": "Uma surpresa extraordinária que supera a maioria das sequências modernas com direção corajosa, estética dos anos 70 e atuação gigante.",
+      "highlightPoints": [
+        "Plano-sequência de convulsão corporal impressionante",
+        "Atuação de gala de Sônia Braga"
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "Nosferatu",
+      "year": 2024,
+      "director": "Robert Eggers",
+      "score": 9.3,
+      "highlightTag": "Gótico Puro",
+      "cast": [
+        "Bill Skarsgård",
+        "Lily-Rose Depp",
+        "Nicholas Hoult"
+      ],
+      "posterImage": "https://image.tmdb.org/t/p/w500/fbkUfzmVzEBFSt6p7VigknREIJT.jpg",
+      "whereToWatch": [
+        "Apple TV+"
+      ],
+      "synopsis": "A obsessão de um vampiro milenar da Transilvânia por uma jovem atormentada traz a peste e o terror a uma cidade europeia.",
+      "whyWatch": "Robert Eggers (de O Farol e A Bruxa) entrega a adaptação definitiva do mito de Drácula com rigor histórico sombrio e pesadelo constante.",
+      "highlightPoints": [
+        "Cinematografia em preto e sombras aterradora",
+        "Transformação física chocante de Bill Skarsgård"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "A Substância (The Substance)",
+      "year": 2024,
+      "director": "Coralie Fargeat",
+      "score": 9.4,
+      "highlightTag": "Body Horror Vencedor em Cannes",
+      "cast": [
+        "Demi Moore",
+        "Margaret Qualley",
+        "Dennis Quaid"
+      ],
+      "posterImage": "https://image.tmdb.org/t/p/w500/vWeOgzlhnP1sS23H3rzctGHB9Nb.jpg",
+      "whereToWatch": [
+        "Apple TV+"
+      ],
+      "synopsis": "Uma estrela decadente usa uma droga clandestina do mercado negro para gerar uma versão mais jovem e perfeita de si mesma.",
+      "whyWatch": "Vencedor de Melhor Roteiro em Cannes, traz a melhor atuação da carreira de Demi Moore com sequências viscerais inesquecíveis.",
+      "highlightPoints": [
+        "Sátira implacável à obsessão pela juventude",
+        "Próteses e maquiagem de nível histórico"
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "Sorria 2 (Smile 2)",
+      "year": 2024,
+      "director": "Parker Finn",
+      "score": 8.6,
+      "highlightTag": "Tensão Pop",
+      "cast": [
+        "Naomi Scott",
+        "Rosemarie DeWitt",
+        "Lukas Gage"
+      ],
+      "posterImage": "https://image.tmdb.org/t/p/w500/ypHiYvSJmHIyRDRiosZuE595uir.jpg",
+      "whereToWatch": [
+        "Apple TV+"
+      ],
+      "synopsis": "Uma cantora pop mundialmente famosa é perseguida por visões sinistras e pessoas sorrindo de forma macabra antes de sua turnê.",
+      "whyWatch": "Muito superior ao primeiro filme, trabalha a histeria e o medo da exposição pública com sustos milimetricamente calculados.",
+      "highlightPoints": [
+        "Atuação enérgica de Naomi Scott",
+        "Direção de arte vibrante e aterrorizante"
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "O Homem Invisível (The Invisible Man)",
+      "year": 2020,
+      "director": "Leigh Whannell",
+      "score": 8.9,
+      "highlightTag": "Suspense Moderno",
+      "cast": [
+        "Elisabeth Moss",
+        "Oliver Jackson-Cohen",
+        "Aldis Hodge"
+      ],
+      "posterImage": "https://image.tmdb.org/t/p/w500/67gVCA33yHpFkFyqhDJrt21MvYI.jpg",
+      "whereToWatch": [
+        "Apple TV+"
+      ],
+      "synopsis": "Uma mulher tenta provar que está sendo perseguida e torturada psicologicamente por seu ex-parceiro abusivo que fingiu a própria morte.",
+      "whyWatch": "Reinventou um monstro clássico da Universal para a era moderna com uma metáfora perfeita sobre violência doméstica e isolamento.",
+      "highlightPoints": [
+        "Tensão insuportável em enquadramentos vazios",
+        "Elisabeth Moss em grande forma dramática"
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "Entrevista com o Demônio",
+      "year": 2024,
+      "director": "Cameron Cairnes",
       "score": 9.0,
-      "posterImage": "https://image.tmdb.org/t/p/w500/zppeHKLHljU2uI7NBJ1JyDNpn6L.jpg"
+      "highlightTag": "Original e Criativo",
+      "cast": [
+        "David Dastmalchian",
+        "Laura Gordon",
+        "Ian Bliss"
+      ],
+      "posterImage": "https://image.tmdb.org/t/p/w500/blckaGzdEJ4PdG5RxZPcb77VYFV.jpg",
+      "whereToWatch": [
+        "Apple TV+"
+      ],
+      "synopsis": "Um programa de variedades na noite de Halloween de 1977 abre as portas para forças infernais durante uma possessão demoníaca no ar.",
+      "whyWatch": "Criatividade pura rodada como se fosse uma fita de arquivo de TV dos anos 70 que nunca deveria ter sido exibida ao público.",
+      "highlightPoints": [
+        "Efeitos práticos nostálgicos e assustadores",
+        "Clímax caótico e memorável"
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "O Disney+ tem filmes de terror pesados?",
+      "answer": "Sim, com a integração do Star+ e produções da Fox, títulos como Alien: Romulus e A Primeira Profecia estão no catálogo com classificação 18+."
+    },
+    {
+      "question": "Como alugar ou assistir a esses filmes na Apple TV?",
+      "answer": "Filmes como Nosferatu e A Substância estão disponíveis para compra/aluguel digital em 4K HDR no app Apple TV no Brasil."
     }
   ]
 }

@@ -1,47 +1,62 @@
 {
-  "id": "post-1792348421-4-1",
+  "id": "post-semana-ouro-35",
   "slug": "frankenstein-guillermo-del-toro-data-estreia-netflix-elenco",
-  "title": "Frankenstein de Guillermo del Toro: Data de Estreia na Netflix, Elenco e Fotos",
-  "subtitle": "Oscar Isaac como Dr. Frankenstein e Jacob Elordi como o Monstro na adaptação mais ambiciosa do cineasta.",
+  "title": "Frankenstein de Guillermo del Toro: Data de Estreia na Netflix, Elenco e Imagens",
+  "subtitle": "O sonho de uma vida do diretor vencedor do Oscar: Oscar Isaac, Jacob Elordi como o Monstro e Mia Goth em superprodução gótica.",
   "type": "lancamento",
   "genres": [
     "Cinema",
+    "Terror",
+    "Gótico",
     "Lançamentos",
-    "Netflix",
-    "Terror Gótico"
+    "Netflix"
   ],
-  "publishedAt": "2026-10-22T15:00:00Z",
-  "scheduledFor": "2026-10-22T15:00:00Z",
-  "updatedAt": "2026-10-22T15:00:00Z",
+  "publishedAt": "2026-10-25T23:59:00Z",
+  "scheduledFor": "2026-10-25T23:59:00Z",
+  "updatedAt": "2026-10-25T23:59:00Z",
   "author": {
     "name": "Beatriz Silveira",
     "role": "Crítica de Cinema de Gênero & Terror",
     "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=100&auto=format&fit=crop&q=80"
   },
-  "coverImage": "https://image.tmdb.org/t/p/w500/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg",
-  "posterImage": "https://image.tmdb.org/t/p/w500/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg",
+  "coverImage": "https://image.tmdb.org/t/p/w500/fbkUfzmVzEBFSt6p7VigknREIJT.jpg",
+  "posterImage": "https://image.tmdb.org/t/p/w500/fbkUfzmVzEBFSt6p7VigknREIJT.jpg",
   "readingTime": "5 min de leitura",
   "seo": {
-    "metaTitle": "Frankenstein de Guillermo del Toro: Data de Estreia na  | FilmeJá",
-    "metaDescription": "Oscar Isaac como Dr. Frankenstein e Jacob Elordi como o Monstro na adaptação mais ambiciosa do cineasta.",
+    "metaTitle": "Frankenstein de Guillermo del Toro: Data de Estreia na Netflix | FilmeJá",
+    "metaDescription": "Saiba tudo sobre o novo filme de Frankenstein de Guillermo del Toro na Netflix. Veja o elenco estelar com Oscar Isaac e Jacob Elordi e data no Brasil.",
     "keywords": [
-      "frankenstein guillermo del toro data estreia netflix elenco",
-      "frankenstein de guillermo del toro: data de estreia na netflix, elenco e fotos",
-      "onde assistir frankenstein",
-      "filmeja cinema e streaming"
+      "frankenstein guillermo del toro data netflix",
+      "jacob elordi monstro frankenstein",
+      "oscar isaac frankenstein netflix",
+      "frankenstein del toro brasil"
     ]
   },
-  "content": "Guillermo del Toro dedica sua carreira ao mito de Frankenstein. Com um elenco que inclui Mia Goth e Christoph Waltz, a produção é o carro-chefe da Netflix para as premiações.",
+  "content": "Considerado o projeto dos sonhos de Guillermo del Toro (vencedor do Oscar por *A Forma da Água* e *Pinóquio*) há mais de duas décadas, a nova adaptação cinematográfica de **Frankenstein**, baseada na obra-prima imortal de Mary Shelley, chega com exclusividade ao catálogo da Netflix.\n\nCom um elenco monumental, a produção traz Oscar Isaac como o brilhante e arrogante cientista Victor Frankenstein, Jacob Elordi (de *Euphoria* e *Saltburn*) assumindo o papel trágico e gigantesco do Monstro, Mia Goth (a rainha do terror moderno de *Pearl* e *X*) como a noiva e Christoph Waltz em um papel de destaque.\n\nFilmado com cenários góticos monumentais na Escócia e na Inglaterra, o filme promete ser a adaptação definitiva e mais emocional já feita do clássico, explorando a solidão de uma criatura inocente que nasce em um mundo que a rejeita pela sua aparência. A Netflix confirmou lançamento em salas de cinema selecionadas antes da disponibilização no streaming em 4K Dolby Vision.",
+  "movieInfo": {
+    "title": "Frankenstein (Guillermo del Toro)",
+    "releaseDate": "Outubro de 2025",
+    "futureStreaming": "Netflix",
+    "directors": "Guillermo del Toro",
+    "confirmedCast": [
+      "Oscar Isaac (Dr. Victor Frankenstein)",
+      "Jacob Elordi (O Monstro de Frankenstein)",
+      "Mia Goth",
+      "Christoph Waltz",
+      "Felix Kammerer",
+      "Lars Mikkelsen",
+      "David Bradley"
+    ],
+    "productionDetails": "Superprodução gótica da Netflix com direção e roteiro de Guillermo del Toro, maquiagem prática premiada e trilha de Alexandre Desplat."
+  },
   "faqs": [
     {
-      "question": "Onde assistir ao Frankenstein de del Toro?",
-      "answer": "O filme será lançado diretamente com exclusividade no catálogo mundial da Netflix."
+      "question": "Quando Frankenstein de Guillermo del Toro estreia na Netflix?",
+      "answer": "O lançamento está programado para o outono de 2025 no hemisfério norte, por volta de outubro (temporada do Halloween e premiações)."
+    },
+    {
+      "question": "Quem interpreta o Monstro de Frankenstein?",
+      "answer": "O ator australiano Jacob Elordi foi o escolhido por Guillermo del Toro para dar vida ao Monstro."
     }
-  ],
-  "movieInfo": {
-    "title": "Frankenstein",
-    "releaseDate": "outubro",
-    "futureStreaming": "Netflix",
-    "productionDetails": "Direção de Guillermo del Toro com Jacob Elordi, Oscar Isaac e Mia Goth."
-  }
+  ]
 }

@@ -1,17 +1,19 @@
 {
-  "id": "post-1792348421-5-2",
+  "id": "post-semana-ouro-28",
   "slug": "5-filmes-parecidos-com-oppenheimer-sobre-historia-e-tensao",
-  "title": "5 Filmes Parecidos com Oppenheimer para Quem Ama Dramas Históricos e Tensão",
-  "subtitle": "Grandes biografias, dilemas morais da ciência e os bastidores das maiores decisões políticas da humanidade.",
+  "title": "5 Filmes Parecidos com Oppenheimer sobre História Real, Ciência e Dilemas Morais",
+  "subtitle": "Se você foi impactado pelo épico histórico de Christopher Nolan vencedor de 7 Oscars, veja cinco dramas históricos tensos e arrebatadores.",
   "type": "list",
   "genres": [
+    "Histórico",
     "Drama",
-    "História",
-    "Cinema"
+    "Biografia",
+    "Guerra",
+    "Streaming"
   ],
-  "publishedAt": "2026-10-23T19:00:00Z",
-  "scheduledFor": "2026-10-23T19:00:00Z",
-  "updatedAt": "2026-10-23T19:00:00Z",
+  "publishedAt": "2026-10-24T19:00:00Z",
+  "scheduledFor": "2026-10-24T19:00:00Z",
+  "updatedAt": "2026-10-24T19:00:00Z",
   "author": {
     "name": "Lucas Andrade",
     "role": "Crítico Sênior & Editor-Chefe",
@@ -19,35 +21,146 @@
   },
   "coverImage": "https://image.tmdb.org/t/p/w500/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg",
   "posterImage": "https://image.tmdb.org/t/p/w500/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg",
-  "readingTime": "5 min de leitura",
+  "readingTime": "7 min de leitura",
   "seo": {
-    "metaTitle": "5 Filmes Parecidos com Oppenheimer para Quem Ama Dramas | FilmeJá",
-    "metaDescription": "Grandes biografias, dilemas morais da ciência e os bastidores das maiores decisões políticas da humanidade.",
+    "metaTitle": "5 Filmes Parecidos com Oppenheimer para Assistir Hoje | FilmeJá",
+    "metaDescription": "Gostou de Oppenheimer? Veja 5 produções históricas grandiosas sobre gênios científicos, Segunda Guerra e dilemas éticos no streaming.",
     "keywords": [
-      "5 filmes parecidos com oppenheimer sobre historia e tensao",
-      "5 filmes parecidos com oppenheimer para quem ama dramas históricos e tensão",
-      "onde assistir 5",
-      "filmeja cinema e streaming"
+      "filmes parecidos com oppenheimer",
+      "filmes estilo oppenheimer",
+      "filmes sobre segunda guerra e ciencia",
+      "dramas historicos parecidos com oppenheimer"
     ]
   },
-  "content": "Christopher Nolan venceu o Oscar com um ritmo implacável de montagem e trilha sonora. Selecionamos obras que capturam a mesma gravidade histórica.",
-  "faqs": [
-    {
-      "question": "Onde assistir a Oppenheimer?",
-      "answer": "Oppenheimer está disponível na Max e para compra/aluguel digital."
-    }
-  ],
+  "content": "Consagrado como o grande campeão do Oscar com 7 estatuetas (incluindo Melhor Filme, Melhor Diretor para Christopher Nolan e Melhor Ator para Cillian Murphy), **Oppenheimer** provou que um drama biográfico denso sobre física teórica, tribunais políticos e culpa moral pode ser tão eletrizante quanto o mais veloz dos filmes de ação.\n\nA montagem acelerada de Jennifer Lame e a trilha sonora opressiva de Ludwig Göransson mantiveram o espectador sob tensão ininterrupta. Se você busca produções históricas que mergulhem nos bastidores de decisões que mudaram os rumos do planeta, selecionamos 5 obras extraordinárias disponíveis nos streamings.",
   "listItems": [
     {
       "rank": 1,
-      "title": "O Jogo da Imitação",
+      "title": "O Jogo da Imitação (The Imitation Game)",
       "year": 2014,
-      "whereToWatch": [
-        "Max",
-        "Prime Video"
+      "director": "Morten Tyldum",
+      "score": 9.5,
+      "highlightTag": "Gênio Científico",
+      "cast": [
+        "Benedict Cumberbatch",
+        "Keira Knightley",
+        "Matthew Goode"
       ],
+      "posterImage": "https://media.themoviedb.org/t/p/w500/zSqJ1qFq8NXFfi7JeIYMlzyR0dx.jpg",
+      "whereToWatch": [
+        "Prime Video",
+        "Max"
+      ],
+      "synopsis": "O brilhante matemático britânico Alan Turing lidera uma equipe ultra-secreta em Bletchley Park para decifrar a máquina de criptografia Enigma dos nazistas durante a Segunda Guerra.",
+      "whyWatch": "O paralelo perfeito com Oppenheimer: o intelecto de um homem solitário que encurtou a guerra em anos, mas foi perseguido de maneira trágica pelo próprio governo que salvou.",
+      "highlightPoints": [
+        "Oscar de Melhor Roteiro Adaptado",
+        "Benedict Cumberbatch em atuação memorável"
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "O Destino de uma Nação (Darkest Hour)",
+      "year": 2017,
+      "director": "Joe Wright",
       "score": 9.2,
-      "posterImage": "https://image.tmdb.org/t/p/w500/quZnHOVKVbFR7IdXBI9J0ONb7Jk.jpg"
+      "highlightTag": "Oscar para Gary Oldman",
+      "cast": [
+        "Gary Oldman",
+        "Kristin Scott Thomas",
+        "Lily James"
+      ],
+      "posterImage": "https://media.themoviedb.org/t/p/w500/xa6G3aKlysQeVg9wOb0dRcIGlWu.jpg",
+      "whereToWatch": [
+        "Prime Video",
+        "Apple TV+"
+      ],
+      "synopsis": "Nos primeiros dias da Segunda Guerra Mundial, o recém-empossado primeiro-ministro britânico Winston Churchill precisa decidir se negocia com Hitler ou luta contra todas as probabilidades.",
+      "whyWatch": "A mesma tensão política de gabinetes fechados e discursos inflamados que tornam as audiências da Comissão de Energia Atômica em Oppenheimer tão hipnóticas.",
+      "highlightPoints": [
+        "Transformação física histórica de Gary Oldman",
+        "Fotografia indicada ao Oscar"
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "Chernobyl",
+      "year": 2019,
+      "director": "Johan Renck",
+      "score": 9.9,
+      "highlightTag": "Minissérie Vencedora de 10 Emmys",
+      "cast": [
+        "Jared Harris",
+        "Stellan Skarsgård",
+        "Emily Watson"
+      ],
+      "posterImage": "https://media.themoviedb.org/t/p/w500/hlLXt2tOPT6RRnjiUmoxyG1LTFi.jpg",
+      "whereToWatch": [
+        "Max"
+      ],
+      "synopsis": "A dramática história real dos cientistas e bombeiros que sacrificaram suas vidas para conter o pior desastre nuclear da humanidade na União Soviética.",
+      "whyWatch": "Trabalha com perfeição a arrogância governamental diante da física nuclear. A sensação de contaminação e perigo invisível é idêntica ao teste Trinity de Nolan.",
+      "highlightPoints": [
+        "Nota 9.4 no IMDb (uma das mais altas da história)",
+        "Reconstituição soviética apavorante"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "Interestelar (Interstellar)",
+      "year": 2014,
+      "director": "Christopher Nolan",
+      "score": 9.8,
+      "highlightTag": "Do Mesmo Diretor",
+      "cast": [
+        "Matthew McConaughey",
+        "Anne Hathaway",
+        "Jessica Chastain"
+      ],
+      "posterImage": "https://image.tmdb.org/t/p/w500/tR1XVa5bxgdh2bRw2u0DzrgkO2l.jpg",
+      "whereToWatch": [
+        "Prime Video",
+        "Max"
+      ],
+      "synopsis": "Cientistas embarcam em uma jornada pelo espaço profundo para tentar salvar a humanidade da extinção na Terra.",
+      "whyWatch": "Traz a mesma genialidade narrativa e o fascínio de Christopher Nolan pelas leis da física e a pequenez humana diante do infinito.",
+      "highlightPoints": [
+        "Trilha sonora grandiosa de Hans Zimmer",
+        "Efeitos visuais vencedores do Oscar"
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "A Sociedade da Neve",
+      "year": 2023,
+      "director": "J.A. Bayona",
+      "score": 9.3,
+      "highlightTag": "História Real Extrema",
+      "cast": [
+        "Enzo Vogrincic",
+        "Agustín Pardella",
+        "Matías Recalt"
+      ],
+      "posterImage": "https://image.tmdb.org/t/p/w500/7fQTmvKgVGxifieVryqqlxohkoW.jpg",
+      "whereToWatch": [
+        "Netflix"
+      ],
+      "synopsis": "Em 1972, um avião com uma equipe de rugby uruguaia cai nos Andes e os sobreviventes enfrentam 72 dias de frio glacial e dilemas morais extremos.",
+      "whyWatch": "Um dos retratos mais humanos e respeitosos sobre resiliência e sobrevivência da história do cinema, aclamado mundialmente.",
+      "highlightPoints": [
+        "Indicado ao Oscar de Melhor Filme Internacional",
+        "Fotografia deslumbrante nas montanhas nevadas"
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Qual produção histórica é mais parecida com Oppenheimer?",
+      "answer": "A minissérie Chernobyl da HBO e o filme O Jogo da Imitação compartilham exatamente da mesma temática de ciência, burocracia política e dilemas nucleares."
+    },
+    {
+      "question": "Onde assistir a Oppenheimer online no Brasil?",
+      "answer": "Oppenheimer está disponível no catálogo do streaming do Prime Video e na plataforma de aluguel digital da Apple TV."
     }
   ]
 }

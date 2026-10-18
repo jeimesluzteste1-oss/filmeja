@@ -1,17 +1,18 @@
 {
-  "id": "post-1792348421-7-2",
+  "id": "post-semana-ouro-03",
   "slug": "5-filmes-parecidos-com-corra-para-assistir-depois",
   "title": "5 Filmes Parecidos com Corra! (Get Out) sobre Terror Social e Paranóia",
-  "subtitle": "Se você amou a mente genial de Jordan Peele, confira cinco produções com tensão psicológica e críticas afiadas.",
+  "subtitle": "Se você amou a mente genial de Jordan Peele, confira cinco produções com tensão psicológica sufocante, mistério e críticas afiadas.",
   "type": "list",
   "genres": [
     "Terror",
     "Suspense",
-    "Cinema Autoral"
+    "Cinema Autoral",
+    "Streaming"
   ],
-  "publishedAt": "2026-10-25T19:00:00Z",
-  "scheduledFor": "2026-10-25T19:00:00Z",
-  "updatedAt": "2026-10-25T19:00:00Z",
+  "publishedAt": "2026-10-19T19:00:00Z",
+  "scheduledFor": "2026-10-19T19:00:00Z",
+  "updatedAt": "2026-10-19T19:00:00Z",
   "author": {
     "name": "Beatriz Silveira",
     "role": "Crítica de Cinema de Gênero & Terror",
@@ -19,35 +20,148 @@
   },
   "coverImage": "https://image.tmdb.org/t/p/w500/tFXcEccSQMf3lfhfXKSU9iRBpa3.jpg",
   "posterImage": "https://image.tmdb.org/t/p/w500/tFXcEccSQMf3lfhfXKSU9iRBpa3.jpg",
-  "readingTime": "5 min de leitura",
+  "readingTime": "7 min de leitura",
   "seo": {
-    "metaTitle": "5 Filmes Parecidos com Corra! (Get Out) sobre Terror So | FilmeJá",
-    "metaDescription": "Se você amou a mente genial de Jordan Peele, confira cinco produções com tensão psicológica e críticas afiadas.",
+    "metaTitle": "5 Filmes Parecidos com Corra! (Get Out) para Assistir Hoje | FilmeJá",
+    "metaDescription": "Gostou de Corra!? Veja 5 filmes imperdíveis com suspense psicológico, paranóia e terror social para maratonar nos streamings.",
     "keywords": [
-      "5 filmes parecidos com corra para assistir depois",
-      "5 filmes parecidos com corra! (get out) sobre terror social e paranóia",
-      "onde assistir 5",
-      "filmeja cinema e streaming"
+      "filmes parecidos com corra",
+      "filmes estilo get out",
+      "terror psicologico parecido com corra",
+      "melhores filmes de terror social"
     ]
   },
-  "content": "Corra! transformou o terror moderno ao mesclar desconforto social, sátira e tensão implacável. Reunimos cinco obras com a mesma atmosfera inquietante.",
-  "faqs": [
-    {
-      "question": "Onde assistir a Corra! online?",
-      "answer": "Disponível para streaming na Netflix e Prime Video no Brasil."
-    }
-  ],
+  "content": "Quando Jordan Peele lançou **Corra! (Get Out)** em 2017, ele não apenas revolucionou o cinema de suspense, mas redefiniu o gênero do 'terror social'. O desconforto palpável de estar em um ambiente aparentemente acolhedor, onde sorrisos forçados escondem intenções macabras, transformou-se em uma das marcas registradas mais imitadas da última década.\n\nSe você está procurando produções que capturem essa mesma sensação de paranóia crescente — onde o protagonista percebe aos poucos que todos ao seu redor fazem parte de uma conspiração bizarra —, selecionamos cinco filmes impecáveis disponíveis nos catálogos de streaming brasileiros. De críticas afiadas a desfechos imprevisíveis, prepare a pipoca e apague as luzes.",
   "listItems": [
     {
       "rank": 1,
       "title": "Nós (Us)",
       "year": 2019,
+      "director": "Jordan Peele",
+      "score": 9.2,
+      "highlightTag": "Do Mesmo Diretor",
+      "cast": [
+        "Lupita Nyong'o",
+        "Winston Duke",
+        "Elisabeth Moss"
+      ],
+      "posterImage": "https://image.tmdb.org/t/p/w500/tFXcEccSQMf3lfhfXKSU9iRBpa3.jpg",
       "whereToWatch": [
         "Prime Video",
-        "Max"
+        "Apple TV+"
       ],
-      "score": 9.1,
-      "posterImage": "https://image.tmdb.org/t/p/w500/tFXcEccSQMf3lfhfXKSU9iRBpa3.jpg"
+      "synopsis": "Uma família em férias na praia é aterrorizada por cópias idênticas e bizarras de si mesmos vestindo macacões vermelhos e empunhando tesouras douradas.",
+      "whyWatch": "Lupita Nyong'o entrega uma atuação digna de Oscar em dose dupla. A direção de Jordan Peele mantém a tensão milimétrica e traz reflexões profundas sobre as divisões sociais da América.",
+      "highlightPoints": [
+        "Atuação arrebatadora de Lupita Nyong'o",
+        "Trilha sonora inquietante com versões perturbadoras de clássicos do hip-hop"
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "O Homem Invisível (The Invisible Man)",
+      "year": 2020,
+      "director": "Leigh Whannell",
+      "score": 8.9,
+      "highlightTag": "Tensão Sufocante",
+      "cast": [
+        "Elisabeth Moss",
+        "Oliver Jackson-Cohen",
+        "Aldis Hodge"
+      ],
+      "posterImage": "https://image.tmdb.org/t/p/w500/67gVCA33yHpFkFyqhDJrt21MvYI.jpg",
+      "whereToWatch": [
+        "Netflix",
+        "Prime Video"
+      ],
+      "synopsis": "Após escapar de um relacionamento tóxico com um cientista abusivo, uma mulher passa a ser atormentada por uma presença invisível que ninguém mais acredita que existe.",
+      "whyWatch": "O filme trabalha o conceito de 'gaslighting' de forma visceral, fazendo o espectador duvidar de cada canto vazio do enquadramento, exatamente como o horror social de Corra.",
+      "highlightPoints": [
+        "Uso brilhante de espaços vazios na câmera para gerar pavor",
+        "Metáfora precisa e realista sobre abuso e manipulação psicológica"
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "Fale Comigo (Talk to Me)",
+      "year": 2023,
+      "director": "Danny Philippou e Michael Philippou",
+      "score": 8.8,
+      "highlightTag": "Sensação A24",
+      "cast": [
+        "Sophie Wilde",
+        "Alexandra Jensen",
+        "Joe Bird"
+      ],
+      "posterImage": "https://image.tmdb.org/t/p/w500/7U3lC4YnHD8zpeoxbY6Hsj9jyeu.jpg",
+      "whereToWatch": [
+        "Max",
+        "Prime Video"
+      ],
+      "synopsis": "Jovens usam uma mão embalsamada para se conectar com espíritos como brincadeira de festa, até que uma das sessões ultrapassa o limite de tempo seguro e abre portas demoníacas.",
+      "whyWatch": "Assim como Corra!, o longa australiano reinventa a dinâmica de grupo e o desconforto juvenil com uma originalidade crua que revitalizou o cinema de horror contemporâneo.",
+      "highlightPoints": [
+        "Efeitos práticos grotescos e maquiagem de altíssimo nível",
+        "Ritmo elétrico sem espaço para respiro"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "Hereditário (Hereditary)",
+      "year": 2018,
+      "director": "Ari Aster",
+      "score": 9.4,
+      "highlightTag": "Obra-Prima",
+      "cast": [
+        "Toni Collette",
+        "Alex Wolff",
+        "Gabriel Byrne"
+      ],
+      "posterImage": "https://image.tmdb.org/t/p/w500/x9tUYQj6WrdVwoKimSdoMzkDABS.jpg",
+      "whereToWatch": [
+        "Max",
+        "Netflix"
+      ],
+      "synopsis": "Após a morte da avó misteriosa, uma família começa a desvendar segredos ancestrais aterrorizantes enquanto uma presença sombria consome a sanidade de todos.",
+      "whyWatch": "O horror que nasce do drama familiar e do luto. A sensação de conspiração inevitável lembra a impotência desesperadora do protagonista de Corra.",
+      "highlightPoints": [
+        "Atuação monumental de Toni Collette",
+        "Finais chocantes que permanecem na cabeça por semanas"
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "Sorria 2 (Smile 2)",
+      "year": 2024,
+      "director": "Parker Finn",
+      "score": 8.6,
+      "highlightTag": "Paranóia Máxima",
+      "cast": [
+        "Naomi Scott",
+        "Rosemarie DeWitt",
+        "Lukas Gage"
+      ],
+      "posterImage": "https://image.tmdb.org/t/p/w500/ypHiYvSJmHIyRDRiosZuE595uir.jpg",
+      "whereToWatch": [
+        "Paramount+",
+        "Apple TV+"
+      ],
+      "synopsis": "À beira de iniciar uma turnê mundial, uma estrela pop começa a vivenciar eventos aterrorizantes envolvendo pessoas que a encaram com sorrisos macabros.",
+      "whyWatch": "Trabalha com perfeição o medo do olhar alheio e da histeria coletiva, transformando o sorriso em uma arma psicológica letal com cenas de puro impacto visual.",
+      "highlightPoints": [
+        "Show de atuação física de Naomi Scott",
+        "Sequências de suspense coreografadas de maneira impecável"
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Onde assistir aos filmes parecidos com Corra online?",
+      "answer": "Todos os 5 filmes indicados estão disponíveis nos principais streamings no Brasil, como Netflix, Prime Video, Max e Apple TV+."
+    },
+    {
+      "question": "Qual filme é mais parecido com Corra?",
+      "answer": "Nós (Us) é a obra mais próxima por ser do próprio diretor Jordan Peele e compartilhar do mesmo estilo de humor ácido misturado a terror social."
     }
   ]
 }

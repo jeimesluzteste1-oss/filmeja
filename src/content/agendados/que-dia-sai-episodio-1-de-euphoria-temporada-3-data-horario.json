@@ -1,49 +1,115 @@
 {
-  "id": "post-1792348421-5-4",
+  "id": "post-semana-ouro-31",
   "slug": "que-dia-sai-episodio-1-de-euphoria-temporada-3-data-horario",
   "title": "Que Dia Sai o Episódio 1 de Euphoria (3ª Temporada)? Data e Horário na Max",
-  "subtitle": "Zendaya e o elenco com salto temporal na continuação do drama jovem mais polêmico da televisão.",
+  "subtitle": "Salto temporal e fase adulta: Zendaya, Sydney Sweeney e Jacob Elordi retornam no fenômeno premiado da HBO.",
   "type": "episodio",
   "genres": [
     "Séries",
     "Max",
-    "Dramas"
+    "Drama",
+    "Lançamentos"
   ],
-  "publishedAt": "2026-10-23T23:59:00Z",
-  "scheduledFor": "2026-10-23T23:59:00Z",
-  "updatedAt": "2026-10-23T23:59:00Z",
+  "publishedAt": "2026-10-25T11:00:00Z",
+  "scheduledFor": "2026-10-25T11:00:00Z",
+  "updatedAt": "2026-10-25T11:00:00Z",
   "author": {
     "name": "Lucas Andrade",
     "role": "Crítico Sênior & Editor-Chefe",
     "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=100&auto=format&fit=crop&q=80"
   },
-  "coverImage": "https://image.tmdb.org/t/p/w500/3Q0hd3heuW4YQMn7IO4quHGvbp1.jpg",
-  "posterImage": "https://image.tmdb.org/t/p/w500/3Q0hd3heuW4YQMn7IO4quHGvbp1.jpg",
-  "readingTime": "4 min de leitura",
+  "coverImage": "https://media.themoviedb.org/t/p/w500/aJrG7OkoTMPWG5c8opz8a93AZPY.jpg",
+  "posterImage": "https://media.themoviedb.org/t/p/w500/aJrG7OkoTMPWG5c8opz8a93AZPY.jpg",
+  "readingTime": "5 min de leitura",
   "seo": {
-    "metaTitle": "Que Dia Sai o Episódio 1 de Euphoria (3ª Temporada)? Da | FilmeJá",
-    "metaDescription": "Zendaya e o elenco com salto temporal na continuação do drama jovem mais polêmico da televisão.",
+    "metaTitle": "Que Dia Sai Episódio 1 de Euphoria (3ª Temp)? Horário na Max | FilmeJá",
+    "metaDescription": "Saiba que dia estreia a 3ª temporada de Euphoria na Max no Brasil. Veja o salto temporal, elenco completo de Zendaya e novidades da HBO.",
     "keywords": [
-      "que dia sai episodio 1 de euphoria temporada 3 data horario",
-      "que dia sai o episódio 1 de euphoria (3ª temporada)? data e horário na max",
-      "onde assistir que",
-      "filmeja cinema e streaming"
+      "euphoria temporada 3 data",
+      "que dia sai euphoria ep 1 max",
+      "euphoria zendaya 3 temporada brasil",
+      "euphoria horario max"
     ]
   },
-  "content": "Sam Levinson promete um salto temporal de anos para mostrar os personagens lidando com as dores da vida adulta e os vícios do passado.",
-  "faqs": [
-    {
-      "question": "Quando estreia Euphoria 3?",
-      "answer": "A temporada tem previsão de lançamento nas noites de domingo da HBO e Max."
-    }
-  ],
+  "content": "Vencedora de 9 prêmios Emmy e consagrada como o maior fenômeno jovem da história recente da televisão, **Euphoria** prepara o início de sua 3ª temporada pela HBO e pelo streaming da Max. O criador Sam Levinson confirmou uma renovação radical na estrutura narrativa: a trama dá um salto temporal de cerca de cinco anos, deixando os corredores do colégio East Highland para acompanhar Rue Bennett (Zendaya) e seus antigos colegas na vida adulta.\n\nZendaya, Sydney Sweeney (Cassie), Hunter Schafer (Jules) e Jacob Elordi (Nate Jacobs) retornam para explorar temas maduros sobre sobriedade, carreiras profissionais e o impacto duradouro de traumas juvenis. A temporada prestará homenagens comoventes a Angus Cloud (Fezco) e ao produtor Kevin Turen, falecidos recentemente.\n\nA exibição segue o prestigiado padrão da HBO: **episódios inéditos todos os domingos às 22h00 (horário de Brasília)** na Max e no canal linear de TV por assinatura.",
   "seriesInfo": {
     "seriesTitle": "Euphoria",
+    "originalTitle": "Euphoria",
     "seasonNumber": 3,
     "episodeNumber": 1,
-    "nextEpisodeDate": "domingo",
-    "nextEpisodeTime": "23h00",
+    "nextEpisodeDate": "Início de 2026",
+    "nextEpisodeTime": "22h00 (Horário de Brasília)",
     "platform": "Max",
-    "totalEpisodes": 8
-  }
+    "totalEpisodes": 8,
+    "recapPreviousEpisode": "No encerramento da 2ª temporada, a peça teatral autobiográfica de Lexi expõe todas as feridas da escola, enquanto a polícia cerca a casa de Fezco com um desfecho trágico.",
+    "whatToExpect": "O reencontro dos personagens anos após o ensino médio, a luta contínua de Rue pela sobriedade e os novos caminhos de Cassie e Nate.",
+    "schedule": [
+      {
+        "episodeNumber": 1,
+        "title": "Cinco Anos Depois",
+        "releaseDate": "Domingo",
+        "releaseTime": "22:00 BRT",
+        "status": "proximo"
+      },
+      {
+        "episodeNumber": 2,
+        "title": "A Cidade Grande",
+        "releaseDate": "Domingo",
+        "releaseTime": "22:00 BRT",
+        "status": "a_estrear"
+      },
+      {
+        "episodeNumber": 3,
+        "title": "Dívidas Antigas",
+        "releaseDate": "Domingo",
+        "releaseTime": "22:00 BRT",
+        "status": "a_estrear"
+      },
+      {
+        "episodeNumber": 4,
+        "title": "Luzes de Neon",
+        "releaseDate": "Domingo",
+        "releaseTime": "22:00 BRT",
+        "status": "a_estrear"
+      },
+      {
+        "episodeNumber": 5,
+        "title": "O Fio da Navalha",
+        "releaseDate": "Domingo",
+        "releaseTime": "22:00 BRT",
+        "status": "a_estrear"
+      },
+      {
+        "episodeNumber": 6,
+        "title": "Perdão",
+        "releaseDate": "Domingo",
+        "releaseTime": "22:00 BRT",
+        "status": "a_estrear"
+      },
+      {
+        "episodeNumber": 7,
+        "title": "A Tempestade",
+        "releaseDate": "Domingo",
+        "releaseTime": "22:00 BRT",
+        "status": "a_estrear"
+      },
+      {
+        "episodeNumber": 8,
+        "title": "Clareira (Final)",
+        "releaseDate": "Domingo",
+        "releaseTime": "22:00 BRT",
+        "status": "a_estrear"
+      }
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Quando estreia a 3ª temporada de Euphoria?",
+      "answer": "A HBO confirmou oficialmente que as filmagens acontecem em 2025 com estreia mundial marcada para 2026."
+    },
+    {
+      "question": "A 3ª temporada terá salto temporal?",
+      "answer": "Sim, Sam Levinson e Zendaya confirmaram que a trama avança cerca de 5 anos no tempo para acompanhar os personagens já adultos."
+    }
+  ]
 }

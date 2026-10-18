@@ -1,52 +1,167 @@
 {
-  "id": "post-1792348421-6-2",
+  "id": "post-semana-ouro-33",
   "slug": "5-filmes-parecidos-com-pobres-criaturas-para-assistir-depois",
-  "title": "5 Filmes Parecidos com Pobres Criaturas com Humor Ácido e Fantasia Autoral",
-  "subtitle": "Para quem se encantou com a Bella Baxter de Emma Stone e a direção visionária de Yorgos Lanthimos.",
+  "title": "5 Filmes Parecidos com Pobres Criaturas sobre Descoberta, Bizarro e Autonomia",
+  "subtitle": "Se você amou a mente excêntrica de Yorgos Lanthimos e Emma Stone, confira cinco fábulas visuais surrealistas e feministas no streaming.",
   "type": "list",
   "genres": [
     "Cinema Autoral",
+    "Surrealismo",
     "Comédia Ácida",
-    "Fantasia"
+    "Ficção Científica",
+    "Streaming"
   ],
-  "publishedAt": "2026-10-24T19:00:00Z",
-  "scheduledFor": "2026-10-24T19:00:00Z",
-  "updatedAt": "2026-10-24T19:00:00Z",
+  "publishedAt": "2026-10-25T19:00:00Z",
+  "scheduledFor": "2026-10-25T19:00:00Z",
+  "updatedAt": "2026-10-25T19:00:00Z",
   "author": {
-    "name": "Lucas Andrade",
-    "role": "Crítico Sênior & Editor-Chefe",
-    "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=100&auto=format&fit=crop&q=80"
+    "name": "Beatriz Silveira",
+    "role": "Crítica de Cinema de Gênero & Terror",
+    "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=100&auto=format&fit=crop&q=80"
   },
   "coverImage": "https://image.tmdb.org/t/p/w500/kCGlIMHnOm8JPXq3rXM6c5wMxcT.jpg",
   "posterImage": "https://image.tmdb.org/t/p/w500/kCGlIMHnOm8JPXq3rXM6c5wMxcT.jpg",
-  "readingTime": "5 min de leitura",
+  "readingTime": "7 min de leitura",
   "seo": {
-    "metaTitle": "5 Filmes Parecidos com Pobres Criaturas com Humor Ácido | FilmeJá",
-    "metaDescription": "Para quem se encantou com a Bella Baxter de Emma Stone e a direção visionária de Yorgos Lanthimos.",
+    "metaTitle": "5 Filmes Parecidos com Pobres Criaturas para Assistir | FilmeJá",
+    "metaDescription": "Fascinado pelo universo de Pobres Criaturas de Emma Stone? Veja 5 produções surrealistas, bizarras e empoderadas no streaming.",
     "keywords": [
-      "5 filmes parecidos com pobres criaturas para assistir depois",
-      "5 filmes parecidos com pobres criaturas com humor ácido e fantasia autoral",
-      "onde assistir 5",
-      "filmeja cinema e streaming"
+      "filmes parecidos com pobres criaturas",
+      "filmes estilo poor things",
+      "filmes de yorgos lanthimos",
+      "surrealismo parecido com pobres criaturas"
     ]
   },
-  "content": "Vencedor de múltiplos prêmios do Oscar, Pobres Criaturas desafia todas as convenções visuais e morais. Veja obras com a mesma audácia artística.",
-  "faqs": [
-    {
-      "question": "Onde assistir a Pobres Criaturas?",
-      "answer": "Disponível no catálogo do Disney+ no Brasil."
-    }
-  ],
+  "content": "Vencedor de 4 prêmios Oscar (incluindo Melhor Atriz para a atuação histórica de Emma Stone como Bella Baxter), **Pobres Criaturas (Poor Things)**, dirigido pelo grego Yorgos Lanthimos, reinventou o mito de Frankenstein sob uma ótica feminista, libertária e visualmente delirante. A jornada de uma mulher reanimada que descobre o mundo, a sexualidade e a filosofia sem as amarras sociais patriarcais deslumbrou o cinema mundial.\n\nSe você está em busca de produções que abracem o bizarro, a cenografia de fantasia vitoriana retrofuturista e críticas afiadas às convenções humanas, separamos 5 filmes fascinantes disponíveis nos catálogos de streaming.",
   "listItems": [
     {
       "rank": 1,
-      "title": "A Favorita",
-      "year": 2018,
-      "whereToWatch": [
-        "Disney+"
+      "title": "A Substância (The Substance)",
+      "year": 2024,
+      "director": "Coralie Fargeat",
+      "score": 9.4,
+      "highlightTag": "Vencedor em Cannes",
+      "cast": [
+        "Demi Moore",
+        "Margaret Qualley",
+        "Dennis Quaid"
       ],
-      "score": 9.3,
-      "posterImage": "https://image.tmdb.org/t/p/w500/kCGlIMHnOm8JPXq3rXM6c5wMxcT.jpg"
+      "posterImage": "https://image.tmdb.org/t/p/w500/vWeOgzlhnP1sS23H3rzctGHB9Nb.jpg",
+      "whereToWatch": [
+        "Apple TV+"
+      ],
+      "synopsis": "Uma celebridade em decadência usa uma substância misteriosa para clonar uma versão jovem de si mesma, desafiando as leis da biologia.",
+      "whyWatch": "O mesmo diálogo direto com o corpo feminino, a autonomia e as pressões estéticas da sociedade através de uma estética surreal e ousada.",
+      "highlightPoints": [
+        "Melhor roteiro em Cannes 2024",
+        "Atuação consagradora de Demi Moore"
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "Cisne Negro (Black Swan)",
+      "year": 2010,
+      "director": "Darren Aronofsky",
+      "score": 9.2,
+      "highlightTag": "Oscar de Atriz",
+      "cast": [
+        "Natalie Portman",
+        "Mila Kunis",
+        "Vincent Cassel"
+      ],
+      "posterImage": "https://image.tmdb.org/t/p/w500/tqlmLBt2i5SHNpXEj2nqk10Crwa.jpg",
+      "whereToWatch": [
+        "Disney+",
+        "Apple TV+"
+      ],
+      "synopsis": "A transformação psicológica e corporal dolorosa de uma jovem que tenta libertar sua versão sombria para alcançar a genialidade.",
+      "whyWatch": "A libertação do próprio eu através da metamorfose corporal lembra o amadurecimento acelerado de Bella Baxter.",
+      "highlightPoints": [
+        "Atuação impecável de Natalie Portman",
+        "Direção de arte hipnotizante"
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "A Pele Que Habito (The Skin I Live In)",
+      "year": 2011,
+      "director": "Pedro Almodóvar",
+      "score": 9.0,
+      "highlightTag": "Frankenstein Moderno",
+      "cast": [
+        "Antonio Banderas",
+        "Elena Anaya",
+        "Jan Cornet"
+      ],
+      "posterImage": "https://image.tmdb.org/t/p/w500/90hbSeBsev4hezgzkyW8tkio2dp.jpg",
+      "whereToWatch": [
+        "Max",
+        "Prime Video"
+      ],
+      "synopsis": "Um cirurgião plástico obsessivo cria uma pele sintética indestrutível e mantém uma misteriosa mulher aprisionada em sua mansão.",
+      "whyWatch": "Pedro Almodóvar desconstrói o mito de criador e criatura com a mesma elegância médica e reviravoltas chocantes vistas em Pobres Criaturas.",
+      "highlightPoints": [
+        "Antonio Banderas em sua melhor forma com Almodóvar",
+        "Design de produção cirúrgico"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "Titane",
+      "year": 2021,
+      "director": "Julia Ducournau",
+      "score": 8.8,
+      "highlightTag": "Palma de Ouro em Cannes",
+      "cast": [
+        "Agathe Rousselle",
+        "Vincent Lindon",
+        "Garance Marillier"
+      ],
+      "posterImage": "https://image.tmdb.org/t/p/w500/mBlpouG3gqB8WLdP65LCOXb3jFb.jpg",
+      "whereToWatch": [
+        "Prime Video",
+        "Apple TV+"
+      ],
+      "synopsis": "Uma jovem com uma placa de titânio implantada na cabeça foge da polícia e assume a identidade do filho desaparecido de um bombeiro.",
+      "whyWatch": "Provocativo, visceral e completamente livre de preconceitos morais. A união entre carne e metal em uma narrativa de afeto improvável.",
+      "highlightPoints": [
+        "Vencedor da Palma de Ouro em Cannes",
+        "Cinema sensorial inesquecível"
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "O Homem Invisível (The Invisible Man)",
+      "year": 2020,
+      "director": "Leigh Whannell",
+      "score": 8.9,
+      "highlightTag": "Libertação Feminina",
+      "cast": [
+        "Elisabeth Moss",
+        "Oliver Jackson-Cohen",
+        "Aldis Hodge"
+      ],
+      "posterImage": "https://image.tmdb.org/t/p/w500/67gVCA33yHpFkFyqhDJrt21MvYI.jpg",
+      "whereToWatch": [
+        "Netflix",
+        "Apple TV+"
+      ],
+      "synopsis": "Uma mulher se recusa a ser controlada por um cientista manipulador e luta para recuperar sua própria liberdade.",
+      "whyWatch": "O tema da fuga do controle opressor masculino (como Bella Baxter se libertando de seus guardiões) tratado com suspense de primeira linha.",
+      "highlightPoints": [
+        "Tensão milimétrica em cada plano",
+        "Grande atuação dramática de Elisabeth Moss"
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Qual é a mensagem principal de Pobres Criaturas?",
+      "answer": "É uma sátira filosófica sobre como uma mulher que cresce livre de vergonhas, tabus sociais e convenções morais machistas se torna totalmente livre e dona de seu próprio destino."
+    },
+    {
+      "question": "Onde assistir a Pobres Criaturas online?",
+      "answer": "Pobres Criaturas está disponível com exclusividade no catálogo do Disney+ no Brasil com qualidade 4K UHD."
     }
   ]
 }

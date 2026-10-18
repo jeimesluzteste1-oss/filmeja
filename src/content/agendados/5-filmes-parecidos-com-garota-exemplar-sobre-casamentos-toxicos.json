@@ -1,13 +1,14 @@
 {
-  "id": "post-1792348421-4-2",
+  "id": "post-semana-ouro-18",
   "slug": "5-filmes-parecidos-com-garota-exemplar-sobre-casamentos-toxicos",
-  "title": "5 Filmes Parecidos com Garota Exemplar sobre Manipulação e Casamentos Tóxicos",
-  "subtitle": "Relacionamentos perigosos e jogos mentais calculados para quem ama o cinema de David Fincher.",
+  "title": "5 Filmes Parecidos com Garota Exemplar sobre Casamentos Tóxicos e Mentiras Fatais",
+  "subtitle": "Se você ficou fascinado pela frieza calculista de Amy Dunne, confira cinco suspenses psicológicos afiados sobre segredos entre quatro paredes.",
   "type": "list",
   "genres": [
     "Suspense",
-    "Thrillers Psicológicos",
-    "Crimes"
+    "Policial",
+    "Psicológico",
+    "Streaming"
   ],
   "publishedAt": "2026-10-22T19:00:00Z",
   "scheduledFor": "2026-10-22T19:00:00Z",
@@ -19,34 +20,148 @@
   },
   "coverImage": "https://image.tmdb.org/t/p/w500/54nI3vSKlPp42WhJmKVRdmMbkzl.jpg",
   "posterImage": "https://image.tmdb.org/t/p/w500/54nI3vSKlPp42WhJmKVRdmMbkzl.jpg",
-  "readingTime": "5 min de leitura",
+  "readingTime": "7 min de leitura",
   "seo": {
-    "metaTitle": "5 Filmes Parecidos com Garota Exemplar sobre Manipulaçã | FilmeJá",
-    "metaDescription": "Relacionamentos perigosos e jogos mentais calculados para quem ama o cinema de David Fincher.",
+    "metaTitle": "5 Filmes Parecidos com Garota Exemplar para Assistir | FilmeJá",
+    "metaDescription": "Gosta de reviravoltas sobre casamentos perigosos como Garota Exemplar? Veja 5 suspenses de manipulação psicológica no streaming.",
     "keywords": [
-      "5 filmes parecidos com garota exemplar sobre casamentos toxicos",
-      "5 filmes parecidos com garota exemplar sobre manipulação e casamentos tóxicos",
-      "onde assistir 5",
-      "filmeja cinema e streaming"
+      "filmes parecidos com garota exemplar",
+      "filmes sobre casamentos toxicos",
+      "suspense parecido com gone girl",
+      "filmes de manipulacao psicologica"
     ]
   },
-  "content": "A mente afiada de Amy Dunne transformou Garota Exemplar em uma referência de thriller psicológico. Veja títulos que exploram a mesma paranoia conjugal.",
-  "faqs": [
-    {
-      "question": "Qual o melhor filme parecido com Garota Exemplar?",
-      "answer": "Entre Facas e Segredos e A Pele que Habito são os mais aclamados."
-    }
-  ],
+  "content": "Com direção afiada de David Fincher e o roteiro implacável de Gillian Flynn, **Garota Exemplar (Gone Girl)** dissecou a instituição do casamento com a precisão de um bisturi cirúrgico. A performance de Rosamund Pike como a 'maravilhosa Amy' transformou a personagem em um ícone cultural da vingança calculada e da manipulação midiática.\n\nSe você procura filmes que explorem a podridão oculta sob a fachada de casais felizes, onde cada palavra pode ser uma armadilha e ninguém é inocente, selecionamos 5 suspenses psicológicos extraordinários disponíveis nos catálogos de streaming no Brasil.",
   "listItems": [
     {
       "rank": 1,
-      "title": "A Pele que Habito",
-      "year": 2011,
+      "title": "Os Suspeitos (Prisoners)",
+      "year": 2013,
+      "director": "Denis Villeneuve",
+      "score": 9.6,
+      "highlightTag": "Tensão Pura",
+      "cast": [
+        "Hugh Jackman",
+        "Jake Gyllenhaal",
+        "Paul Dano"
+      ],
+      "posterImage": "https://image.tmdb.org/t/p/w500/30YtzPOimO7eG30r8K8rUkqTGNj.jpg",
       "whereToWatch": [
+        "Prime Video",
+        "Max"
+      ],
+      "synopsis": "Uma investigação sombria sobre segredos suburbanos e os limites morais que uma pessoa está disposta a cruzar para proteger os seus.",
+      "whyWatch": "A crueza com que revela os segredos por trás das portas fechadas de famílias aparentemente pacatas lembra o tom implacável de Fincher.",
+      "highlightPoints": [
+        "Direção tensa e sufocante",
+        "Reviravolta final estarrecedora"
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "Zodíaco (Zodiac)",
+      "year": 2007,
+      "director": "David Fincher",
+      "score": 9.3,
+      "highlightTag": "Do Mesmo Diretor",
+      "cast": [
+        "Jake Gyllenhaal",
+        "Mark Ruffalo",
+        "Robert Downey Jr."
+      ],
+      "posterImage": "https://image.tmdb.org/t/p/w500/jFmlV5vUzOt1PgJ82efOhNsWcWX.jpg",
+      "whereToWatch": [
+        "Max",
         "Prime Video"
       ],
-      "score": 9.1,
-      "posterImage": "https://image.tmdb.org/t/p/w500/90hbSeBsev4hezgzkyW8tkio2dp.jpg"
+      "synopsis": "A obsessão crônica em desvendar um mistério destrói os relacionamentos pessoais e a estabilidade emocional dos investigadores.",
+      "whyWatch": "Traz a mesma assinatura visual impecável de David Fincher e a sensação claustrofóbica de que as respostas estão escapando por entre os dedos.",
+      "highlightPoints": [
+        "Fotografia digital pioneira e elegante",
+        "Atuações monumentais"
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "Seven: Os Sete Crimes Capitais",
+      "year": 1995,
+      "director": "David Fincher",
+      "score": 9.8,
+      "highlightTag": "O Clássico de Fincher",
+      "cast": [
+        "Brad Pitt",
+        "Morgan Freeman",
+        "Gwyneth Paltrow"
+      ],
+      "posterImage": "https://image.tmdb.org/t/p/w500/dZXYPSEaXCeigR2GEuZoukNmLTf.jpg",
+      "whereToWatch": [
+        "Max",
+        "Apple TV+"
+      ],
+      "synopsis": "Dois detetives caçam um assassino que pune a hipocrisia da sociedade moderna através dos sete pecados capitais.",
+      "whyWatch": "O ápice do suspense policial moderno com a condução cirúrgica de Fincher que mais tarde aperfeiçoou Garota Exemplar.",
+      "highlightPoints": [
+        "O clímax mais lembrado da história do cinema",
+        "Design de produção lendário"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "Cisne Negro (Black Swan)",
+      "year": 2010,
+      "director": "Darren Aronofsky",
+      "score": 9.2,
+      "highlightTag": "Perfeição e Loucura",
+      "cast": [
+        "Natalie Portman",
+        "Mila Kunis",
+        "Vincent Cassel"
+      ],
+      "posterImage": "https://image.tmdb.org/t/p/w500/tqlmLBt2i5SHNpXEj2nqk10Crwa.jpg",
+      "whereToWatch": [
+        "Disney+",
+        "Apple TV+"
+      ],
+      "synopsis": "Uma jovem bailarina se afunda na autodestruição mental em busca de uma performance artística impecável.",
+      "whyWatch": "A busca pela persona perfeita (exatamente como o discurso da 'Cool Girl' de Amy Dunne) levada ao seu extremo mais aterrorizante.",
+      "highlightPoints": [
+        "Oscar de Melhor Atriz para Natalie Portman",
+        "Trilha sonora visceral"
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "Ilha do Medo (Shutter Island)",
+      "year": 2010,
+      "director": "Martin Scorsese",
+      "score": 9.4,
+      "highlightTag": "Mentira Suprema",
+      "cast": [
+        "Leonardo DiCaprio",
+        "Mark Ruffalo",
+        "Ben Kingsley"
+      ],
+      "posterImage": "https://image.tmdb.org/t/p/w500/erl801HYIodoIBGZeFk0GTwCUBh.jpg",
+      "whereToWatch": [
+        "Netflix",
+        "Paramount+"
+      ],
+      "synopsis": "Um agente federal investiga a fuga de uma paciente de um manicômio judiciário e se vê cercado por jogos de mentiras.",
+      "whyWatch": "Uma aula sobre como narradores não-confiáveis manipulam a audiência com histórias que parecem reais até o instante final.",
+      "highlightPoints": [
+        "DiCaprio em atuação impressionante",
+        "Clima tempestuoso inesquecível"
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "O que torna Garota Exemplar tão marcante?",
+      "answer": "O monólogo da 'Cool Girl' de Amy Dunne e a reviravolta no meio da trama que subverte totalmente as expectativas de quem é vítima e quem é monstro."
+    },
+    {
+      "question": "Onde assistir aos filmes de David Fincher?",
+      "answer": "A maioria dos clássicos de Fincher está disponível na Max, Netflix e Prime Video no Brasil."
     }
   ]
 }

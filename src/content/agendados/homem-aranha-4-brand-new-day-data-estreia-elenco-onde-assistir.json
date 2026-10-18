@@ -1,47 +1,59 @@
 {
-  "id": "post-1792348421-2-1",
+  "id": "post-semana-ouro-27",
   "slug": "homem-aranha-4-brand-new-day-data-estreia-elenco-onde-assistir",
-  "title": "Homem-Aranha 4 (Brand New Day): Data de Estreia nos Cinemas, Elenco e Sony/Marvel",
-  "subtitle": "Tom Holland volta ao papel de Peter Parker em uma Nova York solitária e urbana. Confira data confirmada e bastidores.",
+  "title": "Homem-Aranha 4: Data de Estreia nos Cinemas, Tom Holland e Novo Diretor",
+  "subtitle": "Peter Parker anônimo e nas ruas de Nova York: Destin Daniel Cretton assume a direção e Sony/Marvel marcam data de lançamento.",
   "type": "lancamento",
   "genres": [
     "Cinema",
-    "Lançamentos",
     "Marvel",
-    "Ação"
+    "Ação",
+    "Lançamentos",
+    "Sony"
   ],
-  "publishedAt": "2026-10-20T15:00:00Z",
-  "scheduledFor": "2026-10-20T15:00:00Z",
-  "updatedAt": "2026-10-20T15:00:00Z",
+  "publishedAt": "2026-10-24T15:00:00Z",
+  "scheduledFor": "2026-10-24T15:00:00Z",
+  "updatedAt": "2026-10-24T15:00:00Z",
   "author": {
     "name": "Thiago Rocha",
     "role": "Editor de Cinema Comercial & Ação",
     "avatar": "https://images.unsplash.com/photo-1522075469751-3a6694fb2f61?w=100&auto=format&fit=crop&q=80"
   },
-  "coverImage": "https://image.tmdb.org/t/p/w500/c24sv2weTHPsmDa7jEMN0m2P3RT.jpg",
-  "posterImage": "https://image.tmdb.org/t/p/w500/c24sv2weTHPsmDa7jEMN0m2P3RT.jpg",
+  "coverImage": "https://image.tmdb.org/t/p/w500/1g0dhYtq4irTY1GPXvft6k4YLjm.jpg",
+  "posterImage": "https://image.tmdb.org/t/p/w500/1g0dhYtq4irTY1GPXvft6k4YLjm.jpg",
   "readingTime": "5 min de leitura",
   "seo": {
-    "metaTitle": "Homem-Aranha 4 (Brand New Day): Data de Estreia nos Cin | FilmeJá",
-    "metaDescription": "Tom Holland volta ao papel de Peter Parker em uma Nova York solitária e urbana. Confira data confirmada e bastidores.",
+    "metaTitle": "Homem-Aranha 4: Data de Estreia nos Cinemas e Elenco | FilmeJá",
+    "metaDescription": "Tudo sobre Homem-Aranha 4 com Tom Holland. Data de estreia nos cinemas brasileiros, novo diretor da Marvel e conexões com Vingadores: Doomsday.",
     "keywords": [
-      "homem aranha 4 brand new day data estreia elenco onde assistir",
-      "homem-aranha 4 (brand new day): data de estreia nos cinemas, elenco e sony/marvel",
-      "onde assistir homem",
-      "filmeja cinema e streaming"
+      "homem aranha 4 data de estreia",
+      "spider man 4 tom holland brasil",
+      "homem aranha 4 mcu elenco",
+      "onde assistir homem aranha 4"
     ]
   },
-  "content": "Dirigido por Destin Daniel Cretton, Homem-Aranha 4 promete focar na vida do herói anônimo e nas consequências do feitiço do Doutor Estranho.",
-  "faqs": [
-    {
-      "question": "Quando Homem-Aranha 4 estreia no Brasil?",
-      "answer": "O filme tem estreia confirmada nos cinemas brasileiros para 29 de julho de 2026."
-    }
-  ],
+  "content": "Após o épico multiversal de *Sem Volta Para Casa* (No Way Home) que arrecadou quase 2 bilhões de dólares, Tom Holland retorna como Peter Parker em **Homem-Aranha 4 (Spider-Man 4)**, marcando o início de uma nova trilogia urbana produzida em parceria entre Sony Pictures e Marvel Studios.\n\nA direção foi entregue a Destin Daniel Cretton (diretor de *Shang-Chi e a Lenda dos Dez Anéis*), trazendo um estilo de combate corpo a corpo mais veloz, acrobático e realista. A história explora o Peter Parker solitário que vive em um modesto apartamento em Manhattan, sem tecnologia de Tony Stark e completamente esquecido pelo mundo após o feitiço do Doutor Estranho.\n\nZendaya tem retorno confirmado como MJ, e a trama promete conectar o herói a figuras urbanas de Nova York como o Demolidor de Charlie Cox e o Rei do Crime. A Sony confirmou a estreia global nos cinemas com salas IMAX em julho de 2026, posicionando o filme estrategicamente entre *Vingadores: Doomsday* e *Guerras Secretas*.",
   "movieInfo": {
     "title": "Homem-Aranha 4",
-    "releaseDate": "29 de julho de 2026",
-    "futureStreaming": "Max",
-    "productionDetails": "Parceria oficial Sony Pictures e Marvel Studios."
-  }
+    "releaseDate": "23 de julho de 2026",
+    "futureStreaming": "Max / Netflix (após janela de cinema)",
+    "directors": "Destin Daniel Cretton",
+    "confirmedCast": [
+      "Tom Holland (Peter Parker / Homem-Aranha)",
+      "Zendaya (MJ)",
+      "Charlie Cox (Matt Murdock / Demolidor)",
+      "Jacob Batalon (Ned Leeds)"
+    ],
+    "productionDetails": "Coprodução entre Sony Pictures e Marvel Studios sob o comando de Kevin Feige e Amy Pascal, com lançamento mundial em IMAX."
+  },
+  "faqs": [
+    {
+      "question": "Quando Homem-Aranha 4 estreia nos cinemas?",
+      "answer": "A Sony Pictures marcou o lançamento oficial nos cinemas para 23 de julho de 2026."
+    },
+    {
+      "question": "Tom Holland continuará interpretando o Homem-Aranha após o quarto filme?",
+      "answer": "Sim, Tom Holland e Kevin Feige confirmaram que o quarto filme é apenas o início de uma nova trilogia para o personagem no MCU."
+    }
+  ]
 }

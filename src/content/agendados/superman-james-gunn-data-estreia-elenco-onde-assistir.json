@@ -1,14 +1,15 @@
 {
-  "id": "post-1792348421-1-1",
+  "id": "post-semana-ouro-02",
   "slug": "superman-james-gunn-data-estreia-elenco-onde-assistir",
-  "title": "Superman (2025/2026): Data de Estreia, Elenco de James Gunn e Onde Assistir",
-  "subtitle": "Tudo sobre o renascimento do Homem de Aço nos cinemas: David Corenswet, Rachel Brosnahan e a previsão de chegada à Max.",
+  "title": "Superman (2025): Data de Estreia nos Cinemas, Elenco e Onde Assistir",
+  "subtitle": "Tudo sobre o renascimento do Homem de Aço sob a direção de James Gunn: David Corenswet, Rachel Brosnahan e a previsão de chegada à Max.",
   "type": "lancamento",
   "genres": [
     "Cinema",
     "Lançamentos",
     "DC",
-    "Max"
+    "Max",
+    "Blockbusters"
   ],
   "publishedAt": "2026-10-19T15:00:00Z",
   "scheduledFor": "2026-10-19T15:00:00Z",
@@ -18,34 +19,49 @@
     "role": "Editor de Cinema Comercial & Ação",
     "avatar": "https://images.unsplash.com/photo-1522075469751-3a6694fb2f61?w=100&auto=format&fit=crop&q=80"
   },
-  "coverImage": "https://image.tmdb.org/t/p/w500/ombsmhkwN1sCLTaOxP9twTGlBZy.jpg",
-  "posterImage": "https://image.tmdb.org/t/p/w500/ombsmhkwN1sCLTaOxP9twTGlBZy.jpg",
+  "coverImage": "https://media.themoviedb.org/t/p/w500/ldyfo0BKmz5rWtJJKCvwaNS4cJT.jpg",
+  "posterImage": "https://media.themoviedb.org/t/p/w500/ldyfo0BKmz5rWtJJKCvwaNS4cJT.jpg",
   "readingTime": "5 min de leitura",
   "seo": {
-    "metaTitle": "Superman (2025/2026): Data de Estreia, Elenco de James  | FilmeJá",
-    "metaDescription": "Tudo sobre o renascimento do Homem de Aço nos cinemas: David Corenswet, Rachel Brosnahan e a previsão de chegada à Max.",
+    "metaTitle": "Superman (2025): Data de Estreia nos Cinemas e Onde Assistir | FilmeJá",
+    "metaDescription": "Saiba quando estreia Superman nos cinemas do Brasil. Veja o elenco oficial de James Gunn, detalhes de Metrópoles e previsão de lançamento na Max.",
     "keywords": [
-      "superman james gunn data estreia elenco onde assistir",
-      "superman (2025/2026): data de estreia, elenco de james gunn e onde assistir",
-      "onde assistir superman",
-      "filmeja cinema e streaming"
+      "superman data de estreia brasil",
+      "superman james gunn elenco",
+      "superman david corenswet",
+      "quando superman chega na max"
     ]
   },
-  "content": "Sob a visão criativa de James Gunn, o novo filme do Superman inaugura oficialmente o Capítulo 1 do DCU: Deuses e Monstros. Trazendo um tom que mescla a nobreza clássica dos quadrinhos com ação moderna.",
-  "faqs": [
-    {
-      "question": "Quando Superman chega aos cinemas brasileiros?",
-      "answer": "A estreia nacional acontece nas telonas com sessões antecipadas e distribuição global da Warner Bros."
-    },
-    {
-      "question": "Onde assistir a Superman no streaming?",
-      "answer": "Após a janela dos cinemas, o longa estreará com exclusividade no catálogo da Max."
-    }
-  ],
+  "content": "O filme **Superman** (anteriormente intitulado *Superman: Legacy*) marca o início oficial do novo Universo DC nos cinemas (DCU: Capítulo 1 - Deuses e Monstros), comandado por James Gunn e Peter Safran. Com David Corenswet assumindo a lendária capa vermelha e Rachel Brosnahan no papel da audaciosa repórter Lois Lane, o projeto busca devolver ao herói sua essência clássica: a personificação da verdade, justiça e compaixão em um mundo cínico.\n\nAo contrário de abordagens anteriores, a produção de James Gunn dispensa a recontagem da história de origem do bebê Kal-El caindo em Smallville. O longa já inicia com Clark Kent estabelecido como repórter do Planeta Diário e atuando como herói em Metrópoles, tentando conciliar sua herança extraterrestre de Krypton com os valores humanos ensinados por Jonathan e Martha Kent no Kansas.\n\nO elenco conta ainda com Nicholas Hoult como o brilhante e vingativo Lex Luthor, Skyler Gisondo como Jimmy Olsen e a introdução de outros heróis clássicos como o Lanterna Verde Guy Gardner (Nathan Fillion) e a Mulher-Gavião (Isabela Merced). A Warner Bros. confirmou lançamento exclusivo nos cinemas com tecnologia IMAX e som imersivo Dolby Atmos antes da estreia no catálogo da Max.",
   "movieInfo": {
     "title": "Superman",
-    "releaseDate": "10 de julho",
+    "releaseDate": "10 de julho de 2025",
     "futureStreaming": "Max",
-    "productionDetails": "Direção de James Gunn com David Corenswet e Nicholas Hoult."
-  }
+    "directors": "James Gunn",
+    "mainVillain": "Nicholas Hoult (Lex Luthor)",
+    "confirmedCast": [
+      "David Corenswet (Clark Kent / Superman)",
+      "Rachel Brosnahan (Lois Lane)",
+      "Nicholas Hoult (Lex Luthor)",
+      "Nathan Fillion (Guy Gardner / Lanterna Verde)",
+      "Isabela Merced (Mulher-Gavião)",
+      "Edi Gathegi (Senhor Incrível)",
+      "Skyler Gisondo (Jimmy Olsen)"
+    ],
+    "productionDetails": "Primeiro longa oficial do DC Studios, com direção e roteiro de James Gunn, filmado em IMAX com foco em efeitos práticos e tom humanista clássico."
+  },
+  "faqs": [
+    {
+      "question": "Quando Superman estreia nos cinemas brasileiros?",
+      "answer": "A estreia nacional nos cinemas do Brasil acontece no dia 10 de julho de 2025, com sessões de pré-estreia na quarta-feira anterior."
+    },
+    {
+      "question": "Quando o novo Superman chega à Max?",
+      "answer": "Seguindo a janela tradicional de 60 a 90 dias da Warner Bros. Discovery para grandes blockbusters, a previsão de estreia na Max é entre setembro e outubro de 2025."
+    },
+    {
+      "question": "Quem é o novo ator que interpreta o Superman?",
+      "answer": "David Corenswet (de Pearl e Hollywood) foi o ator escolhido por James Gunn para viver o Homem de Aço."
+    }
+  ]
 }

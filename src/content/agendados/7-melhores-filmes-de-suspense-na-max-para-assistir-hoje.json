@@ -1,17 +1,19 @@
 {
-  "id": "post-1792348421-1-3",
+  "id": "post-semana-ouro-19",
   "slug": "7-melhores-filmes-de-suspense-na-max-para-assistir-hoje",
   "title": "7 Melhores Filmes de Suspense na Max para Assistir Hoje em 2026",
-  "subtitle": "Uma curadoria com os thrillers mais tensos e inteligentes disponíveis para os assinantes da Max no Brasil.",
-  "type": "streaming",
+  "subtitle": "Histórias tensas, reviravoltas chocantes e atuações premiadas: o melhor do acervo da Warner e HBO para maratonar.",
+  "type": "list",
   "genres": [
     "Suspense",
     "Max",
-    "Dicas de Streaming"
+    "Mistério",
+    "Psicológico",
+    "Streaming"
   ],
-  "publishedAt": "2026-10-19T22:30:00Z",
-  "scheduledFor": "2026-10-19T22:30:00Z",
-  "updatedAt": "2026-10-19T22:30:00Z",
+  "publishedAt": "2026-10-22T22:30:00Z",
+  "scheduledFor": "2026-10-22T22:30:00Z",
+  "updatedAt": "2026-10-22T22:30:00Z",
   "author": {
     "name": "Guilherme Santos",
     "role": "Editor de Thrillers & Policiais",
@@ -19,34 +21,196 @@
   },
   "coverImage": "https://image.tmdb.org/t/p/w500/erl801HYIodoIBGZeFk0GTwCUBh.jpg",
   "posterImage": "https://image.tmdb.org/t/p/w500/erl801HYIodoIBGZeFk0GTwCUBh.jpg",
-  "readingTime": "6 min de leitura",
+  "readingTime": "8 min de leitura",
   "seo": {
-    "metaTitle": "7 Melhores Filmes de Suspense na Max para Assistir Hoje | FilmeJá",
-    "metaDescription": "Uma curadoria com os thrillers mais tensos e inteligentes disponíveis para os assinantes da Max no Brasil.",
+    "metaTitle": "7 Melhores Filmes de Suspense na Max (2026) | FilmeJá",
+    "metaDescription": "Quer roer as unhas de tensão? Confira os 7 melhores filmes de suspense do catálogo da Max no Brasil, avaliados e ranqueados.",
     "keywords": [
-      "7 melhores filmes de suspense na max para assistir hoje",
-      "7 melhores filmes de suspense na max para assistir hoje em 2026",
-      "onde assistir 7",
-      "filmeja cinema e streaming"
+      "filmes de suspense max",
+      "melhores suspenses hbo max 2026",
+      "suspense psicologico max brasil",
+      "filmes com reviravoltas max"
     ]
   },
-  "content": "A Max abriga alguns dos maiores clássicos contemporâneos de suspense do cinema da Warner e produções independentes premiadas.",
-  "faqs": [
-    {
-      "question": "Quais são os suspenses imperdíveis da Max?",
-      "answer": "Destaques incluem Ilha do Medo, Garota Exemplar e Os Suspeitos."
-    }
-  ],
+  "content": "A Max (antiga HBO Max) possui o que muitos críticos consideram o acervo mais prestigioso de suspense e thriller psicológico do streaming. Herdeira do lendário arquivo cinematográfico da Warner Bros. e das produções originais da HBO, a plataforma reúne obras-primas que não apelam para sustos fáceis, preferindo sufocar a audiência com atmosferas pesadas e atuações magistrais.\n\nSelecionamos os **7 melhores filmes de suspense disponíveis na Max no Brasil**, cobrindo desde investigações sombrias até mistérios sobrenaturais perturbadores.",
   "listItems": [
     {
       "rank": 1,
-      "title": "Ilha do Medo",
+      "title": "Ilha do Medo (Shutter Island)",
       "year": 2010,
-      "whereToWatch": [
-        "Max"
+      "director": "Martin Scorsese",
+      "score": 9.5,
+      "highlightTag": "O Clássico dos Finais Chocantes",
+      "cast": [
+        "Leonardo DiCaprio",
+        "Mark Ruffalo",
+        "Ben Kingsley"
       ],
+      "posterImage": "https://image.tmdb.org/t/p/w500/erl801HYIodoIBGZeFk0GTwCUBh.jpg",
+      "whereToWatch": [
+        "Max",
+        "Netflix"
+      ],
+      "synopsis": "Um agente federal investiga o sumiço de uma paciente em um hospital para criminosos insanos em uma ilha isolada.",
+      "whyWatch": "Martin Scorsese cria uma das maiores obras sobre paranóia e culpa da história recente, com final magistral.",
+      "highlightPoints": [
+        "Atuação memorável de DiCaprio",
+        "Reviravolta definitiva"
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "Seven: Os Sete Crimes Capitais",
+      "year": 1995,
+      "director": "David Fincher",
+      "score": 9.8,
+      "highlightTag": "Obra-Prima",
+      "cast": [
+        "Brad Pitt",
+        "Morgan Freeman",
+        "Kevin Spacey"
+      ],
+      "posterImage": "https://image.tmdb.org/t/p/w500/dZXYPSEaXCeigR2GEuZoukNmLTf.jpg",
+      "whereToWatch": [
+        "Max",
+        "Apple TV+"
+      ],
+      "synopsis": "A caçada desesperada de dois detetives contra um assassino que transforma os pecados capitais em obras macabras de horror.",
+      "whyWatch": "O ápice do cinema policial. Cada cena transmite desconforto e inteligência cinematográfica pura.",
+      "highlightPoints": [
+        "Direção milimétrica de Fincher",
+        "O final mais impactante de Hollywood"
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "Zodíaco (Zodiac)",
+      "year": 2007,
+      "director": "David Fincher",
       "score": 9.3,
-      "posterImage": "https://image.tmdb.org/t/p/w500/erl801HYIodoIBGZeFk0GTwCUBh.jpg"
+      "highlightTag": "Investigação Perfeita",
+      "cast": [
+        "Jake Gyllenhaal",
+        "Mark Ruffalo",
+        "Robert Downey Jr."
+      ],
+      "posterImage": "https://image.tmdb.org/t/p/w500/jFmlV5vUzOt1PgJ82efOhNsWcWX.jpg",
+      "whereToWatch": [
+        "Max",
+        "Prime Video"
+      ],
+      "synopsis": "A busca implacável de jornalistas e detetives por um assassino em série que envia enigmas para zombar das autoridades.",
+      "whyWatch": "Um dos retratos mais realistas e fascinantes sobre o peso da obsessão investigativa já filmados.",
+      "highlightPoints": [
+        "Elenco estelar em sincronia total",
+        "Ritmo hipnotizante"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "Os Suspeitos (Prisoners)",
+      "year": 2013,
+      "director": "Denis Villeneuve",
+      "score": 9.6,
+      "highlightTag": "Tensão Sufocante",
+      "cast": [
+        "Hugh Jackman",
+        "Jake Gyllenhaal",
+        "Paul Dano"
+      ],
+      "posterImage": "https://image.tmdb.org/t/p/w500/30YtzPOimO7eG30r8K8rUkqTGNj.jpg",
+      "whereToWatch": [
+        "Max",
+        "Prime Video"
+      ],
+      "synopsis": "Quando duas garotas desaparecem, um pai toma a justiça nas próprias mãos enquanto a polícia corre contra o tempo.",
+      "whyWatch": "Um suspense visceral que coloca o público diante de dilemas morais insolúveis. Atuação gigante de Hugh Jackman.",
+      "highlightPoints": [
+        "Fotografia magistral de Roger Deakins",
+        "Clímax de gelar a espinha"
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "Invocação do Mal (The Conjuring)",
+      "year": 2013,
+      "director": "James Wan",
+      "score": 9.0,
+      "highlightTag": "Terror e Tensão",
+      "cast": [
+        "Patrick Wilson",
+        "Vera Farmiga",
+        "Lili Taylor"
+      ],
+      "posterImage": "https://image.tmdb.org/t/p/w500/1NxHKZW5DPbUFtbF3MxbdSyxRqU.jpg",
+      "whereToWatch": [
+        "Max",
+        "Prime Video"
+      ],
+      "synopsis": "Os investigadores paranormais Ed e Lorraine Warren ajudam uma família aterrorizada por uma entidade maligna em sua casa de campo.",
+      "whyWatch": "James Wan constrói a tensão com movimentos de câmera clássicos e silêncios aterrorizantes, redefinindo o horror moderno.",
+      "highlightPoints": [
+        "A cena clássica das palmas no porão",
+        "Química impecável de Vera Farmiga e Patrick Wilson"
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "Hereditário (Hereditary)",
+      "year": 2018,
+      "director": "Ari Aster",
+      "score": 9.4,
+      "highlightTag": "Perturbador",
+      "cast": [
+        "Toni Collette",
+        "Alex Wolff",
+        "Gabriel Byrne"
+      ],
+      "posterImage": "https://image.tmdb.org/t/p/w500/x9tUYQj6WrdVwoKimSdoMzkDABS.jpg",
+      "whereToWatch": [
+        "Max",
+        "Netflix"
+      ],
+      "synopsis": "Segredos ancestrais e forças malévolas consomem uma família após a perda traumática de entes queridos.",
+      "whyWatch": "Uma obra-prima do terror psicológico que não recorre a sustos fáceis, construindo um pesadelo permanente.",
+      "highlightPoints": [
+        "Atuação monstruosa de Toni Collette",
+        "Cenas chocantes que não saem da cabeça"
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "Fale Comigo (Talk to Me)",
+      "year": 2023,
+      "director": "Danny e Michael Philippou",
+      "score": 8.8,
+      "highlightTag": "Sensação Recente",
+      "cast": [
+        "Sophie Wilde",
+        "Alexandra Jensen",
+        "Joe Bird"
+      ],
+      "posterImage": "https://image.tmdb.org/t/p/w500/7U3lC4YnHD8zpeoxbY6Hsj9jyeu.jpg",
+      "whereToWatch": [
+        "Max",
+        "Prime Video"
+      ],
+      "synopsis": "Uma mão embalsamada vira febre entre adolescentes para conjurar espíritos, até que as regras de segurança são quebradas.",
+      "whyWatch": "Ágil, moderno e apavorante. O suspense australiano mais comentado dos últimos anos com efeitos práticos incríveis.",
+      "highlightPoints": [
+        "Conceito original e assustador",
+        "Ritmo acelerado do início ao fim"
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Qual é o suspense mais bem avaliado da Max?",
+      "answer": "Seven e Os Suspeitos (Prisoners) possuem as maiores notas da crítica e dos assinantes no catálogo da Max."
+    },
+    {
+      "question": "A Max possui filmes de suspense em 4K no Brasil?",
+      "answer": "Sim, a maioria dos títulos recentes como Os Suspeitos e Duna está disponível em 4K UHD com som Dolby Atmos."
     }
   ]
 }

@@ -406,10 +406,106 @@ export default function PostPage({ params }: PostPageProps) {
         </section>
       )}
 
-      {/* Se for uma LISTA TOP 5 / TOP 10: Cards Ordenados com Links Clicáveis */}
-      {post.type === 'list' && post.listItems && (
+      {/* Se for um LANÇAMENTO: Box de Ficha de Estreia nos Cinemas e Streaming */}
+      {post.movieInfo && (
+        <section className="movie-specs-box" style={{ borderColor: 'rgba(229, 9, 20, 0.4)', background: 'linear-gradient(180deg, #181114 0%, #0d0f15 100%)' }}>
+          <div className="specs-poster">
+            <Image
+              src={post.posterImage}
+              alt={post.movieInfo.title}
+              width={240}
+              height={360}
+              style={{ width: '100%', height: 'auto', display: 'block', borderRadius: '8px' }}
+              priority
+            />
+          </div>
+
+          <div className="specs-details">
+            <div style={{ display: 'inline-flex', alignItems: 'center', gap: '8px', padding: '6px 14px', borderRadius: '8px', background: 'rgba(229, 9, 20, 0.15)', color: '#ff5e62', fontWeight: 800, fontSize: '0.85rem', marginBottom: '1rem', border: '1px solid rgba(229, 9, 20, 0.3)' }}>
+              <Sparkles size={16} /> Guia Oficial de Lançamento
+            </div>
+
+            <h2 style={{ fontSize: '1.8rem', fontWeight: 800, color: '#fff', marginBottom: '0.8rem', fontFamily: 'var(--font-heading)' }}>
+              {post.movieInfo.title}
+            </h2>
+
+            <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(180px, 1fr))', gap: '1rem', background: 'rgba(255,255,255,0.03)', padding: '1.2rem', borderRadius: '10px', border: '1px solid rgba(255,255,255,0.06)', marginBottom: '1.2rem' }}>
+              <div>
+                <span style={{ fontSize: '0.75rem', color: 'var(--text-sub)', textTransform: 'uppercase', letterSpacing: '0.5px' }}>Data nos Cinemas:</span>
+                <div style={{ fontSize: '1.15rem', fontWeight: 700, color: '#ffb703', marginTop: '4px' }}>
+                  {post.movieInfo.releaseDate}
+                </div>
+              </div>
+              {post.movieInfo.futureStreaming && (
+                <div>
+                  <span style={{ fontSize: '0.75rem', color: 'var(--text-sub)', textTransform: 'uppercase', letterSpacing: '0.5px' }}>Chegada ao Streaming:</span>
+                  <div style={{ fontSize: '1.15rem', fontWeight: 700, color: '#00b4d8', marginTop: '4px' }}>
+                    {post.movieInfo.futureStreaming}
+                  </div>
+                </div>
+              )}
+              {post.movieInfo.directors && (
+                <div>
+                  <span style={{ fontSize: '0.75rem', color: 'var(--text-sub)', textTransform: 'uppercase', letterSpacing: '0.5px' }}>Direção / Criação:</span>
+                  <div style={{ fontSize: '1.05rem', fontWeight: 600, color: '#fff', marginTop: '4px' }}>
+                    {post.movieInfo.directors}
+                  </div>
+                </div>
+              )}
+              {post.movieInfo.mainVillain && (
+                <div>
+                  <span style={{ fontSize: '0.75rem', color: 'var(--text-sub)', textTransform: 'uppercase', letterSpacing: '0.5px' }}>Vilão / Antagonista:</span>
+                  <div style={{ fontSize: '1.05rem', fontWeight: 600, color: '#ff5e62', marginTop: '4px' }}>
+                    {post.movieInfo.mainVillain}
+                  </div>
+                </div>
+              )}
+            </div>
+
+            {post.movieInfo.confirmedCast && post.movieInfo.confirmedCast.length > 0 && (
+              <div style={{ marginBottom: '1rem' }}>
+                <div style={{ fontSize: '0.85rem', color: 'var(--text-sub)', display: 'flex', alignItems: 'center', gap: '6px', marginBottom: '0.5rem' }}>
+                  <Users size={15} />
+                  <strong>Elenco Confirmado:</strong>
+                </div>
+                <div style={{ display: 'flex', flexWrap: 'wrap', gap: '6px' }}>
+                  {post.movieInfo.confirmedCast.map((actor, idx) => (
+                    <span key={idx} style={{ background: 'rgba(255,255,255,0.06)', border: '1px solid rgba(255,255,255,0.1)', padding: '4px 10px', borderRadius: '6px', fontSize: '0.85rem', color: '#e0e0e0' }}>
+                      {actor}
+                    </span>
+                  ))}
+                </div>
+              </div>
+            )}
+
+            {post.movieInfo.productionDetails && (
+              <p style={{ fontSize: '0.9rem', color: 'var(--text-sub)', lineHeight: '1.5', fontStyle: 'italic' }}>
+                &ldquo;{post.movieInfo.productionDetails}&rdquo;
+              </p>
+            )}
+
+            {post.movieInfo.futureStreaming && (
+              <div style={{ marginTop: '1.2rem' }}>
+                <a
+                  href={getStreamingSearchUrl(post.movieInfo.futureStreaming, post.movieInfo.title)}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="nav-link-cta"
+                  style={{ display: 'inline-flex', alignItems: 'center', gap: '8px', padding: '0.75rem 1.6rem', fontSize: '0.95rem' }}
+                >
+                  <span>Verificar catálogo no {post.movieInfo.futureStreaming}</span>
+                  <ExternalLink size={16} />
+                </a>
+              </div>
+            )}
+          </div>
+        </section>
+      )}
+
+      {/* Se for uma LISTA TOP 5 / TOP 10 / STREAMING: Cards Ordenados com Links Clicáveis */}
+      {Boolean(post.listItems && post.listItems.length > 0) && (
         <section className="list-ranking-container">
-          {post.listItems.map((item) => (
+          {post.listItems!.map((item) => (
             <div key={item.rank} className="ranking-card" id={`filme-${item.rank}`}>
               <div className="ranking-number">#{item.rank}</div>
 

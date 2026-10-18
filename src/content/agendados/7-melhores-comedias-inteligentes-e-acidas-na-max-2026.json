@@ -1,53 +1,216 @@
 {
-  "id": "post-1792348421-6-3",
+  "id": "post-semana-ouro-29",
   "slug": "7-melhores-comedias-inteligentes-e-acidas-na-max-2026",
-  "title": "7 Melhores Comédias Inteligentes e Ácidas na Max para Rir Alto em 2026",
-  "subtitle": "Sátiras sociais, humor requintado e diálogos afiados selecionados no streaming.",
-  "type": "streaming",
+  "title": "7 Melhores Comédias Inteligentes e Ácidas na Max em 2026",
+  "subtitle": "Humor refinado, sátiras sociais mordazes e diálogos rápidos: o melhor do entretenimento cômico adulto da HBO.",
+  "type": "list",
   "genres": [
     "Comédia",
     "Max",
-    "Sátira"
+    "Sátira",
+    "Cinema Autoral",
+    "Streaming"
   ],
   "publishedAt": "2026-10-24T22:30:00Z",
   "scheduledFor": "2026-10-24T22:30:00Z",
   "updatedAt": "2026-10-24T22:30:00Z",
   "author": {
-    "name": "Lucas Andrade",
-    "role": "Crítico Sênior & Editor-Chefe",
-    "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=100&auto=format&fit=crop&q=80"
+    "name": "Guilherme Santos",
+    "role": "Editor de Thrillers & Policiais",
+    "avatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=100&auto=format&fit=crop&q=80"
   },
   "coverImage": "https://image.tmdb.org/t/p/w500/9H8PNc4JJRjPnfSh8gGukD0CbqQ.jpg",
   "posterImage": "https://image.tmdb.org/t/p/w500/9H8PNc4JJRjPnfSh8gGukD0CbqQ.jpg",
-  "readingTime": "5 min de leitura",
+  "readingTime": "8 min de leitura",
   "seo": {
-    "metaTitle": "7 Melhores Comédias Inteligentes e Ácidas na Max para R | FilmeJá",
-    "metaDescription": "Sátiras sociais, humor requintado e diálogos afiados selecionados no streaming.",
+    "metaTitle": "7 Melhores Comédias Inteligentes e Ácidas na Max (2026) | FilmeJá",
+    "metaDescription": "Quer rir com inteligência? Veja as 7 melhores comédias ácidas, sátiras sociais e mistérios cômicos disponíveis no catálogo da Max.",
     "keywords": [
-      "7 melhores comedias inteligentes e acidas na max 2026",
-      "7 melhores comédias inteligentes e ácidas na max para rir alto em 2026",
-      "onde assistir 7",
-      "filmeja cinema e streaming"
+      "comedias inteligentes max",
+      "melhores comedias hbo max 2026",
+      "comedia acida streaming brasil",
+      "satiras inteligentes max"
     ]
   },
-  "content": "Para quem foge de piadas previsíveis e busca filmes que satirizam o poder, a fama e a futilidade contemporânea.",
-  "faqs": [
-    {
-      "question": "Quais as melhores comédias na Max?",
-      "answer": "Entre Facas e Segredos, O Menu e O Grande Lebowski são pontos altos."
-    }
-  ],
+  "content": "Se você está cansado de comédias pastelão baseadas em piadas previsíveis, o catálogo da Max é o refúgio perfeito. Herdeiro da tradição de humor satírico e afiado da HBO (de séries como *Succession*, *The White Lotus* e *Veep*), o streaming oferece longas-metragens brilhantes onde o riso nasce do constrangimento social, da ironia mordaz e de personagens hilariamente presunçosos.\n\nSelecionamos as **7 melhores comédias inteligentes da Max**, perfeitas para quem aprecia roteiros premiados, atuações estelares e críticas sarcásticas ao mundo moderno.",
   "listItems": [
     {
       "rank": 1,
-      "title": "Entre Facas e Segredos",
+      "title": "Entre Facas e Segredos (Knives Out)",
       "year": 2019,
+      "director": "Rian Johnson",
+      "score": 9.3,
+      "highlightTag": "Sátira Genial",
+      "cast": [
+        "Daniel Craig",
+        "Ana de Armas",
+        "Chris Evans"
+      ],
+      "posterImage": "https://image.tmdb.org/t/p/w500/9H8PNc4JJRjPnfSh8gGukD0CbqQ.jpg",
+      "whereToWatch": [
+        "Max",
+        "Netflix"
+      ],
+      "synopsis": "Um detetive investiga a morte de um escritor milionário e desmascara a hipocrisia de uma família disfuncional e interesseira.",
+      "whyWatch": "O roteiro é um dos mais engraçados e inteligentes da década, ridicularizando herdeiros aristocratas com tiradas antológicas.",
+      "highlightPoints": [
+        "Daniel Craig brilhando com sotaque sulista",
+        "Roteiro indicado ao Oscar"
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "Glass Onion: Um Mistério Knives Out",
+      "year": 2022,
+      "director": "Rian Johnson",
+      "score": 8.9,
+      "highlightTag": "Comédia de Mistério",
+      "cast": [
+        "Daniel Craig",
+        "Edward Norton",
+        "Kate Hudson"
+      ],
+      "posterImage": "https://image.tmdb.org/t/p/w500/zQJcENHbZUpLQ8RKYt9wTzcXCwv.jpg",
+      "whereToWatch": [
+        "Max",
+        "Netflix"
+      ],
+      "synopsis": "Em uma ilha grega, um bilionário da tecnologia reúne amigos influenciadores para um fim de semana que desanda para o caos.",
+      "whyWatch": "Uma sátira hilária e precisa sobre os bilionários falsos 'gênios' da tecnologia que controlam as redes sociais modernas.",
+      "highlightPoints": [
+        "Edward Norton fazendo piada com magnatas do Vale do Silício",
+        "Edição dinâmica e muito ágil"
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "Veja Como Eles Correm (See How They Run)",
+      "year": 2022,
+      "director": "Tom George",
+      "score": 8.7,
+      "highlightTag": "Charme Britânico",
+      "cast": [
+        "Sam Rockwell",
+        "Saoirse Ronan",
+        "Adrien Brody"
+      ],
+      "posterImage": "https://image.tmdb.org/t/p/w500/dHjMrsrhgLcwKLIfReRxt9rFBFk.jpg",
+      "whereToWatch": [
+        "Max",
+        "Disney+"
+      ],
+      "synopsis": "Em Londres nos anos 50, planos para uma adaptação cinematográfica de uma peça de sucesso são interrompidos pelo assassinato do diretor.",
+      "whyWatch": "Saoirse Ronan está impagável como a policial novata ansiosa que anota tudo em seu caderninho e tira conclusões precipitadas.",
+      "highlightPoints": [
+        "Química perfeita de Sam Rockwell e Saoirse Ronan",
+        "Reconstituição dos teatros de West End"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "A Substância (The Substance)",
+      "year": 2024,
+      "director": "Coralie Fargeat",
+      "score": 9.4,
+      "highlightTag": "Comédia Sombria e Ácida",
+      "cast": [
+        "Demi Moore",
+        "Margaret Qualley",
+        "Dennis Quaid"
+      ],
+      "posterImage": "https://image.tmdb.org/t/p/w500/vWeOgzlhnP1sS23H3rzctGHB9Nb.jpg",
+      "whereToWatch": [
+        "Max",
+        "Apple TV+"
+      ],
+      "synopsis": "Uma apresentadora veterana de TV é descartada pela emissora e toma medidas grotescas para manter sua fama e juventude.",
+      "whyWatch": "Dennis Quaid comendo camarões de boca aberta e os exageros da TV americana entregam sequências de puro humor negro e sátira.",
+      "highlightPoints": [
+        "Prêmio de Melhor Roteiro no Festival de Cannes",
+        "Momentos chocantes e divertidíssimos"
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "Os Suspeitos de Sempre (The Usual Suspects)",
+      "year": 1995,
+      "director": "Bryan Singer",
+      "score": 9.5,
+      "highlightTag": "Ironia Criminosa",
+      "cast": [
+        "Kevin Spacey",
+        "Gabriel Byrne",
+        "Benicio del Toro"
+      ],
+      "posterImage": "https://image.tmdb.org/t/p/w500/8RrGQ3kSiu2JJatkQ3o0DdXUGUU.jpg",
       "whereToWatch": [
         "Max",
         "Prime Video"
       ],
-      "score": 9.3,
-      "posterImage": "https://image.tmdb.org/t/p/w500/9H8PNc4JJRjPnfSh8gGukD0CbqQ.jpg"
+      "synopsis": "Cinco criminosos se conhecem em uma delegacia de polícia e decidem armar um golpe que esconde uma mente brilhante por trás.",
+      "whyWatch": "A ironia dos bandidos tentando parecer inteligentes diante da polícia rende diálogos lendários e muito humor sutil.",
+      "highlightPoints": [
+        "Vencedor de 2 Oscars",
+        "O desfecho mais icônico do cinema dos anos 90"
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "Trem-Bala (Bullet Train)",
+      "year": 2022,
+      "director": "David Leitch",
+      "score": 9.1,
+      "highlightTag": "Humor & Adrenalina",
+      "cast": [
+        "Brad Pitt",
+        "Joey King",
+        "Aaron Taylor-Johnson"
+      ],
+      "posterImage": "https://image.tmdb.org/t/p/w500/8gdBMIYwPPxp3b9FjY9yCxme5Rs.jpg",
+      "whereToWatch": [
+        "Max",
+        "Netflix"
+      ],
+      "synopsis": "Um mercenário em crise de ansiedade tenta cumprir uma missão simples sem usar armas, mas o trem está cheio de assassinos excêntricos.",
+      "whyWatch": "Brad Pitt em um timing cômico invejável, reclamando de terapia e garrafas térmicas enquanto desvia de espadas e tiros.",
+      "highlightPoints": [
+        "Edição pop com ritmo acelerado",
+        "Participações especiais hilárias de estrelas de Hollywood"
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "Cisne Negro (Black Swan)",
+      "year": 2010,
+      "director": "Darren Aronofsky",
+      "score": 9.2,
+      "highlightTag": "Humor Ácido de Bastidores",
+      "cast": [
+        "Natalie Portman",
+        "Mila Kunis",
+        "Vincent Cassel"
+      ],
+      "posterImage": "https://image.tmdb.org/t/p/w500/tqlmLBt2i5SHNpXEj2nqk10Crwa.jpg",
+      "whereToWatch": [
+        "Max",
+        "Disney+"
+      ],
+      "synopsis": "Os bastidores cruéis e competitivos do balé de Nova York sob a direção de um coreógrafo francês pretensioso e exigente.",
+      "whyWatch": "Vincent Cassel interpreta o diretor com um cinismo hilário e cortante que expõe a hipocrisia do meio artístico elitista.",
+      "highlightPoints": [
+        "Oscar de Melhor Atriz para Natalie Portman",
+        "Fotografia espetacular"
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Qual é a comédia mais recomendada para quem gosta de mistério na Max?",
+      "answer": "Entre Facas e Segredos e Veja Como Eles Correm são as escolhas perfeitas para quem ama humor refinado com investigação de assassinato."
+    },
+    {
+      "question": "Esses filmes estão disponíveis dublados em português?",
+      "answer": "Sim, todas as comédias do catálogo contam com dublagem nacional de altíssima qualidade e áudio original com legendas."
     }
   ]
 }

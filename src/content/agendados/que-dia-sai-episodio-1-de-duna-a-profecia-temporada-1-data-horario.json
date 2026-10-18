@@ -1,8 +1,8 @@
 {
-  "id": "post-1792348421-2-0",
+  "id": "post-semana-ouro-05",
   "slug": "que-dia-sai-episodio-1-de-duna-a-profecia-temporada-1-data-horario",
-  "title": "Que Dia Sai o Episódio 1 de Duna: A Profecia? Data, Horário e Calendário na Max",
-  "subtitle": "Mergulhe na origem das Bene Gesserit 10.000 anos antes de Paul Atreides na grandiosa nova série do universo de Duna.",
+  "title": "Que Dia Sai o Episódio 1 de Duna: A Profecia? Data e Horário na Max",
+  "subtitle": "Conheça as origens da mística irmandade Bene Gesserit 10.000 anos antes de Paul Atreides na superprodução da HBO.",
   "type": "episodio",
   "genres": [
     "Séries",
@@ -10,9 +10,9 @@
     "Ficção Científica",
     "Lançamentos"
   ],
-  "publishedAt": "2026-10-20T11:00:00Z",
-  "scheduledFor": "2026-10-20T11:00:00Z",
-  "updatedAt": "2026-10-20T11:00:00Z",
+  "publishedAt": "2026-10-19T23:59:00Z",
+  "scheduledFor": "2026-10-19T23:59:00Z",
+  "updatedAt": "2026-10-19T23:59:00Z",
   "author": {
     "name": "Camila Fontes",
     "role": "Crítica de Sci-Fi & Fantasia",
@@ -20,31 +20,82 @@
   },
   "coverImage": "https://image.tmdb.org/t/p/w500/oWVohNsxkxA3u92EzRo8fTuXIS0.jpg",
   "posterImage": "https://image.tmdb.org/t/p/w500/oWVohNsxkxA3u92EzRo8fTuXIS0.jpg",
-  "readingTime": "4 min de leitura",
+  "readingTime": "5 min de leitura",
   "seo": {
-    "metaTitle": "Que Dia Sai o Episódio 1 de Duna: A Profecia? Data, Hor | FilmeJá",
-    "metaDescription": "Mergulhe na origem das Bene Gesserit 10.000 anos antes de Paul Atreides na grandiosa nova série do universo de Duna.",
+    "metaTitle": "Que Dia Sai Episódio 1 de Duna: A Profecia? Data e Horário | FilmeJá",
+    "metaDescription": "Saiba que dia estreia o episódio 1 de Duna: A Profecia na Max. Veja o calendário de episódios no Brasil, elenco e conexões com os filmes.",
     "keywords": [
-      "que dia sai episodio 1 de duna a profecia temporada 1 data horario",
-      "que dia sai o episódio 1 de duna: a profecia? data, horário e calendário na max",
-      "onde assistir que",
-      "filmeja cinema e streaming"
+      "que dia sai duna a profecia",
+      "duna a profecia episodio 1 horario max",
+      "duna a profecia serie brasil",
+      "duna serie max elenco"
     ]
   },
-  "content": "Duna: A Profecia expande o rico universo criado por Frank Herbert com foco nas maquinações políticas e poderes misteriosos da Irmandade Bene Gesserit.",
-  "faqs": [
-    {
-      "question": "Quantos episódios tem Duna: A Profecia?",
-      "answer": "A primeira temporada conta com 6 episódios semanais na Max."
-    }
-  ],
+  "content": "Expandindo o monumental universo cinematográfico criado por Denis Villeneuve e Frank Herbert, **Duna: A Profecia (Dune: Prophecy)** chega ao catálogo da Max como a nova superprodução de ficção científica da HBO. Ambientada 10.000 anos antes da ascensão de Paul Atreides, a trama revela como duas irmãs da Casa Harkonnen fundaram a lendária irmandade Bene Gesserit.\n\nCom atuações lideradas por Emily Watson (Valya Harkonnen) e Olivia Williams (Tula Harkonnen), a série mergulha nos jogos políticos de bastidores, manipulações genéticas e profecias secretas que moldaram o futuro do Imperium. Enquanto o Imperador Javicco Corrino (Mark Strong) tenta manter o controle frágil sobre as Grandes Casas, uma nova ameaça misteriosa com poderes extraordinários surge nas sombras.\n\nA exibição segue a consagrada tradição dos grandes sucessos da HBO (como Game of Thrones e Succession): **novos episódios todos os domingos às 22h00**, com transmissão simultânea no streaming da Max e no canal linear de televisão por assinatura.",
   "seriesInfo": {
     "seriesTitle": "Duna: A Profecia",
+    "originalTitle": "Dune: Prophecy",
     "seasonNumber": 1,
     "episodeNumber": 1,
     "nextEpisodeDate": "17 de novembro",
-    "nextEpisodeTime": "22h (horário de Brasília)",
+    "nextEpisodeTime": "22h00 (Horário de Brasília)",
     "platform": "Max",
-    "totalEpisodes": 6
-  }
+    "totalEpisodes": 6,
+    "recapPreviousEpisode": "Episódio piloto de estreia introduzindo o cenário galáctico 10.000 anos antes dos eventos dos filmes de Paul Atreides.",
+    "whatToExpect": "As irmãs Valya e Tula Harkonnen consolidam os primeiros passos da Irmandade contra conspirações palacianas que ameaçam o trono do Imperador Corrino.",
+    "schedule": [
+      {
+        "episodeNumber": 1,
+        "title": "A Mão Oculta",
+        "releaseDate": "17/11",
+        "releaseTime": "22:00 BRT",
+        "status": "proximo"
+      },
+      {
+        "episodeNumber": 2,
+        "title": "Duas Irmãs",
+        "releaseDate": "24/11",
+        "releaseTime": "22:00 BRT",
+        "status": "a_estrear"
+      },
+      {
+        "episodeNumber": 3,
+        "title": "A Voz do Deserto",
+        "releaseDate": "01/12",
+        "releaseTime": "22:00 BRT",
+        "status": "a_estrear"
+      },
+      {
+        "episodeNumber": 4,
+        "title": "Linhagem Proibida",
+        "releaseDate": "08/12",
+        "releaseTime": "22:00 BRT",
+        "status": "a_estrear"
+      },
+      {
+        "episodeNumber": 5,
+        "title": "Traição em Salusa",
+        "releaseDate": "15/12",
+        "releaseTime": "22:00 BRT",
+        "status": "a_estrear"
+      },
+      {
+        "episodeNumber": 6,
+        "title": "A Primeira Profecia",
+        "releaseDate": "22/12",
+        "releaseTime": "22:00 BRT",
+        "status": "a_estrear"
+      }
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Que dia sai o episódio novo de Duna: A Profecia?",
+      "answer": "Os episódios estreiam semanalmente aos domingos às 22h00 na Max e no canal HBO."
+    },
+    {
+      "question": "Duna: A Profecia tem relação direta com os filmes de Denis Villeneuve?",
+      "answer": "Sim, a série se passa no mesmo universo oficial dos filmes, explorando o passado milenar da Bene Gesserit."
+    }
+  ]
 }

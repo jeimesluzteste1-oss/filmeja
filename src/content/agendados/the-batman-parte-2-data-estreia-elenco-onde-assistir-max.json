@@ -1,47 +1,60 @@
 {
-  "id": "post-1792348421-6-0",
+  "id": "post-semana-ouro-07",
   "slug": "the-batman-parte-2-data-estreia-elenco-onde-assistir-max",
-  "title": "The Batman: Parte II: Data de Estreia nos Cinemas, Vilões e Continuação na Max",
-  "subtitle": "Robert Pattinson e Matt Reeves voltam a Gotham após os acontecimentos da série O Pinguim.",
+  "title": "The Batman: Parte II: Data de Estreia nos Cinemas, Elenco e Onde Assistir",
+  "subtitle": "Robert Pattinson retorna a Gotham City sob a direção de Matt Reeves: vilões confirmados, atmosfera noir e previsão de streaming na Max.",
   "type": "lancamento",
   "genres": [
     "Cinema",
     "Lançamentos",
     "DC",
-    "Policial"
+    "Policial",
+    "Max"
   ],
-  "publishedAt": "2026-10-24T11:00:00Z",
-  "scheduledFor": "2026-10-24T11:00:00Z",
-  "updatedAt": "2026-10-24T11:00:00Z",
+  "publishedAt": "2026-10-20T15:00:00Z",
+  "scheduledFor": "2026-10-20T15:00:00Z",
+  "updatedAt": "2026-10-20T15:00:00Z",
   "author": {
-    "name": "Thiago Rocha",
-    "role": "Editor de Cinema Comercial & Ação",
-    "avatar": "https://images.unsplash.com/photo-1522075469751-3a6694fb2f61?w=100&auto=format&fit=crop&q=80"
+    "name": "Guilherme Santos",
+    "role": "Editor de Thrillers & Policiais",
+    "avatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=100&auto=format&fit=crop&q=80"
   },
   "coverImage": "https://image.tmdb.org/t/p/w500/74xTEgt7R36Fpooo50r9T25onhq.jpg",
   "posterImage": "https://image.tmdb.org/t/p/w500/74xTEgt7R36Fpooo50r9T25onhq.jpg",
   "readingTime": "5 min de leitura",
   "seo": {
-    "metaTitle": "The Batman: Parte II: Data de Estreia nos Cinemas, Vilõ | FilmeJá",
-    "metaDescription": "Robert Pattinson e Matt Reeves voltam a Gotham após os acontecimentos da série O Pinguim.",
+    "metaTitle": "The Batman: Parte II: Data de Estreia nos Cinemas e Streaming | FilmeJá",
+    "metaDescription": "Tudo sobre The Batman: Parte II com Robert Pattinson. Data de lançamento nos cinemas do Brasil, elenco completo, vilões e previsão na Max.",
     "keywords": [
-      "the batman parte 2 data estreia elenco onde assistir max",
-      "the batman: parte ii: data de estreia nos cinemas, vilões e continuação na max",
-      "onde assistir the",
-      "filmeja cinema e streaming"
+      "the batman 2 data de estreia",
+      "the batman parte 2 elenco",
+      "robert pattinson batman 2",
+      "onde assistir the batman 2"
     ]
   },
-  "content": "A sequência oficial de The Batman continuará explorando o lado detetivesco e corrupto da cidade, conectando com a ascensão criminosa de Oz Cobb.",
-  "faqs": [
-    {
-      "question": "Quando The Batman 2 estreia?",
-      "answer": "O filme foi reprogramado para estrear nos cinemas mundiais em fevereiro de 2028."
-    }
-  ],
+  "content": "Após o retumbante sucesso de crítica e bilheteria em 2022, Matt Reeves e Robert Pattinson preparam **The Batman: Parte II (The Batman Part II)** para consolidar a saga do Cavaleiro das Trevas como um thriller de investigação noir cru e realista. Ambientado sob a etiqueta independente *DC Elseworlds*, o longa continua a evolução de Bruce Wayne como o Maior Detetive do Mundo em uma Gotham devastada pelas inundações do Charada.\n\nA sequência se conecta diretamente aos acontecimentos da aclamada série derivada *O Pinguim*, mostrando a reestruturação do submundo do crime liderada por Oswald Cobb (Colin Farrell). Entre os vilões cogitados e explorados nas entrelinhas estão o Tribunal das Corujas, o Silêncio (Hush) e o retorno perturbador do Coringa de Barry Keoghan no Asilo Arkham.\n\nA Warner Bros. programou a estreia nos cinemas de todo o Brasil com projeções em salas IMAX, antes de disponibilizar o título em 4K HDR no catálogo da Max.",
   "movieInfo": {
     "title": "The Batman: Parte II",
-    "releaseDate": "18 de fevereiro de 2028",
+    "releaseDate": "2 de outubro de 2026",
     "futureStreaming": "Max",
-    "productionDetails": "Direção de Matt Reeves com Robert Pattinson e Colin Farrell."
-  }
+    "directors": "Matt Reeves",
+    "confirmedCast": [
+      "Robert Pattinson (Bruce Wayne / Batman)",
+      "Colin Farrell (Oswald Cobb / Pinguim)",
+      "Andy Serkis (Alfred Pennyworth)",
+      "Jeffrey Wright (Comissário Jim Gordon)",
+      "Barry Keoghan (O Coringa)"
+    ],
+    "productionDetails": "Produção da 6th & Idaho com Warner Bros. Pictures, mantendo o tom investigativo realista sob a chancela DC Elseworlds."
+  },
+  "faqs": [
+    {
+      "question": "Quando The Batman Parte 2 estreia nos cinemas?",
+      "answer": "O lançamento oficial nos cinemas brasileiros está marcado para o dia 2 de outubro de 2026."
+    },
+    {
+      "question": "The Batman de Robert Pattinson faz parte do universo de James Gunn?",
+      "answer": "Não. Matt Reeves confirmou que sua trilogia permanece como um universo próprio dentro do selo DC Elseworlds."
+    }
+  ]
 }

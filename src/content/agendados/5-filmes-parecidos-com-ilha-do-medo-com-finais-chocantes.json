@@ -1,13 +1,14 @@
 {
-  "id": "post-1792348421-3-2",
+  "id": "post-semana-ouro-13",
   "slug": "5-filmes-parecidos-com-ilha-do-medo-com-finais-chocantes",
-  "title": "5 Filmes Parecidos com Ilha do Medo com Finais Surpreendentes",
-  "subtitle": "Thrillers psicológicos com reviravoltas inesquecíveis que desafiam tudo o que você pensou saber até o último minuto.",
+  "title": "5 Filmes Parecidos com Ilha do Medo com Finais Chocantes e Reviravoltas",
+  "subtitle": "Se você amou a mente de Martin Scorsese e DiCaprio em Shutter Island, veja cinco thrillers psicológicos que vão enganar você até o último segundo.",
   "type": "list",
   "genres": [
     "Suspense",
     "Mistério",
-    "Plot Twists"
+    "Psicológico",
+    "Streaming"
   ],
   "publishedAt": "2026-10-21T19:00:00Z",
   "scheduledFor": "2026-10-21T19:00:00Z",
@@ -19,35 +20,148 @@
   },
   "coverImage": "https://image.tmdb.org/t/p/w500/erl801HYIodoIBGZeFk0GTwCUBh.jpg",
   "posterImage": "https://image.tmdb.org/t/p/w500/erl801HYIodoIBGZeFk0GTwCUBh.jpg",
-  "readingTime": "5 min de leitura",
+  "readingTime": "7 min de leitura",
   "seo": {
-    "metaTitle": "5 Filmes Parecidos com Ilha do Medo com Finais Surpreen | FilmeJá",
-    "metaDescription": "Thrillers psicológicos com reviravoltas inesquecíveis que desafiam tudo o que você pensou saber até o último minuto.",
+    "metaTitle": "5 Filmes Parecidos com Ilha do Medo com Finais Chocantes | FilmeJá",
+    "metaDescription": "Gosta de reviravoltas de explodir a cabeça como Ilha do Medo? Veja 5 thrillers psicológicos imperdíveis nos streamings.",
     "keywords": [
-      "5 filmes parecidos com ilha do medo com finais chocantes",
-      "5 filmes parecidos com ilha do medo com finais surpreendentes",
-      "onde assistir 5",
-      "filmeja cinema e streaming"
+      "filmes parecidos com ilha do medo",
+      "filmes com finais chocantes",
+      "suspense psicologico parecido com shutter island",
+      "filmes com reviravoltas"
     ]
   },
-  "content": "Martin Scorsese e Leonardo DiCaprio criaram um dos finais mais debatidos do cinema moderno. Reunimos cinco filmes que causam o mesmo impacto cognitivo.",
-  "faqs": [
-    {
-      "question": "O que assistir depois de Ilha do Medo?",
-      "answer": "Garota Exemplar, Os Suspeitos e Amnésia são os mais recomendados."
-    }
-  ],
+  "content": "Com direção magistral de Martin Scorsese e atuação monumental de Leonardo DiCaprio, **Ilha do Medo (Shutter Island)** é um dos maiores quebra-cabeças da história do cinema. A atmosfera cinzenta de um hospital psiquiátrico isolado em uma ilha tempestuosa, combinada com a paranóia de um investigador que não sabe se pode confiar nas próprias memórias, cria uma experiência que culmina em uma das reviravoltas mais comentadas da sétima arte.\n\nSe você adora aquela sensação fascinante de chegar ao final de um filme e perceber que todas as pistas estavam bem diante dos seus olhos desde a primeira cena, selecionamos 5 suspenses psicológicos de primeira grandeza disponíveis nos streamings.",
   "listItems": [
     {
       "rank": 1,
-      "title": "Garota Exemplar",
-      "year": 2014,
+      "title": "Os Suspeitos (Prisoners)",
+      "year": 2013,
+      "director": "Denis Villeneuve",
+      "score": 9.6,
+      "highlightTag": "Tensão Devastadora",
+      "cast": [
+        "Hugh Jackman",
+        "Jake Gyllenhaal",
+        "Paul Dano"
+      ],
+      "posterImage": "https://image.tmdb.org/t/p/w500/30YtzPOimO7eG30r8K8rUkqTGNj.jpg",
+      "whereToWatch": [
+        "Prime Video",
+        "Max"
+      ],
+      "synopsis": "Após duas meninas desaparecerem no dia de Ação de Graças, um pai desesperado decide sequestrar e interrogar o principal suspeito enquanto um detetive meticuloso investiga o caso.",
+      "whyWatch": "A atmosfera fria e opressiva com chuva constante rivaliza com Ilha do Medo. O duelo de atuações entre Jackman e Gyllenhaal é histórico.",
+      "highlightPoints": [
+        "Direção cirúrgica de Denis Villeneuve",
+        "Reviravolta final genial que amarra todos os labirintos"
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "Seven: Os Sete Crimes Capitais",
+      "year": 1995,
+      "director": "David Fincher",
+      "score": 9.8,
+      "highlightTag": "O Maior do Gênero",
+      "cast": [
+        "Brad Pitt",
+        "Morgan Freeman",
+        "Kevin Spacey"
+      ],
+      "posterImage": "https://image.tmdb.org/t/p/w500/dZXYPSEaXCeigR2GEuZoukNmLTf.jpg",
+      "whereToWatch": [
+        "Max",
+        "Apple TV+"
+      ],
+      "synopsis": "Dois detetives de homicídios caçam um assassino em série meticuloso que escolhe suas vítimas baseado nos sete pecados capitais.",
+      "whyWatch": "O desfecho com a entrega da caixa no deserto é amplamente considerado uma das maiores conclusões do suspense moderno.",
+      "highlightPoints": [
+        "Fotografia sombria e claustrofóbica",
+        "Atuação lendária de Morgan Freeman"
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "Zodíaco (Zodiac)",
+      "year": 2007,
+      "director": "David Fincher",
+      "score": 9.3,
+      "highlightTag": "Obsessão Real",
+      "cast": [
+        "Jake Gyllenhaal",
+        "Mark Ruffalo",
+        "Robert Downey Jr."
+      ],
+      "posterImage": "https://image.tmdb.org/t/p/w500/jFmlV5vUzOt1PgJ82efOhNsWcWX.jpg",
       "whereToWatch": [
         "Max",
         "Prime Video"
       ],
+      "synopsis": "Um cartunista de jornal fica obcecado em decifrar as cartas criptografadas enviadas pelo Assassino do Zodíaco à polícia de San Francisco.",
+      "whyWatch": "Captura a mesma espiral de loucura e paranóia mental que consome o personagem de DiCaprio em Shutter Island.",
+      "highlightPoints": [
+        "Reconstituição histórica milimétrica dos anos 70",
+        "Trabalho primoroso de montagem e ritmo"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "Garota Exemplar (Gone Girl)",
+      "year": 2014,
+      "director": "David Fincher",
+      "score": 9.5,
+      "highlightTag": "Manipulação Suprema",
+      "cast": [
+        "Ben Affleck",
+        "Rosamund Pike",
+        "Neil Patrick Harris"
+      ],
+      "posterImage": "https://image.tmdb.org/t/p/w500/54nI3vSKlPp42WhJmKVRdmMbkzl.jpg",
+      "whereToWatch": [
+        "Prime Video",
+        "Disney+"
+      ],
+      "synopsis": "No dia de seu aniversário de casamento, uma mulher inteligente desaparece e as suspeitas de assassinato recaem sobre o marido sob o circo da mídia.",
+      "whyWatch": "Rosamund Pike entrega uma performance antológica que redefiniu o conceito de manipulação psicológica no cinema contemporâneo.",
+      "highlightPoints": [
+        "Roteiro brilhante de Gillian Flynn",
+        "Monólogo visceral da 'Cool Girl'"
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "Cisne Negro (Black Swan)",
+      "year": 2010,
+      "director": "Darren Aronofsky",
       "score": 9.2,
-      "posterImage": "https://image.tmdb.org/t/p/w500/54nI3vSKlPp42WhJmKVRdmMbkzl.jpg"
+      "highlightTag": "Oscar de Melhor Atriz",
+      "cast": [
+        "Natalie Portman",
+        "Mila Kunis",
+        "Vincent Cassel"
+      ],
+      "posterImage": "https://image.tmdb.org/t/p/w500/tqlmLBt2i5SHNpXEj2nqk10Crwa.jpg",
+      "whereToWatch": [
+        "Disney+",
+        "Apple TV+"
+      ],
+      "synopsis": "Uma bailarina dedicada conquista o papel principal em O Lago dos Cisnes, mas a pressão por perfeição a faz perder o contato entre alucinações e a realidade.",
+      "whyWatch": "Assim como em Ilha do Medo, o espectador mergulha na mente fragmentada da protagonista sem saber o que é delírio e o que é fato.",
+      "highlightPoints": [
+        "Atuação impecável de Natalie Portman",
+        "Metáfora brilhante sobre obsessão artística"
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Qual filme é mais parecido com Ilha do Medo?",
+      "answer": "Os Suspeitos (Prisoners) e Seven compartilham da mesma atmosfera cinzenta e dilemas morais com investigações profundas."
+    },
+    {
+      "question": "Onde assistir aos suspenses psicológicos com reviravoltas?",
+      "answer": "Estão todos disponíveis nos catálogos da Max, Prime Video e Disney+ no Brasil com alta definição."
     }
   ]
 }
