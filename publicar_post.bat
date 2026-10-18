@@ -22,15 +22,18 @@ if %errorlevel% neq 0 (
 ) else (
     set PYTHON_CMD=python
 )
-
+:menu_principal
+echo.
 echo Escolha o formato de ouro do artigo:
 echo   [1] 5 Filmes Parecidos com [FILME] para Assistir Depois
 echo   [2] 7 Melhores Filmes de [GENERO] na [PLATAFORMA] (2026)
 echo   [3] Que Dia Sai o Episodio [X] de [SERIE]? (Calendario Semanal)
 echo   [4] Top 5 Filmes por Tema Personalizado
 echo   [5] Sincronizar alteracoes pendentes no GitHub e Vercel
+echo   [6] Gerenciar Fila de Posts Agendados (Verificar e Publicar Vencidos)
 echo.
-choice /c 12345 /n /m "Digite a opcao desejada [1, 2, 3, 4 ou 5]: "
+choice /c 123456 /n /m "Digite a opcao desejada [1 a 6]: "
+if errorlevel 6 goto :opcao_agendamento
 if errorlevel 5 goto :fazer_deploy
 if errorlevel 4 goto :opcao_personalizado
 if errorlevel 3 goto :opcao_episodio
@@ -147,3 +150,53 @@ echo   PUBLICACAO CONCLUIDA COM SUCESSO!
 echo   Acesse em: https://filmeja.com.br
 echo ========================================================
 pause
+goto :menu_principal
+
+:opcao_agendamento
+echo.
+echo ========================================================
+echo        GERENCIADOR DE AGENDAMENTO DE POSTS
+echo ========================================================
+echo   [1] Ver fila de posts agendados
+echo   [2] Verificar e publicar posts vencidos agora (Deploy)
+echo   [3] Agendar um post existente para data futura
+echo   [4] Voltar ao menu principal
+echo.
+choice /c 1234 /n /m "Digite a opcao desejada [1, 2, 3 ou 4]: "
+if errorlevel 4 goto :menu_principal
+if errorlevel 3 goto :agendar_manual
+if errorlevel 2 goto :publicar_agendados_agora
+if errorlevel 1 goto :listar_fila
+
+:listar_fila
+echo.
+%PYTHON_CMD% scripts/agendador.py --listar
+echo.
+pause
+goto :opcao_agendamento
+
+:publicar_agendados_agora
+echo.
+echo [1/1] Verificando posts agendados com data vencida...
+%PYTHON_CMD% scripts/agendador.py --verificar
+echo.
+pause
+goto :opcao_agendamento
+
+:agendar_manual
+echo.
+echo Posts disponiveis na pasta de artigos ativos:
+dir /b src\content\posts\*.json
+echo.
+set /p ARQ_POST="Digite o nome do arquivo JSON a agendar: "
+if "%ARQ_POST%"=="" (
+    echo [ERRO] O nome do arquivo nao pode ficar vazio.
+    pause
+    goto :opcao_agendamento
+)
+set /p DIAS="Para daqui a quantos dias deseja agendar? (ex: 1, 2, 3...): "
+if "%DIAS%"=="" set DIAS=1
+%PYTHON_CMD% scripts/agendador.py --agendar-arquivo "%ARQ_POST%" --dias-a-frente %DIAS%
+echo.
+pause
+goto :opcao_agendamento

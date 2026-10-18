@@ -1,5 +1,5 @@
 {
-  "id": "post-1792338854",
+  "id": "post-1792345725",
   "slug": "que-dia-sai-episodio-9-de-materia-escura-temporada-1-data-horario",
   "title": "Que Dia Sai o Episódio 9 de Materia Escura? Data, Horário e Calendário Completo na Apple TV+",
   "subtitle": "Confira a data e o horário exato de lançamento do novo episódio da 1ª temporada de Materia Escura, o que esperar da continuação e o cronograma de exibição no Brasil.",
@@ -10,8 +10,8 @@
     "Lançamentos",
     "Calendário de Episódios"
   ],
-  "publishedAt": "2026-10-18T15:54:14.358639+00:00",
-  "updatedAt": "2026-10-18T15:54:14.358639+00:00",
+  "publishedAt": "2026-10-21T12:00:00Z",
+  "updatedAt": "2026-10-21T12:00:00Z",
   "author": {
     "name": "Marcos Vinicius",
     "role": "Especialista em Séries & Lançamentos Semanais",
@@ -36,7 +36,7 @@
     "seasonNumber": 1,
     "episodeNumber": 9,
     "nextEpisodeDate": "quarta-feira",
-    "nextEpisodeTime": "22h (horário de Brasília)",
+    "nextEpisodeTime": "22h (horario de Brasilia)",
     "platform": "Apple TV+",
     "totalEpisodes": 9
   },
@@ -48,11 +48,12 @@
     },
     {
       "question": "A que horas o episódio 9 fica disponível no streaming?",
-      "answer": "No Brasil, os episódios do Apple TV+ geralmente são liberados a partir das 22h (horário de Brasília) com opção de áudio original legendado e dublagem em português."
+      "answer": "No Brasil, os episódios do Apple TV+ geralmente são liberados a partir das 22h (horario de Brasilia) com opção de áudio original legendado e dublagem em português."
     },
     {
       "question": "Quantos episódios tem a temporada de Materia Escura?",
       "answer": "A temporada conta com um total de 9 episódios exibidos semanalmente, culminando no aguardado Season Finale."
     }
-  ]
+  ],
+  "scheduledFor": "2026-10-21T12:00:00Z"
 }

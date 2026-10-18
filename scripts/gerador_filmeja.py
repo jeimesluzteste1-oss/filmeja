@@ -83,7 +83,11 @@ TMDB_POSTERS = {
     "the last of us": "https://image.tmdb.org/t/p/w500/uKvVjK1olIuUUpK2fbg9m0832p.jpg",
     "silo": "https://image.tmdb.org/t/p/w500/1N1T9g7W8G9bJ7r7Y1C7eL6mZ0.jpg",
     "silô": "https://image.tmdb.org/t/p/w500/1N1T9g7W8G9bJ7r7Y1C7eL6mZ0.jpg",
-    "stranger things": "https://image.tmdb.org/t/p/w500/49WJfeN0moxb9IPfGn8AIqMGskD.jpg"
+    "stranger things": "https://image.tmdb.org/t/p/w500/49WJfeN0moxb9IPfGn8AIqMGskD.jpg",
+    "duna a profecia": "https://image.tmdb.org/t/p/w500/oWVohNsxkxA3u92EzRo8fTuXIS0.jpg",
+    "duna: a profecia": "https://image.tmdb.org/t/p/w500/oWVohNsxkxA3u92EzRo8fTuXIS0.jpg",
+    "dune prophecy": "https://image.tmdb.org/t/p/w500/oWVohNsxkxA3u92EzRo8fTuXIS0.jpg",
+    "arcane": "https://image.tmdb.org/t/p/w500/fqldf2t8ztc9aiwn3k6mlX3tvRT.jpg"
 }
 
 AUTHORS = {
