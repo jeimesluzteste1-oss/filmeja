@@ -86,8 +86,16 @@ TMDB_POSTERS = {
     "stranger things": "https://image.tmdb.org/t/p/w500/49WJfeN0moxb9IPfGn8AIqMGskD.jpg",
     "duna a profecia": "https://image.tmdb.org/t/p/w500/oWVohNsxkxA3u92EzRo8fTuXIS0.jpg",
     "duna: a profecia": "https://image.tmdb.org/t/p/w500/oWVohNsxkxA3u92EzRo8fTuXIS0.jpg",
-    "dune prophecy": "https://image.tmdb.org/t/p/w500/oWVohNsxkxA3u92EzRo8fTuXIS0.jpg",
-    "arcane": "https://image.tmdb.org/t/p/w500/fqldf2t8ztc9aiwn3k6mlX3tvRT.jpg"
+    "arcane": "https://image.tmdb.org/t/p/w500/fqldf2t8ztc9aiwn3k6mlX3tvRT.jpg",
+    "visionquest": "https://image.tmdb.org/t/p/w500/WGyAyBPncfuu8MZhLY9RtfZPM0.jpg",
+    "vision quest": "https://image.tmdb.org/t/p/w500/WGyAyBPncfuu8MZhLY9RtfZPM0.jpg",
+    "visao": "https://image.tmdb.org/t/p/w500/WGyAyBPncfuu8MZhLY9RtfZPM0.jpg",
+    "visão": "https://image.tmdb.org/t/p/w500/WGyAyBPncfuu8MZhLY9RtfZPM0.jpg",
+    "avengers: doomsday": "https://image.tmdb.org/t/p/w500/jzPwsojjFStf5lR5Nm07w2hH56G.jpg",
+    "vingadores: doomsday": "https://image.tmdb.org/t/p/w500/jzPwsojjFStf5lR5Nm07w2hH56G.jpg",
+    "vingadores doomsday": "https://image.tmdb.org/t/p/w500/jzPwsojjFStf5lR5Nm07w2hH56G.jpg",
+    "doomsday": "https://image.tmdb.org/t/p/w500/jzPwsojjFStf5lR5Nm07w2hH56G.jpg",
+    "superman": "https://image.tmdb.org/t/p/w500/ombsmhkwN1sCLTaOxP9twTGlBZy.jpg"
 }
 
 AUTHORS = {
@@ -160,6 +168,14 @@ def salvar_post(post: dict) -> str:
     with open(filepath, "w", encoding="utf-8") as f:
         json.dump(post, f, ensure_ascii=False, indent=2)
     logger.info(f"Artigo salvo com sucesso em: {filename}")
+    
+    # Salva o nome do arquivo para automação no .bat
+    temp_dir = os.path.join(PROJECT_ROOT, "scripts")
+    try:
+        with open(os.path.join(temp_dir, ".ultimo_post.txt"), "w", encoding="utf-8") as f:
+            f.write(filename)
+    except Exception:
+        pass
     return filepath
 
 def publicar_deploy():
@@ -347,16 +363,71 @@ def gerar_post_episodio(serie: str, temporada: int = 1, episodio: int = 1, data_
         ]
     }
 
+def gerar_post_lancamento(filme: str, data_estreia: str, detalhes: str = "", streaming: str = "Disney+") -> dict:
+    """Gera post no formato de ouro: 'Tudo Sobre [FILME]: Data de Estreia, Elenco e Onde Assistir'."""
+    autor = AUTHORS["thiago"] if any(k in filme.lower() for k in ["vingadores", "marvel", "homem-aranha", "dc", "superman", "batman"]) else AUTHORS["lucas"]
+    slug = slugify(f"{filme}-data-estreia-elenco-onde-assistir")
+    now_iso = datetime.now(timezone.utc).isoformat()
+    cover = buscar_poster_tmdb(filme)
+    
+    return {
+        "id": f"post-{int(time.time())}",
+        "slug": slug,
+        "title": f"{filme}: Data de Estreia, Elenco Completo e Onde Assistir",
+        "subtitle": f"Confira tudo o que já sabemos sobre a estreia de {filme}: data confirmada no Brasil, revelações dos bastidores, elenco estelar e previsão no streaming.",
+        "type": "lancamento",
+        "genres": ["Cinema", "Lançamentos", "Blockbusters", streaming],
+        "publishedAt": now_iso,
+        "updatedAt": now_iso,
+        "author": autor,
+        "coverImage": cover,
+        "posterImage": cover,
+        "readingTime": "5 min de leitura",
+        "seo": {
+            "metaTitle": f"{filme}: Data de Estreia nos Cinemas e Onde Assistir | FilmeJá",
+            "metaDescription": f"Saiba quando estreia {filme} nos cinemas do Brasil. Veja o elenco completo, novidades de bastidores, conexões do universo e chegada ao {streaming}.",
+            "keywords": [
+                f"{filme.lower()} data de estreia brasil",
+                f"{filme.lower()} elenco",
+                f"{filme.lower()} onde assistir",
+                f"quando estreia {filme.lower()}",
+                f"{filme.lower()} streaming {streaming.lower()}"
+            ]
+        },
+        "content": f"O anúncio de {filme} mexeu com as estruturas da cultura pop mundial e já desponta como um dos lançamentos mais aguardados da história recente do cinema. Reunindo grandes nomes da indústria, a produção promete redefinir os rumos da franquia e atrair multidões às salas de exibição no Brasil.",
+        "movieInfo": {
+            "title": filme,
+            "releaseDate": data_estreia,
+            "futureStreaming": streaming,
+            "productionDetails": detalhes or "Superprodução oficial com estreia confirmada nos cinemas."
+        },
+        "faqs": [
+            {
+                "question": f"Quando {filme} estreia nos cinemas do Brasil?",
+                "answer": f"A estreia oficial no Brasil está confirmada para {data_estreia}, com sessões antecipadas nas principais redes de cinema."
+            },
+            {
+                "question": f"Onde assistir a {filme} no streaming após o cinema?",
+                "answer": f"Após a janela exclusiva de exibição nas telonas e lançamento para aluguel digital, o filme chegará ao catálogo da plataforma {streaming}."
+            },
+            {
+                "question": f"Por que a expectativa por {filme} é tão alta?",
+                "answer": f"A produção marca um ponto de virada histórico na franquia, combinando elenco consagrado, retorno de figuras lendárias e efeitos visuais de ponta."
+            }
+        ]
+    }
+
 def main():
     parser = argparse.ArgumentParser(description="Automacao & Publicacao FilmeJa")
-    parser.add_argument("--formato", choices=["parecidos", "streaming", "episodio", "padrao"], default="padrao", help="Formato de ouro SEO")
+    parser.add_argument("--formato", choices=["parecidos", "streaming", "episodio", "lancamento", "padrao"], default="padrao", help="Formato de ouro SEO")
     parser.add_argument("--serie", default="", help="Nome da serie para formato episodio")
     parser.add_argument("--temporada", type=int, default=1, help="Numero da temporada")
     parser.add_argument("--episodio", type=int, default=1, help="Numero do episodio")
-    parser.add_argument("--data-estreia", default="esta semana", help="Data de estreia do episodio")
+    parser.add_argument("--data-estreia", default="esta semana", help="Data de estreia do episodio ou filme")
     parser.add_argument("--horario", default="22h (horario de Brasilia)", help="Horario de estreia")
-    parser.add_argument("--filme", default="", help="Nome do filme base para 'parecidos'")
-    parser.add_argument("--plataforma", default="Netflix", help="Plataforma de streaming (Netflix, Prime Video, Max, Apple TV+)")
+    parser.add_argument("--filme", default="", help="Nome do filme para 'parecidos' ou 'lancamento'")
+    parser.add_argument("--detalhes", default="", help="Detalhes extras do lancamento")
+    parser.add_argument("--plataforma", default="Netflix", help="Plataforma de streaming (Netflix, Prime Video, Max, Apple TV+, Disney+)")
     parser.add_argument("--tema", default="", help="Tema do artigo")
     parser.add_argument("--genero", default="Cinema", help="Genero principal")
     parser.add_argument("--publicar", action="store_true", help="Dispara git push e vercel deploy")
@@ -378,6 +449,14 @@ def main():
         salvar_post(post)
     elif args.formato == "streaming":
         post = gerar_post_streaming(args.genero, args.plataforma)
+        salvar_post(post)
+    elif args.formato == "lancamento" and args.filme:
+        post = gerar_post_lancamento(
+            filme=args.filme,
+            data_estreia=args.data_estreia,
+            detalhes=args.detalhes,
+            streaming=args.plataforma
+        )
         salvar_post(post)
     elif args.tema:
         autor = selecionar_autor(args.genero, args.tema)
