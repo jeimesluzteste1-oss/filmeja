@@ -1,0 +1,52 @@
+{
+  "id": "post-1792348421-4-2",
+  "slug": "5-filmes-parecidos-com-garota-exemplar-sobre-casamentos-toxicos",
+  "title": "5 Filmes Parecidos com Garota Exemplar sobre Manipulação e Casamentos Tóxicos",
+  "subtitle": "Relacionamentos perigosos e jogos mentais calculados para quem ama o cinema de David Fincher.",
+  "type": "list",
+  "genres": [
+    "Suspense",
+    "Thrillers Psicológicos",
+    "Crimes"
+  ],
+  "publishedAt": "2026-10-22T19:00:00Z",
+  "scheduledFor": "2026-10-22T19:00:00Z",
+  "updatedAt": "2026-10-22T19:00:00Z",
+  "author": {
+    "name": "Guilherme Santos",
+    "role": "Editor de Thrillers & Policiais",
+    "avatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=100&auto=format&fit=crop&q=80"
+  },
+  "coverImage": "https://image.tmdb.org/t/p/w500/54nI3vSKlPp42WhJmKVRdmMbkzl.jpg",
+  "posterImage": "https://image.tmdb.org/t/p/w500/54nI3vSKlPp42WhJmKVRdmMbkzl.jpg",
+  "readingTime": "5 min de leitura",
+  "seo": {
+    "metaTitle": "5 Filmes Parecidos com Garota Exemplar sobre Manipulaçã | FilmeJá",
+    "metaDescription": "Relacionamentos perigosos e jogos mentais calculados para quem ama o cinema de David Fincher.",
+    "keywords": [
+      "5 filmes parecidos com garota exemplar sobre casamentos toxicos",
+      "5 filmes parecidos com garota exemplar sobre manipulação e casamentos tóxicos",
+      "onde assistir 5",
+      "filmeja cinema e streaming"
+    ]
+  },
+  "content": "A mente afiada de Amy Dunne transformou Garota Exemplar em uma referência de thriller psicológico. Veja títulos que exploram a mesma paranoia conjugal.",
+  "faqs": [
+    {
+      "question": "Qual o melhor filme parecido com Garota Exemplar?",
+      "answer": "Entre Facas e Segredos e A Pele que Habito são os mais aclamados."
+    }
+  ],
+  "listItems": [
+    {
+      "rank": 1,
+      "title": "A Pele que Habito",
+      "year": 2011,
+      "whereToWatch": [
+        "Prime Video"
+      ],
+      "score": 9.1,
+      "posterImage": "https://image.tmdb.org/t/p/w500/90hbSeBsev4hezgzkyW8tkio2dp.jpg"
+    }
+  ]
+}

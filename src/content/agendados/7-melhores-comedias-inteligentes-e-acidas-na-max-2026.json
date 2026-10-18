@@ -1,0 +1,53 @@
+{
+  "id": "post-1792348421-6-3",
+  "slug": "7-melhores-comedias-inteligentes-e-acidas-na-max-2026",
+  "title": "7 Melhores Comédias Inteligentes e Ácidas na Max para Rir Alto em 2026",
+  "subtitle": "Sátiras sociais, humor requintado e diálogos afiados selecionados no streaming.",
+  "type": "streaming",
+  "genres": [
+    "Comédia",
+    "Max",
+    "Sátira"
+  ],
+  "publishedAt": "2026-10-24T22:30:00Z",
+  "scheduledFor": "2026-10-24T22:30:00Z",
+  "updatedAt": "2026-10-24T22:30:00Z",
+  "author": {
+    "name": "Lucas Andrade",
+    "role": "Crítico Sênior & Editor-Chefe",
+    "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=100&auto=format&fit=crop&q=80"
+  },
+  "coverImage": "https://image.tmdb.org/t/p/w500/9H8PNc4JJRjPnfSh8gGukD0CbqQ.jpg",
+  "posterImage": "https://image.tmdb.org/t/p/w500/9H8PNc4JJRjPnfSh8gGukD0CbqQ.jpg",
+  "readingTime": "5 min de leitura",
+  "seo": {
+    "metaTitle": "7 Melhores Comédias Inteligentes e Ácidas na Max para R | FilmeJá",
+    "metaDescription": "Sátiras sociais, humor requintado e diálogos afiados selecionados no streaming.",
+    "keywords": [
+      "7 melhores comedias inteligentes e acidas na max 2026",
+      "7 melhores comédias inteligentes e ácidas na max para rir alto em 2026",
+      "onde assistir 7",
+      "filmeja cinema e streaming"
+    ]
+  },
+  "content": "Para quem foge de piadas previsíveis e busca filmes que satirizam o poder, a fama e a futilidade contemporânea.",
+  "faqs": [
+    {
+      "question": "Quais as melhores comédias na Max?",
+      "answer": "Entre Facas e Segredos, O Menu e O Grande Lebowski são pontos altos."
+    }
+  ],
+  "listItems": [
+    {
+      "rank": 1,
+      "title": "Entre Facas e Segredos",
+      "year": 2019,
+      "whereToWatch": [
+        "Max",
+        "Prime Video"
+      ],
+      "score": 9.3,
+      "posterImage": "https://image.tmdb.org/t/p/w500/9H8PNc4JJRjPnfSh8gGukD0CbqQ.jpg"
+    }
+  ]
+}

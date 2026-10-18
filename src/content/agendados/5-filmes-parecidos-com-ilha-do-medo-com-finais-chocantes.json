@@ -1,0 +1,53 @@
+{
+  "id": "post-1792348421-3-2",
+  "slug": "5-filmes-parecidos-com-ilha-do-medo-com-finais-chocantes",
+  "title": "5 Filmes Parecidos com Ilha do Medo com Finais Surpreendentes",
+  "subtitle": "Thrillers psicológicos com reviravoltas inesquecíveis que desafiam tudo o que você pensou saber até o último minuto.",
+  "type": "list",
+  "genres": [
+    "Suspense",
+    "Mistério",
+    "Plot Twists"
+  ],
+  "publishedAt": "2026-10-21T19:00:00Z",
+  "scheduledFor": "2026-10-21T19:00:00Z",
+  "updatedAt": "2026-10-21T19:00:00Z",
+  "author": {
+    "name": "Guilherme Santos",
+    "role": "Editor de Thrillers & Policiais",
+    "avatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=100&auto=format&fit=crop&q=80"
+  },
+  "coverImage": "https://image.tmdb.org/t/p/w500/erl801HYIodoIBGZeFk0GTwCUBh.jpg",
+  "posterImage": "https://image.tmdb.org/t/p/w500/erl801HYIodoIBGZeFk0GTwCUBh.jpg",
+  "readingTime": "5 min de leitura",
+  "seo": {
+    "metaTitle": "5 Filmes Parecidos com Ilha do Medo com Finais Surpreen | FilmeJá",
+    "metaDescription": "Thrillers psicológicos com reviravoltas inesquecíveis que desafiam tudo o que você pensou saber até o último minuto.",
+    "keywords": [
+      "5 filmes parecidos com ilha do medo com finais chocantes",
+      "5 filmes parecidos com ilha do medo com finais surpreendentes",
+      "onde assistir 5",
+      "filmeja cinema e streaming"
+    ]
+  },
+  "content": "Martin Scorsese e Leonardo DiCaprio criaram um dos finais mais debatidos do cinema moderno. Reunimos cinco filmes que causam o mesmo impacto cognitivo.",
+  "faqs": [
+    {
+      "question": "O que assistir depois de Ilha do Medo?",
+      "answer": "Garota Exemplar, Os Suspeitos e Amnésia são os mais recomendados."
+    }
+  ],
+  "listItems": [
+    {
+      "rank": 1,
+      "title": "Garota Exemplar",
+      "year": 2014,
+      "whereToWatch": [
+        "Max",
+        "Prime Video"
+      ],
+      "score": 9.2,
+      "posterImage": "https://image.tmdb.org/t/p/w500/54nI3vSKlPp42WhJmKVRdmMbkzl.jpg"
+    }
+  ]
+}

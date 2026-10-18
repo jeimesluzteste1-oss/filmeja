@@ -1,17 +1,18 @@
 {
-  "id": "post-1792344359",
+  "id": "post-1792348421-1-0",
   "slug": "que-dia-sai-episodio-1-de-silo-temporada-2-data-horario",
-  "title": "Que Dia Sai o Episódio 1 de Silo? Data, Horário e Calendário Completo na Apple TV+",
-  "subtitle": "Confira a data e o horário exato de lançamento do novo episódio da 2ª temporada de Silo, o que esperar da continuação e o cronograma de exibição no Brasil.",
+  "title": "Que Dia Sai o Episódio 1 de Silo (2ª Temporada)? Data e Horário na Apple TV+",
+  "subtitle": "Confira o retorno da distopia subterrânea com Rebecca Ferguson, cronograma de episódios no Brasil e o que esperar do lado de fora.",
   "type": "episodio",
   "genres": [
     "Séries",
     "Apple TV+",
-    "Lançamentos",
-    "Calendário de Episódios"
+    "Ficção Científica",
+    "Lançamentos"
   ],
-  "publishedAt": "2026-10-19T12:00:00Z",
-  "updatedAt": "2026-10-19T12:00:00Z",
+  "publishedAt": "2026-10-19T11:00:00Z",
+  "scheduledFor": "2026-10-19T11:00:00Z",
+  "updatedAt": "2026-10-19T11:00:00Z",
   "author": {
     "name": "Marcos Vinicius",
     "role": "Especialista em Séries & Lançamentos Semanais",
@@ -21,39 +22,33 @@
   "posterImage": "https://image.tmdb.org/t/p/w500/1N1T9g7W8G9bJ7r7Y1C7eL6mZ0.jpg",
   "readingTime": "4 min de leitura",
   "seo": {
-    "metaTitle": "Que Dia Sai o Episódio 1 de Silo? Horário e Data | FilmeJá",
-    "metaDescription": "Saiba quando sai o episódio 1 da 2ª temporada de Silo na Apple TV+. Horário de estreia no Brasil, resumo sem spoilers e calendário semanal.",
+    "metaTitle": "Que Dia Sai o Episódio 1 de Silo (2ª Temporada)? Data e | FilmeJá",
+    "metaDescription": "Confira o retorno da distopia subterrânea com Rebecca Ferguson, cronograma de episódios no Brasil e o que esperar do lado de fora.",
     "keywords": [
-      "que dia sai o episodio 1 de silo",
-      "quando sai novo episodio de silo",
-      "silo episodio 1 data",
-      "silo horario de lancamento brasil",
-      "calendario de episodios silo"
+      "que dia sai episodio 1 de silo temporada 2 data horario",
+      "que dia sai o episódio 1 de silo (2ª temporada)? data e horário na apple tv+",
+      "onde assistir que",
+      "filmeja cinema e streaming"
     ]
   },
+  "content": "A aguardada 2ª temporada de Silo chega com respostas urgentes após o desfecho estarrecedor de Juliette Nichols no lado de fora. A série da Apple TV+ consolidou-se como um dos maiores fenômenos de sci-fi do streaming mundial.",
+  "faqs": [
+    {
+      "question": "Que dia sai o novo episódio de Silo?",
+      "answer": "Os episódios da 2ª temporada estreiam semanalmente às sextas-feiras no catálogo da Apple TV+."
+    },
+    {
+      "question": "A que horas sai Silo no Brasil?",
+      "answer": "Fica disponível pontualmente às 05h00 da manhã (horário de Brasília) com dublagem e legendas."
+    }
+  ],
   "seriesInfo": {
     "seriesTitle": "Silo",
     "seasonNumber": 2,
     "episodeNumber": 1,
     "nextEpisodeDate": "15 de novembro",
-    "nextEpisodeTime": "05h da manhã (horário de Brasília)",
+    "nextEpisodeTime": "05h da manhã",
     "platform": "Apple TV+",
-    "totalEpisodes": 9
-  },
-  "content": "A corrida para descobrir o desfecho de Silo transformou as noites de lançamento em um verdadeiro evento para os fãs de séries no Brasil. Se você está acompanhando semanalmente pelo catálogo da Apple TV+, detalhamos abaixo a data confirmada, o horário exato em que o episódio fica disponível com dublagem e legendas e o que esperar dos próximos desdobramentos.",
-  "faqs": [
-    {
-      "question": "Que dia sai o episódio 1 de Silo no Brasil?",
-      "answer": "O novo episódio estreia oficialmente em 15 de novembro, disponível diretamente no catálogo do Apple TV+ para assinantes no Brasil."
-    },
-    {
-      "question": "A que horas o episódio 1 fica disponível no streaming?",
-      "answer": "No Brasil, os episódios do Apple TV+ geralmente são liberados a partir das 05h da manhã (horário de Brasília) com opção de áudio original legendado e dublagem em português."
-    },
-    {
-      "question": "Quantos episódios tem a temporada de Silo?",
-      "answer": "A temporada conta com um total de 9 episódios exibidos semanalmente, culminando no aguardado Season Finale."
-    }
-  ],
-  "scheduledFor": "2026-10-19T12:00:00Z"
+    "totalEpisodes": 10
+  }
 }

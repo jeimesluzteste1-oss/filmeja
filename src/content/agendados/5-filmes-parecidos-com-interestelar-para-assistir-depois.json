@@ -1,0 +1,53 @@
+{
+  "id": "post-1792348421-2-2",
+  "slug": "5-filmes-parecidos-com-interestelar-para-assistir-depois",
+  "title": "5 Filmes Parecidos com Interestelar sobre Viagens Cósmicas e o Tempo",
+  "subtitle": "Para quem amou a obra de Christopher Nolan, selecionamos produções de ficção científica que exploram buracos negros e o infinito.",
+  "type": "list",
+  "genres": [
+    "Ficção Científica",
+    "Espaço",
+    "Cinema"
+  ],
+  "publishedAt": "2026-10-20T19:00:00Z",
+  "scheduledFor": "2026-10-20T19:00:00Z",
+  "updatedAt": "2026-10-20T19:00:00Z",
+  "author": {
+    "name": "Camila Fontes",
+    "role": "Crítica de Sci-Fi & Fantasia",
+    "avatar": "https://images.unsplash.com/photo-1517841905240-472988babdf9?w=100&auto=format&fit=crop&q=80"
+  },
+  "coverImage": "https://image.tmdb.org/t/p/w500/tR1XVa5bxgdh2bRw2u0DzrgkO2l.jpg",
+  "posterImage": "https://image.tmdb.org/t/p/w500/tR1XVa5bxgdh2bRw2u0DzrgkO2l.jpg",
+  "readingTime": "5 min de leitura",
+  "seo": {
+    "metaTitle": "5 Filmes Parecidos com Interestelar sobre Viagens Cósmi | FilmeJá",
+    "metaDescription": "Para quem amou a obra de Christopher Nolan, selecionamos produções de ficção científica que exploram buracos negros e o infinito.",
+    "keywords": [
+      "5 filmes parecidos com interestelar para assistir depois",
+      "5 filmes parecidos com interestelar sobre viagens cósmicas e o tempo",
+      "onde assistir 5",
+      "filmeja cinema e streaming"
+    ]
+  },
+  "content": "Interestelar é um marco moderno do cinema de exploração cósmica. Estas produções combinam rigor científico e emoção transcendental.",
+  "faqs": [
+    {
+      "question": "Onde assistir a Interestelar online?",
+      "answer": "Disponível no catálogo da Max e Prime Video no Brasil."
+    }
+  ],
+  "listItems": [
+    {
+      "rank": 1,
+      "title": "A Chegada",
+      "year": 2016,
+      "whereToWatch": [
+        "Netflix",
+        "Prime Video"
+      ],
+      "score": 9.4,
+      "posterImage": "https://image.tmdb.org/t/p/w500/3rDwbFpn6z5HJUgDjpfhEePx8VI.jpg"
+    }
+  ]
+}

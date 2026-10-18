@@ -1,0 +1,52 @@
+{
+  "id": "post-1792348421-2-3",
+  "slug": "7-melhores-filmes-de-ficcao-cientifica-no-prime-video-2026",
+  "title": "7 Melhores Filmes de Ficção Científica no Prime Video para Assistir em 2026",
+  "subtitle": "Inteligência artificial, futuros distópicos e mistérios quânticos reunidos no catálogo da Amazon.",
+  "type": "streaming",
+  "genres": [
+    "Ficção Científica",
+    "Prime Video",
+    "Dicas de Streaming"
+  ],
+  "publishedAt": "2026-10-20T22:30:00Z",
+  "scheduledFor": "2026-10-20T22:30:00Z",
+  "updatedAt": "2026-10-20T22:30:00Z",
+  "author": {
+    "name": "Camila Fontes",
+    "role": "Crítica de Sci-Fi & Fantasia",
+    "avatar": "https://images.unsplash.com/photo-1517841905240-472988babdf9?w=100&auto=format&fit=crop&q=80"
+  },
+  "coverImage": "https://image.tmdb.org/t/p/w500/hfpnFtgcYom9Gk9s1IyWiovpZYg.jpg",
+  "posterImage": "https://image.tmdb.org/t/p/w500/hfpnFtgcYom9Gk9s1IyWiovpZYg.jpg",
+  "readingTime": "5 min de leitura",
+  "seo": {
+    "metaTitle": "7 Melhores Filmes de Ficção Científica no Prime Video p | FilmeJá",
+    "metaDescription": "Inteligência artificial, futuros distópicos e mistérios quânticos reunidos no catálogo da Amazon.",
+    "keywords": [
+      "7 melhores filmes de ficcao cientifica no prime video 2026",
+      "7 melhores filmes de ficção científica no prime video para assistir em 2026",
+      "onde assistir 7",
+      "filmeja cinema e streaming"
+    ]
+  },
+  "content": "O Prime Video reúne um dos acervos mais premiados de sci-fi da atualidade.",
+  "faqs": [
+    {
+      "question": "Qual melhor sci-fi do Prime Video?",
+      "answer": "Ex Machina e Blade Runner 2049 são escolhas essenciais."
+    }
+  ],
+  "listItems": [
+    {
+      "rank": 1,
+      "title": "Ex Machina",
+      "year": 2014,
+      "whereToWatch": [
+        "Prime Video"
+      ],
+      "score": 9.1,
+      "posterImage": "https://image.tmdb.org/t/p/w500/hfpnFtgcYom9Gk9s1IyWiovpZYg.jpg"
+    }
+  ]
+}

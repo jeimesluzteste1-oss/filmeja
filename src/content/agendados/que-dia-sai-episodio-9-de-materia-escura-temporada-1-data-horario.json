@@ -1,17 +1,18 @@
 {
-  "id": "post-1792345725",
+  "id": "post-1792348421-3-0",
   "slug": "que-dia-sai-episodio-9-de-materia-escura-temporada-1-data-horario",
-  "title": "Que Dia Sai o Episódio 9 de Materia Escura? Data, Horário e Calendário Completo na Apple TV+",
-  "subtitle": "Confira a data e o horário exato de lançamento do novo episódio da 1ª temporada de Materia Escura, o que esperar da continuação e o cronograma de exibição no Brasil.",
+  "title": "Que Dia Sai o Episódio 9 de Matéria Escura (Season Finale)? Data e Horário na Apple TV+",
+  "subtitle": "O desfecho da corrida através do multiverso com Joel Edgerton e Jennifer Connelly.",
   "type": "episodio",
   "genres": [
     "Séries",
     "Apple TV+",
-    "Lançamentos",
-    "Calendário de Episódios"
+    "Ficção Científica",
+    "Suspense"
   ],
-  "publishedAt": "2026-10-21T12:00:00Z",
-  "updatedAt": "2026-10-21T12:00:00Z",
+  "publishedAt": "2026-10-21T11:00:00Z",
+  "scheduledFor": "2026-10-21T11:00:00Z",
+  "updatedAt": "2026-10-21T11:00:00Z",
   "author": {
     "name": "Marcos Vinicius",
     "role": "Especialista em Séries & Lançamentos Semanais",
@@ -21,39 +22,29 @@
   "posterImage": "https://image.tmdb.org/t/p/w500/b1x6jhVz93wM1tA0O92E461P11c.jpg",
   "readingTime": "4 min de leitura",
   "seo": {
-    "metaTitle": "Que Dia Sai o Episódio 9 de Materia Escura? Horário e Data | FilmeJá",
-    "metaDescription": "Saiba quando sai o episódio 9 da 1ª temporada de Materia Escura na Apple TV+. Horário de estreia no Brasil, resumo sem spoilers e calendário semanal.",
+    "metaTitle": "Que Dia Sai o Episódio 9 de Matéria Escura (Season Fina | FilmeJá",
+    "metaDescription": "O desfecho da corrida através do multiverso com Joel Edgerton e Jennifer Connelly.",
     "keywords": [
-      "que dia sai o episodio 9 de materia escura",
-      "quando sai novo episodio de materia escura",
-      "materia escura episodio 9 data",
-      "materia escura horario de lancamento brasil",
-      "calendario de episodios materia escura"
+      "que dia sai episodio 9 de materia escura temporada 1 data horario",
+      "que dia sai o episódio 9 de matéria escura (season finale)? data e horário na apple tv+",
+      "onde assistir que",
+      "filmeja cinema e streaming"
     ]
   },
+  "content": "A adaptação do livro de Blake Crouch chega ao ápice emocional em seu nono episódio, onde múltiplos Jason Dessen lutam para proteger sua família original.",
+  "faqs": [
+    {
+      "question": "Onde assistir a Matéria Escura?",
+      "answer": "Disponível exclusivamente no catálogo da Apple TV+ com áudio 4K e HDR."
+    }
+  ],
   "seriesInfo": {
-    "seriesTitle": "Materia Escura",
+    "seriesTitle": "Matéria Escura",
     "seasonNumber": 1,
     "episodeNumber": 9,
     "nextEpisodeDate": "quarta-feira",
-    "nextEpisodeTime": "22h (horario de Brasilia)",
+    "nextEpisodeTime": "22h (horário de Brasília)",
     "platform": "Apple TV+",
     "totalEpisodes": 9
-  },
-  "content": "A corrida para descobrir o desfecho de Materia Escura transformou as noites de lançamento em um verdadeiro evento para os fãs de séries no Brasil. Se você está acompanhando semanalmente pelo catálogo da Apple TV+, detalhamos abaixo a data confirmada, o horário exato em que o episódio fica disponível com dublagem e legendas e o que esperar dos próximos desdobramentos.",
-  "faqs": [
-    {
-      "question": "Que dia sai o episódio 9 de Materia Escura no Brasil?",
-      "answer": "O novo episódio estreia oficialmente em quarta-feira, disponível diretamente no catálogo do Apple TV+ para assinantes no Brasil."
-    },
-    {
-      "question": "A que horas o episódio 9 fica disponível no streaming?",
-      "answer": "No Brasil, os episódios do Apple TV+ geralmente são liberados a partir das 22h (horario de Brasilia) com opção de áudio original legendado e dublagem em português."
-    },
-    {
-      "question": "Quantos episódios tem a temporada de Materia Escura?",
-      "answer": "A temporada conta com um total de 9 episódios exibidos semanalmente, culminando no aguardado Season Finale."
-    }
-  ],
-  "scheduledFor": "2026-10-21T12:00:00Z"
+  }
 }

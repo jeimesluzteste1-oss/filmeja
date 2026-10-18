@@ -1,0 +1,52 @@
+{
+  "id": "post-1792348421-6-2",
+  "slug": "5-filmes-parecidos-com-pobres-criaturas-para-assistir-depois",
+  "title": "5 Filmes Parecidos com Pobres Criaturas com Humor Ácido e Fantasia Autoral",
+  "subtitle": "Para quem se encantou com a Bella Baxter de Emma Stone e a direção visionária de Yorgos Lanthimos.",
+  "type": "list",
+  "genres": [
+    "Cinema Autoral",
+    "Comédia Ácida",
+    "Fantasia"
+  ],
+  "publishedAt": "2026-10-24T19:00:00Z",
+  "scheduledFor": "2026-10-24T19:00:00Z",
+  "updatedAt": "2026-10-24T19:00:00Z",
+  "author": {
+    "name": "Lucas Andrade",
+    "role": "Crítico Sênior & Editor-Chefe",
+    "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=100&auto=format&fit=crop&q=80"
+  },
+  "coverImage": "https://image.tmdb.org/t/p/w500/kCGlIMHnOm8JPXq3rXM6c5wMxcT.jpg",
+  "posterImage": "https://image.tmdb.org/t/p/w500/kCGlIMHnOm8JPXq3rXM6c5wMxcT.jpg",
+  "readingTime": "5 min de leitura",
+  "seo": {
+    "metaTitle": "5 Filmes Parecidos com Pobres Criaturas com Humor Ácido | FilmeJá",
+    "metaDescription": "Para quem se encantou com a Bella Baxter de Emma Stone e a direção visionária de Yorgos Lanthimos.",
+    "keywords": [
+      "5 filmes parecidos com pobres criaturas para assistir depois",
+      "5 filmes parecidos com pobres criaturas com humor ácido e fantasia autoral",
+      "onde assistir 5",
+      "filmeja cinema e streaming"
+    ]
+  },
+  "content": "Vencedor de múltiplos prêmios do Oscar, Pobres Criaturas desafia todas as convenções visuais e morais. Veja obras com a mesma audácia artística.",
+  "faqs": [
+    {
+      "question": "Onde assistir a Pobres Criaturas?",
+      "answer": "Disponível no catálogo do Disney+ no Brasil."
+    }
+  ],
+  "listItems": [
+    {
+      "rank": 1,
+      "title": "A Favorita",
+      "year": 2018,
+      "whereToWatch": [
+        "Disney+"
+      ],
+      "score": 9.3,
+      "posterImage": "https://image.tmdb.org/t/p/w500/kCGlIMHnOm8JPXq3rXM6c5wMxcT.jpg"
+    }
+  ]
+}

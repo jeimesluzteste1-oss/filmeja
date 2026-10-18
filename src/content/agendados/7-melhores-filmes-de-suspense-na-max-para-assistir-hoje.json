@@ -1,0 +1,52 @@
+{
+  "id": "post-1792348421-1-3",
+  "slug": "7-melhores-filmes-de-suspense-na-max-para-assistir-hoje",
+  "title": "7 Melhores Filmes de Suspense na Max para Assistir Hoje em 2026",
+  "subtitle": "Uma curadoria com os thrillers mais tensos e inteligentes disponíveis para os assinantes da Max no Brasil.",
+  "type": "streaming",
+  "genres": [
+    "Suspense",
+    "Max",
+    "Dicas de Streaming"
+  ],
+  "publishedAt": "2026-10-19T22:30:00Z",
+  "scheduledFor": "2026-10-19T22:30:00Z",
+  "updatedAt": "2026-10-19T22:30:00Z",
+  "author": {
+    "name": "Guilherme Santos",
+    "role": "Editor de Thrillers & Policiais",
+    "avatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=100&auto=format&fit=crop&q=80"
+  },
+  "coverImage": "https://image.tmdb.org/t/p/w500/erl801HYIodoIBGZeFk0GTwCUBh.jpg",
+  "posterImage": "https://image.tmdb.org/t/p/w500/erl801HYIodoIBGZeFk0GTwCUBh.jpg",
+  "readingTime": "6 min de leitura",
+  "seo": {
+    "metaTitle": "7 Melhores Filmes de Suspense na Max para Assistir Hoje | FilmeJá",
+    "metaDescription": "Uma curadoria com os thrillers mais tensos e inteligentes disponíveis para os assinantes da Max no Brasil.",
+    "keywords": [
+      "7 melhores filmes de suspense na max para assistir hoje",
+      "7 melhores filmes de suspense na max para assistir hoje em 2026",
+      "onde assistir 7",
+      "filmeja cinema e streaming"
+    ]
+  },
+  "content": "A Max abriga alguns dos maiores clássicos contemporâneos de suspense do cinema da Warner e produções independentes premiadas.",
+  "faqs": [
+    {
+      "question": "Quais são os suspenses imperdíveis da Max?",
+      "answer": "Destaques incluem Ilha do Medo, Garota Exemplar e Os Suspeitos."
+    }
+  ],
+  "listItems": [
+    {
+      "rank": 1,
+      "title": "Ilha do Medo",
+      "year": 2010,
+      "whereToWatch": [
+        "Max"
+      ],
+      "score": 9.3,
+      "posterImage": "https://image.tmdb.org/t/p/w500/erl801HYIodoIBGZeFk0GTwCUBh.jpg"
+    }
+  ]
+}

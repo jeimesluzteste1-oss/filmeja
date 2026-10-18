@@ -1,17 +1,18 @@
 {
-  "id": "post-1792345725",
+  "id": "post-1792348421-5-0",
   "slug": "que-dia-sai-episodio-1-de-stranger-things-temporada-5-data-horario",
-  "title": "Que Dia Sai o Episódio 1 de Stranger Things? Data, Horário e Calendário Completo na Netflix",
-  "subtitle": "Confira a data e o horário exato de lançamento do novo episódio da 5ª temporada de Stranger Things, o que esperar da continuação e o cronograma de exibição no Brasil.",
+  "title": "Que Dia Sai o Episódio 1 de Stranger Things (5ª Temporada)? Data e Horário na Netflix",
+  "subtitle": "A batalha final por Hawkins e a derrota definitiva do Vecna no encerramento da maior série da Netflix.",
   "type": "episodio",
   "genres": [
     "Séries",
     "Netflix",
-    "Lançamentos",
-    "Calendário de Episódios"
+    "Sci-Fi",
+    "Terror Anos 80"
   ],
-  "publishedAt": "2026-10-23T12:00:00Z",
-  "updatedAt": "2026-10-23T12:00:00Z",
+  "publishedAt": "2026-10-23T11:00:00Z",
+  "scheduledFor": "2026-10-23T11:00:00Z",
+  "updatedAt": "2026-10-23T11:00:00Z",
   "author": {
     "name": "Marcos Vinicius",
     "role": "Especialista em Séries & Lançamentos Semanais",
@@ -21,39 +22,29 @@
   "posterImage": "https://image.tmdb.org/t/p/w500/49WJfeN0moxb9IPfGn8AIqMGskD.jpg",
   "readingTime": "4 min de leitura",
   "seo": {
-    "metaTitle": "Que Dia Sai o Episódio 1 de Stranger Things? Horário e Data | FilmeJá",
-    "metaDescription": "Saiba quando sai o episódio 1 da 5ª temporada de Stranger Things na Netflix. Horário de estreia no Brasil, resumo sem spoilers e calendário semanal.",
+    "metaTitle": "Que Dia Sai o Episódio 1 de Stranger Things (5ª Tempora | FilmeJá",
+    "metaDescription": "A batalha final por Hawkins e a derrota definitiva do Vecna no encerramento da maior série da Netflix.",
     "keywords": [
-      "que dia sai o episodio 1 de stranger things",
-      "quando sai novo episodio de stranger things",
-      "stranger things episodio 1 data",
-      "stranger things horario de lancamento brasil",
-      "calendario de episodios stranger things"
+      "que dia sai episodio 1 de stranger things temporada 5 data horario",
+      "que dia sai o episódio 1 de stranger things (5ª temporada)? data e horário na netflix",
+      "onde assistir que",
+      "filmeja cinema e streaming"
     ]
   },
+  "content": "Com episódios em escala cinematográfica, a 5ª e última temporada de Stranger Things encerra uma década de fenômeno cultural.",
+  "faqs": [
+    {
+      "question": "Quantos episódios terá a temporada final de Stranger Things?",
+      "answer": "Serão 8 episódios de longa duração com o season finale ultrapassando 2 horas."
+    }
+  ],
   "seriesInfo": {
     "seriesTitle": "Stranger Things",
     "seasonNumber": 5,
     "episodeNumber": 1,
     "nextEpisodeDate": "novembro",
-    "nextEpisodeTime": "04h da manha (horario de Brasilia)",
+    "nextEpisodeTime": "04h da manhã",
     "platform": "Netflix",
-    "totalEpisodes": 9
-  },
-  "content": "A corrida para descobrir o desfecho de Stranger Things transformou as noites de lançamento em um verdadeiro evento para os fãs de séries no Brasil. Se você está acompanhando semanalmente pelo catálogo da Netflix, detalhamos abaixo a data confirmada, o horário exato em que o episódio fica disponível com dublagem e legendas e o que esperar dos próximos desdobramentos.",
-  "faqs": [
-    {
-      "question": "Que dia sai o episódio 1 de Stranger Things no Brasil?",
-      "answer": "O novo episódio estreia oficialmente em novembro, disponível diretamente no catálogo do Netflix para assinantes no Brasil."
-    },
-    {
-      "question": "A que horas o episódio 1 fica disponível no streaming?",
-      "answer": "No Brasil, os episódios do Netflix geralmente são liberados a partir das 04h da manha (horario de Brasilia) com opção de áudio original legendado e dublagem em português."
-    },
-    {
-      "question": "Quantos episódios tem a temporada de Stranger Things?",
-      "answer": "A temporada conta com um total de 9 episódios exibidos semanalmente, culminando no aguardado Season Finale."
-    }
-  ],
-  "scheduledFor": "2026-10-23T12:00:00Z"
+    "totalEpisodes": 8
+  }
 }

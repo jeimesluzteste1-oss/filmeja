@@ -2,8 +2,8 @@ name: Publicar Posts Agendados
 
 on:
   schedule:
-    # Executa todos os dias às 12:00 UTC (09:00 Horário de Brasília)
-    - cron: '0 12 * * *'
+    # Executa 4 vezes ao dia nos horários de pico (08h, 12h, 16h e 20h de Brasília)
+    - cron: '0 11,15,19,23 * * *'
   workflow_dispatch: # Permite disparar manualmente pelo painel do GitHub Actions
 
 permissions:
